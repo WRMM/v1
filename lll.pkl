@@ -1,0 +1,2840 @@
+(lp0
+(I-1
+S'In vivo studies of the activity of four of the kinases , KinA , KinC , KinD ( ykvD ) and KinE ( ykrQ ) , using abrB transcription as an indicator of Spo0A ~ P level , revealed that KinC and KinD were responsible for Spo0A ~ P production during the exponential phase of growth in the absence of KinA and KinB .'
+p1
+(lp2
+I40
+a(lp3
+I42
+atp4
+a(I1
+S'In vivo studies of the activity of four of the kinases , KinA , KinC , KinD ( ykvD ) and KinE ( ykrQ ) , using abrB transcription as an indicator of Spo0A ~ P level , revealed that KinC and KinD were responsible for Spo0A ~ P production during the exponential phase of growth in the absence of KinA and KinB .'
+p5
+(lp6
+I40
+a(lp7
+I46
+aI47
+aI48
+atp8
+a(I1
+S'In vivo studies of the activity of four of the kinases , KinA , KinC , KinD ( ykvD ) and KinE ( ykrQ ) , using abrB transcription as an indicator of Spo0A ~ P level , revealed that KinC and KinD were responsible for Spo0A ~ P production during the exponential phase of growth in the absence of KinA and KinB .'
+p9
+(lp10
+I42
+a(lp11
+I46
+aI47
+aI48
+atp12
+a(I-1
+S'In this mutant , expression of the spoIIG gene , whose transcription depends on both sigma ( A ) and the phosphorylated Spo0A protein , Spo0A ~ P , a major transcription factor during early stages of sporulation , was greatly reduced at 43 degrees C .'
+p13
+(lp14
+I15
+aI16
+aI17
+aI18
+a(lp15
+I22
+atp16
+a(I1
+S'In this mutant , expression of the spoIIG gene , whose transcription depends on both sigma ( A ) and the phosphorylated Spo0A protein , Spo0A ~ P , a major transcription factor during early stages of sporulation , was greatly reduced at 43 degrees C .'
+p17
+(lp18
+I7
+a(lp19
+I15
+aI16
+aI17
+aI18
+atp20
+a(I1
+S'In this mutant , expression of the spoIIG gene , whose transcription depends on both sigma ( A ) and the phosphorylated Spo0A protein , Spo0A ~ P , a major transcription factor during early stages of sporulation , was greatly reduced at 43 degrees C .'
+p21
+(lp22
+I7
+a(lp23
+I22
+atp24
+a(I1
+S'Transcription of ydhD was dependent on SigE , and the mRNA was detectable from 2 h after the cessation of logarithmic growth ( T2 of sporulation ) .'
+p25
+(lp26
+I2
+a(lp27
+I6
+atp28
+a(I1
+S'ykuD was transcribed by SigK RNA polymerase from T4 of sporulation .'
+p29
+(lp30
+I0
+a(lp31
+I4
+atp32
+a(I-1
+S'Both SigK and GerE were essential for ykvP expression , and this gene was transcribed from T5 of sporulation .'
+p33
+(lp34
+I1
+a(lp35
+I3
+atp36
+a(I1
+S'Both SigK and GerE were essential for ykvP expression , and this gene was transcribed from T5 of sporulation .'
+p37
+(lp38
+I1
+a(lp39
+I7
+atp40
+a(I1
+S'Both SigK and GerE were essential for ykvP expression , and this gene was transcribed from T5 of sporulation .'
+p41
+(lp42
+I3
+a(lp43
+I7
+atp44
+a(I-1
+S'Analysis of the expression of a translational ywhE - lacZ fusion showed that ywhE expression is sporulation - specific , and is controlled predominantly by the forespore - specific sigma factor sigma ( F ) , and to a lesser extent by sigma ( G ) .'
+p45
+(lp46
+I31
+aI32
+aI33
+aI34
+a(lp47
+I42
+aI43
+aI44
+aI45
+atp48
+a(I1
+S'Analysis of the expression of a translational ywhE - lacZ fusion showed that ywhE expression is sporulation - specific , and is controlled predominantly by the forespore - specific sigma factor sigma ( F ) , and to a lesser extent by sigma ( G ) .'
+p49
+(lp50
+I13
+a(lp51
+I31
+aI32
+aI33
+aI34
+atp52
+a(I1
+S'Analysis of the expression of a translational ywhE - lacZ fusion showed that ywhE expression is sporulation - specific , and is controlled predominantly by the forespore - specific sigma factor sigma ( F ) , and to a lesser extent by sigma ( G ) .'
+p53
+(lp54
+I13
+a(lp55
+I42
+aI43
+aI44
+aI45
+atp56
+a(I1
+S'Secondly , SpoIIE is essential for the activation of the first compartment - specific transcription factor sigma ( F ) in the prespore .'
+p57
+(lp58
+I2
+a(lp59
+I16
+aI17
+aI18
+aI19
+atp60
+a(I1
+S'Localization of SpoIIE was shown to be dependent on the essential cell division protein FtsZ .'
+p61
+(lp62
+I2
+a(lp63
+I14
+atp64
+a(I1
+S'In the shaA mutant , sigma ( H ) - dependent expression of spo0A and spoVG at an early stage of sporulation was sensitive to external NaCl .'
+p65
+(lp66
+I5
+aI6
+aI7
+aI8
+a(lp67
+I13
+atp68
+a(I1
+S'In the shaA mutant , sigma ( H ) - dependent expression of spo0A and spoVG at an early stage of sporulation was sensitive to external NaCl .'
+p69
+(lp70
+I5
+aI6
+aI7
+aI8
+a(lp71
+I15
+atp72
+a(I-1
+S'In the shaA mutant , sigma ( H ) - dependent expression of spo0A and spoVG at an early stage of sporulation was sensitive to external NaCl .'
+p73
+(lp74
+I13
+a(lp75
+I15
+atp76
+a(I-1
+S'The expression of rsfA is under the control of both sigma ( F ) and sigma ( G ) .'
+p77
+(lp78
+I10
+aI11
+aI12
+aI13
+a(lp79
+I15
+aI16
+aI17
+aI18
+atp80
+a(I1
+S'The expression of rsfA is under the control of both sigma ( F ) and sigma ( G ) .'
+p81
+(lp82
+I3
+a(lp83
+I10
+aI11
+aI12
+aI13
+atp84
+a(I1
+S'The expression of rsfA is under the control of both sigma ( F ) and sigma ( G ) .'
+p85
+(lp86
+I3
+a(lp87
+I15
+aI16
+aI17
+aI18
+atp88
+a(I-1
+S'Expression of the sigma ( K ) - dependent cwlH gene depended on gerE .'
+p89
+(lp90
+I3
+aI4
+aI5
+aI6
+a(lp91
+I13
+atp92
+a(I1
+S'Expression of the sigma ( K ) - dependent cwlH gene depended on gerE .'
+p93
+(lp94
+I3
+aI4
+aI5
+aI6
+a(lp95
+I9
+atp96
+a(I1
+S'Expression of the sigma ( K ) - dependent cwlH gene depended on gerE .'
+p97
+(lp98
+I9
+a(lp99
+I13
+atp100
+a(I1
+S'Our results indicate that the level of KatX level in outgrowing spores depends mainly on EsigmaF , because sigB mutants show normal KatX activity in dormant and outgrowing spores .'
+p101
+(lp102
+I7
+a(lp103
+I15
+atp104
+a(I1
+S'Therefore , the physiological role of sigmaB - dependent katX expression remains obscure .'
+p105
+(lp106
+I6
+a(lp107
+I9
+atp108
+a(I-1
+S'The - 10 and - 35 sequences of the sigmaB - and sigmaF - dependent promoters of katX overlap , and the transcriptional start points used by EsigmaB and EsigmaF differ by only one nucleotide .'
+p109
+(lp110
+I9
+a(lp111
+I12
+atp112
+a(I1
+S'The - 10 and - 35 sequences of the sigmaB - and sigmaF - dependent promoters of katX overlap , and the transcriptional start points used by EsigmaB and EsigmaF differ by only one nucleotide .'
+p113
+(lp114
+I9
+a(lp115
+I17
+atp116
+a(I1
+S'The - 10 and - 35 sequences of the sigmaB - and sigmaF - dependent promoters of katX overlap , and the transcriptional start points used by EsigmaB and EsigmaF differ by only one nucleotide .'
+p117
+(lp118
+I12
+a(lp119
+I17
+atp120
+a(I1
+S'We demonstrated that katX is also a sigmaB - dependent general stress gene , since it is strongly induced by heat , salt and ethanol stress , as well as by energy depletion .'
+p121
+(lp122
+I3
+a(lp123
+I7
+atp124
+a(I1
+S'Taken together , the results support the idea that sequestration of SpoIIE protein into the prespore plays an important role in the control of sigmaF activation and in coupling this activation to septation .'
+p125
+(lp126
+I11
+a(lp127
+I24
+atp128
+a(I-1
+S'sigmaF is controlled by a regulatory cascade involving an anti - sigma factor , SpoIIAB , an anti - anti - sigma factor , SpoIIAA , and a membrane - bound phosphatase , SpoIIE , which converts the inactive , phosphorylated form of SpoIIAA back to the active form .'
+p129
+(lp130
+I14
+a(lp131
+I24
+atp132
+a(I-1
+S'sigmaF is controlled by a regulatory cascade involving an anti - sigma factor , SpoIIAB , an anti - anti - sigma factor , SpoIIAA , and a membrane - bound phosphatase , SpoIIE , which converts the inactive , phosphorylated form of SpoIIAA back to the active form .'
+p133
+(lp134
+I14
+a(lp135
+I33
+atp136
+a(I1
+S'sigmaF is controlled by a regulatory cascade involving an anti - sigma factor , SpoIIAB , an anti - anti - sigma factor , SpoIIAA , and a membrane - bound phosphatase , SpoIIE , which converts the inactive , phosphorylated form of SpoIIAA back to the active form .'
+p137
+(lp138
+I0
+a(lp139
+I14
+atp140
+a(I-1
+S'sigmaF is controlled by a regulatory cascade involving an anti - sigma factor , SpoIIAB , an anti - anti - sigma factor , SpoIIAA , and a membrane - bound phosphatase , SpoIIE , which converts the inactive , phosphorylated form of SpoIIAA back to the active form .'
+p141
+(lp142
+I14
+a(lp143
+I43
+atp144
+a(I-1
+S'sigmaF is controlled by a regulatory cascade involving an anti - sigma factor , SpoIIAB , an anti - anti - sigma factor , SpoIIAA , and a membrane - bound phosphatase , SpoIIE , which converts the inactive , phosphorylated form of SpoIIAA back to the active form .'
+p145
+(lp146
+I24
+a(lp147
+I33
+atp148
+a(I1
+S'sigmaF is controlled by a regulatory cascade involving an anti - sigma factor , SpoIIAB , an anti - anti - sigma factor , SpoIIAA , and a membrane - bound phosphatase , SpoIIE , which converts the inactive , phosphorylated form of SpoIIAA back to the active form .'
+p149
+(lp150
+I0
+a(lp151
+I24
+atp152
+a(I-1
+S'sigmaF is controlled by a regulatory cascade involving an anti - sigma factor , SpoIIAB , an anti - anti - sigma factor , SpoIIAA , and a membrane - bound phosphatase , SpoIIE , which converts the inactive , phosphorylated form of SpoIIAA back to the active form .'
+p153
+(lp154
+I24
+a(lp155
+I43
+atp156
+a(I1
+S'sigmaF is controlled by a regulatory cascade involving an anti - sigma factor , SpoIIAB , an anti - anti - sigma factor , SpoIIAA , and a membrane - bound phosphatase , SpoIIE , which converts the inactive , phosphorylated form of SpoIIAA back to the active form .'
+p157
+(lp158
+I0
+a(lp159
+I33
+atp160
+a(I1
+S'sigmaF is controlled by a regulatory cascade involving an anti - sigma factor , SpoIIAB , an anti - anti - sigma factor , SpoIIAA , and a membrane - bound phosphatase , SpoIIE , which converts the inactive , phosphorylated form of SpoIIAA back to the active form .'
+p161
+(lp162
+I33
+a(lp163
+I43
+atp164
+a(I-1
+S'sigmaF is controlled by a regulatory cascade involving an anti - sigma factor , SpoIIAB , an anti - anti - sigma factor , SpoIIAA , and a membrane - bound phosphatase , SpoIIE , which converts the inactive , phosphorylated form of SpoIIAA back to the active form .'
+p165
+(lp166
+I0
+a(lp167
+I43
+atp168
+a(I-1
+S'The rocG gene of Bacillus subtilis , encoding a catabolic glutamate dehydrogenase , is transcribed by SigL - containing RNA polymerase and requires for its expression RocR , a member of the NtrC / NifA family of proteins that bind to enhancer - like elements , called upstream activating sequences ( UAS ) .'
+p169
+(lp170
+I16
+a(lp171
+I26
+atp172
+a(I1
+S'The rocG gene of Bacillus subtilis , encoding a catabolic glutamate dehydrogenase , is transcribed by SigL - containing RNA polymerase and requires for its expression RocR , a member of the NtrC / NifA family of proteins that bind to enhancer - like elements , called upstream activating sequences ( UAS ) .'
+p173
+(lp174
+I1
+a(lp175
+I16
+atp176
+a(I1
+S'The rocG gene of Bacillus subtilis , encoding a catabolic glutamate dehydrogenase , is transcribed by SigL - containing RNA polymerase and requires for its expression RocR , a member of the NtrC / NifA family of proteins that bind to enhancer - like elements , called upstream activating sequences ( UAS ) .'
+p177
+(lp178
+I1
+a(lp179
+I26
+atp180
+a(I1
+S'Unlike the case for other sigma ( 54 ) - dependent genes , rocG has no UAS ; instead , its expression depends on a sequence located 1 . 5 kilobases downstream of the rocG promoter , beyond the end of the rocG coding region .'
+p181
+(lp182
+I5
+aI6
+aI7
+aI8
+a(lp183
+I13
+atp184
+a(I1
+S'In addition to controlling transcription of phrC , sigmaH appears to control expression of at least one other gene required for production of CSF .'
+p185
+(lp186
+I6
+a(lp187
+I8
+atp188
+a(I1
+S'Northern blot and primer extension analyses indicated that yfhS is transcribed by E sigma E during sporulation .'
+p189
+(lp190
+I8
+a(lp191
+I12
+aI13
+aI14
+atp192
+a(I1
+S'These results suggest that YfhP may act as a negative regulator for the transcription of yfhQ , yfhR , sspE and yfhP .'
+p193
+(lp194
+I4
+a(lp195
+I15
+atp196
+a(I1
+S'These results suggest that YfhP may act as a negative regulator for the transcription of yfhQ , yfhR , sspE and yfhP .'
+p197
+(lp198
+I4
+a(lp199
+I17
+atp200
+a(I1
+S'These results suggest that YfhP may act as a negative regulator for the transcription of yfhQ , yfhR , sspE and yfhP .'
+p201
+(lp202
+I4
+a(lp203
+I19
+atp204
+a(I1
+S'These results suggest that YfhP may act as a negative regulator for the transcription of yfhQ , yfhR , sspE and yfhP .'
+p205
+(lp206
+I4
+a(lp207
+I21
+atp208
+a(I-1
+S'These results suggest that YfhP may act as a negative regulator for the transcription of yfhQ , yfhR , sspE and yfhP .'
+p209
+(lp210
+I15
+a(lp211
+I17
+atp212
+a(I-1
+S'These results suggest that YfhP may act as a negative regulator for the transcription of yfhQ , yfhR , sspE and yfhP .'
+p213
+(lp214
+I15
+a(lp215
+I19
+atp216
+a(I-1
+S'These results suggest that YfhP may act as a negative regulator for the transcription of yfhQ , yfhR , sspE and yfhP .'
+p217
+(lp218
+I15
+a(lp219
+I21
+atp220
+a(I-1
+S'These results suggest that YfhP may act as a negative regulator for the transcription of yfhQ , yfhR , sspE and yfhP .'
+p221
+(lp222
+I17
+a(lp223
+I19
+atp224
+a(I-1
+S'These results suggest that YfhP may act as a negative regulator for the transcription of yfhQ , yfhR , sspE and yfhP .'
+p225
+(lp226
+I17
+a(lp227
+I21
+atp228
+a(I-1
+S'These results suggest that YfhP may act as a negative regulator for the transcription of yfhQ , yfhR , sspE and yfhP .'
+p229
+(lp230
+I19
+a(lp231
+I21
+atp232
+a(I1
+S'Production of sigmaK about 1 h earlier than normal does affect Spo0A , which when phosphorylated is an activator of sigE transcription .'
+p233
+(lp234
+I2
+a(lp235
+I11
+atp236
+a(I-1
+S'Production of sigmaK about 1 h earlier than normal does affect Spo0A , which when phosphorylated is an activator of sigE transcription .'
+p237
+(lp238
+I2
+a(lp239
+I20
+atp240
+a(I1
+S'Production of sigmaK about 1 h earlier than normal does affect Spo0A , which when phosphorylated is an activator of sigE transcription .'
+p241
+(lp242
+I11
+a(lp243
+I20
+atp244
+a(I-1
+S'The ald promoter , like the sigE promoter , is believed to be recognized by sigmaA RNA polymerase , suggesting that sigmaK may inhibit sigmaA activity late in sporulation .'
+p245
+(lp246
+I15
+a(lp247
+I21
+atp248
+a(I1
+S'The ald promoter , like the sigE promoter , is believed to be recognized by sigmaA RNA polymerase , suggesting that sigmaK may inhibit sigmaA activity late in sporulation .'
+p249
+(lp250
+I1
+a(lp251
+I15
+atp252
+a(I1
+S'The ald promoter , like the sigE promoter , is believed to be recognized by sigmaA RNA polymerase , suggesting that sigmaK may inhibit sigmaA activity late in sporulation .'
+p253
+(lp254
+I6
+a(lp255
+I15
+atp256
+a(I-1
+S'The ald promoter , like the sigE promoter , is believed to be recognized by sigmaA RNA polymerase , suggesting that sigmaK may inhibit sigmaA activity late in sporulation .'
+p257
+(lp258
+I15
+a(lp259
+I24
+atp260
+a(I-1
+S'The ald promoter , like the sigE promoter , is believed to be recognized by sigmaA RNA polymerase , suggesting that sigmaK may inhibit sigmaA activity late in sporulation .'
+p261
+(lp262
+I1
+a(lp263
+I21
+atp264
+a(I-1
+S'The ald promoter , like the sigE promoter , is believed to be recognized by sigmaA RNA polymerase , suggesting that sigmaK may inhibit sigmaA activity late in sporulation .'
+p265
+(lp266
+I6
+a(lp267
+I21
+atp268
+a(I1
+S'The ald promoter , like the sigE promoter , is believed to be recognized by sigmaA RNA polymerase , suggesting that sigmaK may inhibit sigmaA activity late in sporulation .'
+p269
+(lp270
+I21
+a(lp271
+I24
+atp272
+a(I-1
+S'The ald promoter , like the sigE promoter , is believed to be recognized by sigmaA RNA polymerase , suggesting that sigmaK may inhibit sigmaA activity late in sporulation .'
+p273
+(lp274
+I1
+a(lp275
+I6
+atp276
+a(I-1
+S'The ald promoter , like the sigE promoter , is believed to be recognized by sigmaA RNA polymerase , suggesting that sigmaK may inhibit sigmaA activity late in sporulation .'
+p277
+(lp278
+I1
+a(lp279
+I24
+atp280
+a(I-1
+S'The ald promoter , like the sigE promoter , is believed to be recognized by sigmaA RNA polymerase , suggesting that sigmaK may inhibit sigmaA activity late in sporulation .'
+p281
+(lp282
+I6
+a(lp283
+I24
+atp284
+a(I1
+S'In the mother cell compartment of sporulating cells , expression of the sigE gene , encoding the earlier - acting sigma factor , sigmaE , is negatively regulated by the later - acting sigma factor , sigmaK .'
+p285
+(lp286
+I12
+a(lp287
+I36
+atp288
+a(I-1
+S'The first stage , which involves the phosphatase function of SpoIIE , depends on the cell division protein FtsZ and could correspond to the FtsZ - dependent assembly of SpoIIE into E - rings .'
+p289
+(lp290
+I18
+a(lp291
+I24
+atp292
+a(I1
+S'The first stage , which involves the phosphatase function of SpoIIE , depends on the cell division protein FtsZ and could correspond to the FtsZ - dependent assembly of SpoIIE into E - rings .'
+p293
+(lp294
+I10
+a(lp295
+I18
+atp296
+a(I-1
+S'The first stage , which involves the phosphatase function of SpoIIE , depends on the cell division protein FtsZ and could correspond to the FtsZ - dependent assembly of SpoIIE into E - rings .'
+p297
+(lp298
+I18
+a(lp299
+I29
+atp300
+a(I-1
+S'The first stage , which involves the phosphatase function of SpoIIE , depends on the cell division protein FtsZ and could correspond to the FtsZ - dependent assembly of SpoIIE into E - rings .'
+p301
+(lp302
+I10
+a(lp303
+I24
+atp304
+a(I1
+S'The first stage , which involves the phosphatase function of SpoIIE , depends on the cell division protein FtsZ and could correspond to the FtsZ - dependent assembly of SpoIIE into E - rings .'
+p305
+(lp306
+I24
+a(lp307
+I29
+atp308
+a(I-1
+S'The first stage , which involves the phosphatase function of SpoIIE , depends on the cell division protein FtsZ and could correspond to the FtsZ - dependent assembly of SpoIIE into E - rings .'
+p309
+(lp310
+I10
+a(lp311
+I29
+atp312
+a(I1
+S'Evidence based on the use of modified and mutant forms of the phosphatase protein indicates that SpoIIE blocks the capacity of unphosphorylated SpoIIAA to activate sigmaF until formation of the polar septum is completed .'
+p313
+(lp314
+I16
+a(lp315
+I22
+atp316
+a(I-1
+S'Evidence based on the use of modified and mutant forms of the phosphatase protein indicates that SpoIIE blocks the capacity of unphosphorylated SpoIIAA to activate sigmaF until formation of the polar septum is completed .'
+p317
+(lp318
+I16
+a(lp319
+I25
+atp320
+a(I1
+S'Evidence based on the use of modified and mutant forms of the phosphatase protein indicates that SpoIIE blocks the capacity of unphosphorylated SpoIIAA to activate sigmaF until formation of the polar septum is completed .'
+p321
+(lp322
+I22
+a(lp323
+I25
+atp324
+a(I1
+S'Cell - specific activation of transcription factor sigmaF during sporulation in Bacillus subtilis requires the formation of the polar septum and the activity of a serine phosphatase ( SpoIIE ) located in the septum .'
+p325
+(lp326
+I7
+a(lp327
+I28
+atp328
+a(I1
+S'The SpoIIE phosphatase indirectly activates sigmaF by dephosphorylating a protein ( SpoIIAA - P ) in the pathway that controls the activity of the transcription factor .'
+p329
+(lp330
+I1
+a(lp331
+I11
+aI12
+aI13
+atp332
+a(I1
+S'The SpoIIE phosphatase indirectly activates sigmaF by dephosphorylating a protein ( SpoIIAA - P ) in the pathway that controls the activity of the transcription factor .'
+p333
+(lp334
+I1
+a(lp335
+I5
+atp336
+a(I1
+S'The SpoIIE phosphatase indirectly activates sigmaF by dephosphorylating a protein ( SpoIIAA - P ) in the pathway that controls the activity of the transcription factor .'
+p337
+(lp338
+I5
+a(lp339
+I11
+aI12
+aI13
+atp340
+a(I1
+S'Dephosphorylation of SpoIIAA - P by SpoIIE is strictly dependent on the presence of the bivalent metal ions Mn2 + or Mg2 + .'
+p341
+(lp342
+I2
+aI3
+aI4
+a(lp343
+I6
+atp344
+a(I1
+S'( i ) The finding that the bmrUR operon is under sigmaB control indicates that the elimination of multidrug compounds might be a new function in multiple stress resistance .'
+p345
+(lp346
+I7
+a(lp347
+I11
+atp348
+a(I1
+S'The ydaP gene might belong to the increasing number of sigmaB - dependent genes whose orthologues are under the control of sigmas in Escherichia coli , indicating that both regulons may fulfil similar functions .'
+p349
+(lp350
+I1
+a(lp351
+I10
+atp352
+a(I1
+S'Three new sigmaB - dependent genes ( ydaE , ydaG and yfkM ) encoding proteins with still unknown functions were also described .'
+p353
+(lp354
+I2
+a(lp355
+I7
+atp356
+a(I1
+S'Three new sigmaB - dependent genes ( ydaE , ydaG and yfkM ) encoding proteins with still unknown functions were also described .'
+p357
+(lp358
+I2
+a(lp359
+I9
+atp360
+a(I1
+S'Three new sigmaB - dependent genes ( ydaE , ydaG and yfkM ) encoding proteins with still unknown functions were also described .'
+p361
+(lp362
+I2
+a(lp363
+I11
+atp364
+a(I-1
+S'Three new sigmaB - dependent genes ( ydaE , ydaG and yfkM ) encoding proteins with still unknown functions were also described .'
+p365
+(lp366
+I7
+a(lp367
+I9
+atp368
+a(I-1
+S'Three new sigmaB - dependent genes ( ydaE , ydaG and yfkM ) encoding proteins with still unknown functions were also described .'
+p369
+(lp370
+I7
+a(lp371
+I11
+atp372
+a(I-1
+S'Three new sigmaB - dependent genes ( ydaE , ydaG and yfkM ) encoding proteins with still unknown functions were also described .'
+p373
+(lp374
+I9
+a(lp375
+I11
+atp376
+a(I1
+S'Cell specificity is first established in the forespore under the control of the sigma F factor , which is itself activated through the action of the SpoIIE serine phosphatase , an enzyme targeted to the septum between the two cells .'
+p377
+(lp378
+I13
+aI14
+a(lp379
+I26
+atp380
+a(I1
+S'Most cot genes , and the gerE gene , are transcribed by sigmaK RNA polymerase .'
+p381
+(lp382
+I1
+a(lp383
+I12
+atp384
+a(I1
+S'Most cot genes , and the gerE gene , are transcribed by sigmaK RNA polymerase .'
+p385
+(lp386
+I6
+a(lp387
+I12
+atp388
+a(I-1
+S'Most cot genes , and the gerE gene , are transcribed by sigmaK RNA polymerase .'
+p389
+(lp390
+I1
+a(lp391
+I6
+atp392
+a(I1
+S'Previously , it was shown that the GerE protein inhibits transcription in vitro of the sigK gene encoding sigmaK .'
+p393
+(lp394
+I7
+a(lp395
+I15
+atp396
+a(I-1
+S'These results demonstrate that sigmaK - dependent transcription of gerE initiates a negative feedback loop in which GerE acts as a repressor to limit production of sigmaK .'
+p397
+(lp398
+I4
+a(lp399
+I17
+atp400
+a(I1
+S'These results demonstrate that sigmaK - dependent transcription of gerE initiates a negative feedback loop in which GerE acts as a repressor to limit production of sigmaK .'
+p401
+(lp402
+I4
+a(lp403
+I9
+atp404
+a(I-1
+S'These results demonstrate that sigmaK - dependent transcription of gerE initiates a negative feedback loop in which GerE acts as a repressor to limit production of sigmaK .'
+p405
+(lp406
+I4
+a(lp407
+I26
+atp408
+a(I-1
+S'These results demonstrate that sigmaK - dependent transcription of gerE initiates a negative feedback loop in which GerE acts as a repressor to limit production of sigmaK .'
+p409
+(lp410
+I9
+a(lp411
+I17
+atp412
+a(I1
+S'These results demonstrate that sigmaK - dependent transcription of gerE initiates a negative feedback loop in which GerE acts as a repressor to limit production of sigmaK .'
+p413
+(lp414
+I17
+a(lp415
+I26
+atp416
+a(I-1
+S'These results demonstrate that sigmaK - dependent transcription of gerE initiates a negative feedback loop in which GerE acts as a repressor to limit production of sigmaK .'
+p417
+(lp418
+I9
+a(lp419
+I26
+atp420
+a(I1
+S'A low level of GerE activated transcription of cotD by sigmaK RNA polymerase in vitro , but a higher level of GerE repressed cotD transcription .'
+p421
+(lp422
+I4
+a(lp423
+I10
+atp424
+a(I-1
+S'A low level of GerE activated transcription of cotD by sigmaK RNA polymerase in vitro , but a higher level of GerE repressed cotD transcription .'
+p425
+(lp426
+I4
+a(lp427
+I21
+atp428
+a(I1
+S'A low level of GerE activated transcription of cotD by sigmaK RNA polymerase in vitro , but a higher level of GerE repressed cotD transcription .'
+p429
+(lp430
+I4
+a(lp431
+I8
+atp432
+a(I-1
+S'A low level of GerE activated transcription of cotD by sigmaK RNA polymerase in vitro , but a higher level of GerE repressed cotD transcription .'
+p433
+(lp434
+I4
+a(lp435
+I23
+atp436
+a(I-1
+S'A low level of GerE activated transcription of cotD by sigmaK RNA polymerase in vitro , but a higher level of GerE repressed cotD transcription .'
+p437
+(lp438
+I10
+a(lp439
+I21
+atp440
+a(I1
+S'A low level of GerE activated transcription of cotD by sigmaK RNA polymerase in vitro , but a higher level of GerE repressed cotD transcription .'
+p441
+(lp442
+I8
+a(lp443
+I10
+atp444
+a(I-1
+S'A low level of GerE activated transcription of cotD by sigmaK RNA polymerase in vitro , but a higher level of GerE repressed cotD transcription .'
+p445
+(lp446
+I10
+a(lp447
+I23
+atp448
+a(I-1
+S'A low level of GerE activated transcription of cotD by sigmaK RNA polymerase in vitro , but a higher level of GerE repressed cotD transcription .'
+p449
+(lp450
+I8
+a(lp451
+I21
+atp452
+a(I1
+S'A low level of GerE activated transcription of cotD by sigmaK RNA polymerase in vitro , but a higher level of GerE repressed cotD transcription .'
+p453
+(lp454
+I21
+a(lp455
+I23
+atp456
+a(I-1
+S'A low level of GerE activated transcription of cotD by sigmaK RNA polymerase in vitro , but a higher level of GerE repressed cotD transcription .'
+p457
+(lp458
+I8
+a(lp459
+I23
+atp460
+a(I1
+S'Here , we show that GerE binds near the sigK transcriptional start site , to act as a repressor .'
+p461
+(lp462
+I5
+a(lp463
+I9
+atp464
+a(I1
+S'We show that GerE binds to two sites that span the - 35 region of the cotD promoter .'
+p465
+(lp466
+I3
+a(lp467
+I16
+atp468
+a(I1
+S'These results suggest that a rising level of GerE in sporulating cells may first activate cotD transcription from the upstream site then repress transcription as the downstream site becomes occupied .'
+p469
+(lp470
+I8
+a(lp471
+I15
+atp472
+a(I1
+S'sspG transcription also requires the DNA binding protein GerE .'
+p473
+(lp474
+I0
+a(lp475
+I8
+atp476
+a(I1
+S'In contrast , sspJ is transcribed in the forespore compartment by RNA polymerase with the forespore - specific sigmaG and appears to give a monocistronic transcript .'
+p477
+(lp478
+I3
+a(lp479
+I18
+atp480
+a(I1
+S'ComK negatively controls the transcription of hag by stimulating the transcription of comF - flgM , thereby increasing the production of the FlgM antisigma factor that inhibits sigmaD activity .'
+p481
+(lp482
+I0
+a(lp483
+I22
+atp484
+a(I1
+S'ComK negatively controls the transcription of hag by stimulating the transcription of comF - flgM , thereby increasing the production of the FlgM antisigma factor that inhibits sigmaD activity .'
+p485
+(lp486
+I0
+a(lp487
+I6
+atp488
+a(I1
+S'ComK negatively controls the transcription of hag by stimulating the transcription of comF - flgM , thereby increasing the production of the FlgM antisigma factor that inhibits sigmaD activity .'
+p489
+(lp490
+I0
+a(lp491
+I12
+atp492
+a(I1
+S'ComK negatively controls the transcription of hag by stimulating the transcription of comF - flgM , thereby increasing the production of the FlgM antisigma factor that inhibits sigmaD activity .'
+p493
+(lp494
+I0
+a(lp495
+I14
+atp496
+a(I-1
+S'ComK negatively controls the transcription of hag by stimulating the transcription of comF - flgM , thereby increasing the production of the FlgM antisigma factor that inhibits sigmaD activity .'
+p497
+(lp498
+I0
+a(lp499
+I27
+atp500
+a(I-1
+S'ComK negatively controls the transcription of hag by stimulating the transcription of comF - flgM , thereby increasing the production of the FlgM antisigma factor that inhibits sigmaD activity .'
+p501
+(lp502
+I6
+a(lp503
+I22
+atp504
+a(I-1
+S'ComK negatively controls the transcription of hag by stimulating the transcription of comF - flgM , thereby increasing the production of the FlgM antisigma factor that inhibits sigmaD activity .'
+p505
+(lp506
+I12
+a(lp507
+I22
+atp508
+a(I-1
+S'ComK negatively controls the transcription of hag by stimulating the transcription of comF - flgM , thereby increasing the production of the FlgM antisigma factor that inhibits sigmaD activity .'
+p509
+(lp510
+I14
+a(lp511
+I22
+atp512
+a(I1
+S'ComK negatively controls the transcription of hag by stimulating the transcription of comF - flgM , thereby increasing the production of the FlgM antisigma factor that inhibits sigmaD activity .'
+p513
+(lp514
+I22
+a(lp515
+I27
+atp516
+a(I-1
+S'ComK negatively controls the transcription of hag by stimulating the transcription of comF - flgM , thereby increasing the production of the FlgM antisigma factor that inhibits sigmaD activity .'
+p517
+(lp518
+I6
+a(lp519
+I12
+atp520
+a(I-1
+S'ComK negatively controls the transcription of hag by stimulating the transcription of comF - flgM , thereby increasing the production of the FlgM antisigma factor that inhibits sigmaD activity .'
+p521
+(lp522
+I6
+a(lp523
+I14
+atp524
+a(I-1
+S'ComK negatively controls the transcription of hag by stimulating the transcription of comF - flgM , thereby increasing the production of the FlgM antisigma factor that inhibits sigmaD activity .'
+p525
+(lp526
+I6
+a(lp527
+I27
+atp528
+a(I-1
+S'ComK negatively controls the transcription of hag by stimulating the transcription of comF - flgM , thereby increasing the production of the FlgM antisigma factor that inhibits sigmaD activity .'
+p529
+(lp530
+I12
+a(lp531
+I14
+atp532
+a(I-1
+S'ComK negatively controls the transcription of hag by stimulating the transcription of comF - flgM , thereby increasing the production of the FlgM antisigma factor that inhibits sigmaD activity .'
+p533
+(lp534
+I12
+a(lp535
+I27
+atp536
+a(I-1
+S'ComK negatively controls the transcription of hag by stimulating the transcription of comF - flgM , thereby increasing the production of the FlgM antisigma factor that inhibits sigmaD activity .'
+p537
+(lp538
+I14
+a(lp539
+I27
+atp540
+a(I1
+S'This stress - induced increase in ykzA expression is absolutely dependent on the alternative sigma factor sigmaB , which controls a large stationary - phase and stress regulon .'
+p541
+(lp542
+I6
+a(lp543
+I16
+atp544
+a(I-1
+S'sigma X also contributes to the expression of CsbB , a putative membrane - bound glucosyl transferase that is partially controlled by the sigma B stress response sigma factor .'
+p545
+(lp546
+I0
+aI1
+a(lp547
+I23
+aI24
+atp548
+a(I1
+S'sigma X also contributes to the expression of CsbB , a putative membrane - bound glucosyl transferase that is partially controlled by the sigma B stress response sigma factor .'
+p549
+(lp550
+I0
+aI1
+a(lp551
+I8
+atp552
+a(I1
+S'sigma X also contributes to the expression of CsbB , a putative membrane - bound glucosyl transferase that is partially controlled by the sigma B stress response sigma factor .'
+p553
+(lp554
+I8
+a(lp555
+I23
+aI24
+atp556
+a(I1
+S'Transcriptional studies showed that nadE is strongly induced in response to heat , ethanol and salt stress or after starvation for glucose in a sigma B - dependent manner .'
+p557
+(lp558
+I4
+a(lp559
+I24
+aI25
+atp560
+a(I-1
+S'Furthermore , YtxH and YvyD seemed to be induced after phosphate starvation in the wild type in a sigma ( B ) - dependent manner and in the sigB mutant probably via sigma ( H ) .'
+p561
+(lp562
+I18
+aI19
+aI20
+aI21
+a(lp563
+I32
+aI33
+aI34
+aI35
+atp564
+a(I1
+S'Furthermore , YtxH and YvyD seemed to be induced after phosphate starvation in the wild type in a sigma ( B ) - dependent manner and in the sigB mutant probably via sigma ( H ) .'
+p565
+(lp566
+I2
+a(lp567
+I18
+aI19
+aI20
+aI21
+atp568
+a(I1
+S'Furthermore , YtxH and YvyD seemed to be induced after phosphate starvation in the wild type in a sigma ( B ) - dependent manner and in the sigB mutant probably via sigma ( H ) .'
+p569
+(lp570
+I4
+a(lp571
+I18
+aI19
+aI20
+aI21
+atp572
+a(I1
+S'Furthermore , YtxH and YvyD seemed to be induced after phosphate starvation in the wild type in a sigma ( B ) - dependent manner and in the sigB mutant probably via sigma ( H ) .'
+p573
+(lp574
+I2
+a(lp575
+I32
+aI33
+aI34
+aI35
+atp576
+a(I1
+S'Furthermore , YtxH and YvyD seemed to be induced after phosphate starvation in the wild type in a sigma ( B ) - dependent manner and in the sigB mutant probably via sigma ( H ) .'
+p577
+(lp578
+I4
+a(lp579
+I32
+aI33
+aI34
+aI35
+atp580
+a(I-1
+S'Furthermore , YtxH and YvyD seemed to be induced after phosphate starvation in the wild type in a sigma ( B ) - dependent manner and in the sigB mutant probably via sigma ( H ) .'
+p581
+(lp582
+I2
+a(lp583
+I4
+atp584
+a(I1
+S'The expression of the bkd operon was induced by the presence of isoleucine or valine in the growth medium and depended upon the presence of the sigma factor SigL , a member of the sigma 54 family .'
+p585
+(lp586
+I4
+a(lp587
+I28
+atp588
+a(I1
+S'From these results we conclude that ComK negatively regulates degR expression by preventing sigmaD - driven transcription of degR , possibly through interaction with the control region .'
+p589
+(lp590
+I6
+a(lp591
+I13
+atp592
+a(I1
+S'From these results we conclude that ComK negatively regulates degR expression by preventing sigmaD - driven transcription of degR , possibly through interaction with the control region .'
+p593
+(lp594
+I6
+a(lp595
+I9
+atp596
+a(I1
+S'From these results we conclude that ComK negatively regulates degR expression by preventing sigmaD - driven transcription of degR , possibly through interaction with the control region .'
+p597
+(lp598
+I6
+a(lp599
+I18
+atp600
+a(I-1
+S'From these results we conclude that ComK negatively regulates degR expression by preventing sigmaD - driven transcription of degR , possibly through interaction with the control region .'
+p601
+(lp602
+I9
+a(lp603
+I13
+atp604
+a(I1
+S'From these results we conclude that ComK negatively regulates degR expression by preventing sigmaD - driven transcription of degR , possibly through interaction with the control region .'
+p605
+(lp606
+I13
+a(lp607
+I18
+atp608
+a(I-1
+S'From these results we conclude that ComK negatively regulates degR expression by preventing sigmaD - driven transcription of degR , possibly through interaction with the control region .'
+p609
+(lp610
+I9
+a(lp611
+I18
+atp612
+a(I1
+S'We have shown previously that the transcription of degR is driven by an alternative sigma factor , sigmaD .'
+p613
+(lp614
+I8
+a(lp615
+I17
+atp616
+a(I1
+S'DNase I footprinting showed that SpoIIID binds strongly to two sites in the cotC promoter region , binds weakly to one site in the cotX promoter , and does not bind specifically to cotB .'
+p617
+(lp618
+I5
+a(lp619
+I13
+atp620
+a(I1
+S'DNase I footprinting showed that SpoIIID binds strongly to two sites in the cotC promoter region , binds weakly to one site in the cotX promoter , and does not bind specifically to cotB .'
+p621
+(lp622
+I5
+a(lp623
+I24
+atp624
+a(I1
+S'DNase I footprinting showed that SpoIIID binds strongly to two sites in the cotC promoter region , binds weakly to one site in the cotX promoter , and does not bind specifically to cotB .'
+p625
+(lp626
+I5
+a(lp627
+I33
+atp628
+a(I-1
+S'DNase I footprinting showed that SpoIIID binds strongly to two sites in the cotC promoter region , binds weakly to one site in the cotX promoter , and does not bind specifically to cotB .'
+p629
+(lp630
+I13
+a(lp631
+I24
+atp632
+a(I-1
+S'DNase I footprinting showed that SpoIIID binds strongly to two sites in the cotC promoter region , binds weakly to one site in the cotX promoter , and does not bind specifically to cotB .'
+p633
+(lp634
+I13
+a(lp635
+I33
+atp636
+a(I-1
+S'DNase I footprinting showed that SpoIIID binds strongly to two sites in the cotC promoter region , binds weakly to one site in the cotX promoter , and does not bind specifically to cotB .'
+p637
+(lp638
+I24
+a(lp639
+I33
+atp640
+a(I-1
+S'Transcription of the cotB , cotC , and cotX genes by final sigma ( K ) RNA polymerase is activated by a small , DNA - binding protein called GerE .'
+p641
+(lp642
+I12
+aI13
+aI14
+aI15
+a(lp643
+I29
+atp644
+a(I1
+S'Transcription of the cotB , cotC , and cotX genes by final sigma ( K ) RNA polymerase is activated by a small , DNA - binding protein called GerE .'
+p645
+(lp646
+I3
+a(lp647
+I12
+aI13
+aI14
+aI15
+atp648
+a(I1
+S'Transcription of the cotB , cotC , and cotX genes by final sigma ( K ) RNA polymerase is activated by a small , DNA - binding protein called GerE .'
+p649
+(lp650
+I5
+a(lp651
+I12
+aI13
+aI14
+aI15
+atp652
+a(I1
+S'Transcription of the cotB , cotC , and cotX genes by final sigma ( K ) RNA polymerase is activated by a small , DNA - binding protein called GerE .'
+p653
+(lp654
+I8
+a(lp655
+I12
+aI13
+aI14
+aI15
+atp656
+a(I1
+S'Transcription of the cotB , cotC , and cotX genes by final sigma ( K ) RNA polymerase is activated by a small , DNA - binding protein called GerE .'
+p657
+(lp658
+I3
+a(lp659
+I29
+atp660
+a(I1
+S'Transcription of the cotB , cotC , and cotX genes by final sigma ( K ) RNA polymerase is activated by a small , DNA - binding protein called GerE .'
+p661
+(lp662
+I5
+a(lp663
+I29
+atp664
+a(I1
+S'Transcription of the cotB , cotC , and cotX genes by final sigma ( K ) RNA polymerase is activated by a small , DNA - binding protein called GerE .'
+p665
+(lp666
+I8
+a(lp667
+I29
+atp668
+a(I-1
+S'Transcription of the cotB , cotC , and cotX genes by final sigma ( K ) RNA polymerase is activated by a small , DNA - binding protein called GerE .'
+p669
+(lp670
+I3
+a(lp671
+I5
+atp672
+a(I-1
+S'Transcription of the cotB , cotC , and cotX genes by final sigma ( K ) RNA polymerase is activated by a small , DNA - binding protein called GerE .'
+p673
+(lp674
+I3
+a(lp675
+I8
+atp676
+a(I-1
+S'Transcription of the cotB , cotC , and cotX genes by final sigma ( K ) RNA polymerase is activated by a small , DNA - binding protein called GerE .'
+p677
+(lp678
+I5
+a(lp679
+I8
+atp680
+a(I-1
+S'In vitro transcription experiments suggest that the differential pattern of cot gene expression results from the combined action of GerE and another transcription factor , SpoIIID .'
+p681
+(lp682
+I19
+a(lp683
+I25
+atp684
+a(I1
+S'In vitro transcription experiments suggest that the differential pattern of cot gene expression results from the combined action of GerE and another transcription factor , SpoIIID .'
+p685
+(lp686
+I10
+a(lp687
+I19
+atp688
+a(I1
+S'In vitro transcription experiments suggest that the differential pattern of cot gene expression results from the combined action of GerE and another transcription factor , SpoIIID .'
+p689
+(lp690
+I10
+a(lp691
+I25
+atp692
+a(I1
+S'A low concentration of GerE activated cotB transcription by final sigma ( K ) RNA polymerase , whereas a higher concentration was needed to activate transcription of cotX or cotC .'
+p693
+(lp694
+I4
+a(lp695
+I10
+aI11
+aI12
+aI13
+atp696
+a(I1
+S'A low concentration of GerE activated cotB transcription by final sigma ( K ) RNA polymerase , whereas a higher concentration was needed to activate transcription of cotX or cotC .'
+p697
+(lp698
+I4
+a(lp699
+I6
+atp700
+a(I1
+S'A low concentration of GerE activated cotB transcription by final sigma ( K ) RNA polymerase , whereas a higher concentration was needed to activate transcription of cotX or cotC .'
+p701
+(lp702
+I4
+a(lp703
+I27
+atp704
+a(I1
+S'A low concentration of GerE activated cotB transcription by final sigma ( K ) RNA polymerase , whereas a higher concentration was needed to activate transcription of cotX or cotC .'
+p705
+(lp706
+I4
+a(lp707
+I29
+atp708
+a(I1
+S'A low concentration of GerE activated cotB transcription by final sigma ( K ) RNA polymerase , whereas a higher concentration was needed to activate transcription of cotX or cotC .'
+p709
+(lp710
+I6
+a(lp711
+I10
+aI11
+aI12
+aI13
+atp712
+a(I-1
+S'A low concentration of GerE activated cotB transcription by final sigma ( K ) RNA polymerase , whereas a higher concentration was needed to activate transcription of cotX or cotC .'
+p713
+(lp714
+I10
+aI11
+aI12
+aI13
+a(lp715
+I27
+atp716
+a(I-1
+S'A low concentration of GerE activated cotB transcription by final sigma ( K ) RNA polymerase , whereas a higher concentration was needed to activate transcription of cotX or cotC .'
+p717
+(lp718
+I10
+aI11
+aI12
+aI13
+a(lp719
+I29
+atp720
+a(I-1
+S'A low concentration of GerE activated cotB transcription by final sigma ( K ) RNA polymerase , whereas a higher concentration was needed to activate transcription of cotX or cotC .'
+p721
+(lp722
+I6
+a(lp723
+I27
+atp724
+a(I-1
+S'A low concentration of GerE activated cotB transcription by final sigma ( K ) RNA polymerase , whereas a higher concentration was needed to activate transcription of cotX or cotC .'
+p725
+(lp726
+I6
+a(lp727
+I29
+atp728
+a(I-1
+S'A low concentration of GerE activated cotB transcription by final sigma ( K ) RNA polymerase , whereas a higher concentration was needed to activate transcription of cotX or cotC .'
+p729
+(lp730
+I27
+a(lp731
+I29
+atp732
+a(I1
+S'SpoIIID at low concentration repressed cotC transcription , whereas a higher concentration only partially repressed cotX transcription and had little effect on cotB transcription .'
+p733
+(lp734
+I0
+a(lp735
+I5
+atp736
+a(I1
+S'SpoIIID at low concentration repressed cotC transcription , whereas a higher concentration only partially repressed cotX transcription and had little effect on cotB transcription .'
+p737
+(lp738
+I0
+a(lp739
+I15
+atp740
+a(I1
+S'SpoIIID at low concentration repressed cotC transcription , whereas a higher concentration only partially repressed cotX transcription and had little effect on cotB transcription .'
+p741
+(lp742
+I0
+a(lp743
+I22
+atp744
+a(I-1
+S'SpoIIID at low concentration repressed cotC transcription , whereas a higher concentration only partially repressed cotX transcription and had little effect on cotB transcription .'
+p745
+(lp746
+I5
+a(lp747
+I15
+atp748
+a(I-1
+S'SpoIIID at low concentration repressed cotC transcription , whereas a higher concentration only partially repressed cotX transcription and had little effect on cotB transcription .'
+p749
+(lp750
+I5
+a(lp751
+I22
+atp752
+a(I-1
+S'SpoIIID at low concentration repressed cotC transcription , whereas a higher concentration only partially repressed cotX transcription and had little effect on cotB transcription .'
+p753
+(lp754
+I15
+a(lp755
+I22
+atp756
+a(I1
+S'Primer extension experiments and Northern blot analysis show that an active sigmaA - dependent promoter precedes kdgR and transcription is terminated at the putative p - independent terminator downstream of kdgT .'
+p757
+(lp758
+I11
+a(lp759
+I16
+atp760
+a(I1
+S'A sigmaW - dependent promoter ( PW ) precedes sigW , demonstrating that this transcription factor is positively autoregulated .'
+p761
+(lp762
+I1
+a(lp763
+I9
+atp764
+a(I-1
+S'We overproduced and purified sigma ( X ) from Escherichia coli and demonstrate that in vitro , both sigma ( A ) and sigma ( X ) holoenzymes recognize promoter elements within the sigX - ypuN control region .'
+p765
+(lp766
+I18
+aI19
+aI20
+aI21
+a(lp767
+I23
+aI24
+aI25
+aI26
+atp768
+a(I1
+S'We overproduced and purified sigma ( X ) from Escherichia coli and demonstrate that in vitro , both sigma ( A ) and sigma ( X ) holoenzymes recognize promoter elements within the sigX - ypuN control region .'
+p769
+(lp770
+I18
+aI19
+aI20
+aI21
+a(lp771
+I33
+atp772
+a(I1
+S'We overproduced and purified sigma ( X ) from Escherichia coli and demonstrate that in vitro , both sigma ( A ) and sigma ( X ) holoenzymes recognize promoter elements within the sigX - ypuN control region .'
+p773
+(lp774
+I18
+aI19
+aI20
+aI21
+a(lp775
+I35
+atp776
+a(I1
+S'We overproduced and purified sigma ( X ) from Escherichia coli and demonstrate that in vitro , both sigma ( A ) and sigma ( X ) holoenzymes recognize promoter elements within the sigX - ypuN control region .'
+p777
+(lp778
+I23
+aI24
+aI25
+aI26
+a(lp779
+I33
+atp780
+a(I1
+S'We overproduced and purified sigma ( X ) from Escherichia coli and demonstrate that in vitro , both sigma ( A ) and sigma ( X ) holoenzymes recognize promoter elements within the sigX - ypuN control region .'
+p781
+(lp782
+I23
+aI24
+aI25
+aI26
+a(lp783
+I35
+atp784
+a(I-1
+S'We overproduced and purified sigma ( X ) from Escherichia coli and demonstrate that in vitro , both sigma ( A ) and sigma ( X ) holoenzymes recognize promoter elements within the sigX - ypuN control region .'
+p785
+(lp786
+I33
+a(lp787
+I35
+atp788
+a(I1
+S'The results indicate that PhoP ~ P is sufficient to repress the transcription of the tagA and tagD promoters and also to activate the transcription of the tuaA promoter .'
+p789
+(lp790
+I4
+aI5
+aI6
+a(lp791
+I15
+atp792
+a(I1
+S'The results indicate that PhoP ~ P is sufficient to repress the transcription of the tagA and tagD promoters and also to activate the transcription of the tuaA promoter .'
+p793
+(lp794
+I4
+aI5
+aI6
+a(lp795
+I17
+atp796
+a(I1
+S'The results indicate that PhoP ~ P is sufficient to repress the transcription of the tagA and tagD promoters and also to activate the transcription of the tuaA promoter .'
+p797
+(lp798
+I4
+aI5
+aI6
+a(lp799
+I27
+atp800
+a(I-1
+S'The results indicate that PhoP ~ P is sufficient to repress the transcription of the tagA and tagD promoters and also to activate the transcription of the tuaA promoter .'
+p801
+(lp802
+I15
+a(lp803
+I17
+atp804
+a(I-1
+S'The results indicate that PhoP ~ P is sufficient to repress the transcription of the tagA and tagD promoters and also to activate the transcription of the tuaA promoter .'
+p805
+(lp806
+I15
+a(lp807
+I27
+atp808
+a(I-1
+S'The results indicate that PhoP ~ P is sufficient to repress the transcription of the tagA and tagD promoters and also to activate the transcription of the tuaA promoter .'
+p809
+(lp810
+I17
+a(lp811
+I27
+atp812
+a(I1
+S'Transcriptional studies demonstrated that the expression from the araE promoter is induced by L - arabinose , repressed by glucose , and negatively regulated by AraR .'
+p813
+(lp814
+I8
+a(lp815
+I25
+atp816
+a(I1
+S'During endospore formation in Bacillus subtilis , the DNA binding protein GerE stimulates transcription from several promoters that are used by RNA polymerase containing sigmaK'
+p817
+(lp818
+I11
+a(lp819
+I24
+atp820
+a(I1
+S'GerE binds to a site on one of these promoters , cotX , that overlaps its - 35 region .'
+p821
+(lp822
+I0
+a(lp823
+I11
+atp824
+a(I1
+S'However , the mutant was unable to stimulate transcription by final sigma ( A ) - RNA polymerase from the Spo0A - dependent spoIIG operon promoter .'
+p825
+(lp826
+I11
+aI12
+aI13
+aI14
+a(lp827
+I20
+atp828
+a(I1
+S'However , the mutant was unable to stimulate transcription by final sigma ( A ) - RNA polymerase from the Spo0A - dependent spoIIG operon promoter .'
+p829
+(lp830
+I20
+a(lp831
+I23
+atp832
+a(I1
+S'However , the mutant was unable to stimulate transcription by final sigma ( A ) - RNA polymerase from the Spo0A - dependent spoIIG operon promoter .'
+p833
+(lp834
+I11
+aI12
+aI13
+aI14
+a(lp835
+I23
+atp836
+a(I-1
+S'The Bacillus subtilis clpC operon is regulated by two stress induction pathways relying on either sigmaB or a class III stress induction mechanism acting at a sigmaA - like promoter .'
+p837
+(lp838
+I15
+a(lp839
+I26
+atp840
+a(I1
+S'The Bacillus subtilis clpC operon is regulated by two stress induction pathways relying on either sigmaB or a class III stress induction mechanism acting at a sigmaA - like promoter .'
+p841
+(lp842
+I3
+a(lp843
+I15
+atp844
+a(I1
+S'The Bacillus subtilis clpC operon is regulated by two stress induction pathways relying on either sigmaB or a class III stress induction mechanism acting at a sigmaA - like promoter .'
+p845
+(lp846
+I3
+a(lp847
+I26
+atp848
+a(I-1
+S'Our data demonstrate that the CtsR protein acts as a global repressor of the clpC operon , as well as other class III heat shock genes , by preventing unstressed transcription from either the sigmaB - or sigmaA - dependent promoter and might be inactivated or dissociate under inducing stress conditions .'
+p849
+(lp850
+I5
+a(lp851
+I34
+atp852
+a(I-1
+S'Our data demonstrate that the CtsR protein acts as a global repressor of the clpC operon , as well as other class III heat shock genes , by preventing unstressed transcription from either the sigmaB - or sigmaA - dependent promoter and might be inactivated or dissociate under inducing stress conditions .'
+p853
+(lp854
+I5
+a(lp855
+I37
+atp856
+a(I1
+S'Our data demonstrate that the CtsR protein acts as a global repressor of the clpC operon , as well as other class III heat shock genes , by preventing unstressed transcription from either the sigmaB - or sigmaA - dependent promoter and might be inactivated or dissociate under inducing stress conditions .'
+p857
+(lp858
+I5
+a(lp859
+I14
+atp860
+a(I-1
+S'Our data demonstrate that the CtsR protein acts as a global repressor of the clpC operon , as well as other class III heat shock genes , by preventing unstressed transcription from either the sigmaB - or sigmaA - dependent promoter and might be inactivated or dissociate under inducing stress conditions .'
+p861
+(lp862
+I34
+a(lp863
+I37
+atp864
+a(I1
+S'Our data demonstrate that the CtsR protein acts as a global repressor of the clpC operon , as well as other class III heat shock genes , by preventing unstressed transcription from either the sigmaB - or sigmaA - dependent promoter and might be inactivated or dissociate under inducing stress conditions .'
+p865
+(lp866
+I14
+a(lp867
+I34
+atp868
+a(I1
+S'Our data demonstrate that the CtsR protein acts as a global repressor of the clpC operon , as well as other class III heat shock genes , by preventing unstressed transcription from either the sigmaB - or sigmaA - dependent promoter and might be inactivated or dissociate under inducing stress conditions .'
+p869
+(lp870
+I14
+a(lp871
+I37
+atp872
+a(I-1
+S'The sigmaB - dependent promoter drives expression of yvyD under stress conditions and after glucose starvation , whereas a sigmaH - dependent promoter is responsible for yvyD transcription following amino acid limitation .'
+p873
+(lp874
+I1
+a(lp875
+I19
+atp876
+a(I1
+S'The sigmaB - dependent promoter drives expression of yvyD under stress conditions and after glucose starvation , whereas a sigmaH - dependent promoter is responsible for yvyD transcription following amino acid limitation .'
+p877
+(lp878
+I1
+a(lp879
+I8
+atp880
+a(I-1
+S'The sigmaB - dependent promoter drives expression of yvyD under stress conditions and after glucose starvation , whereas a sigmaH - dependent promoter is responsible for yvyD transcription following amino acid limitation .'
+p881
+(lp882
+I1
+a(lp883
+I26
+atp884
+a(I-1
+S'The sigmaB - dependent promoter drives expression of yvyD under stress conditions and after glucose starvation , whereas a sigmaH - dependent promoter is responsible for yvyD transcription following amino acid limitation .'
+p885
+(lp886
+I8
+a(lp887
+I19
+atp888
+a(I1
+S'The sigmaB - dependent promoter drives expression of yvyD under stress conditions and after glucose starvation , whereas a sigmaH - dependent promoter is responsible for yvyD transcription following amino acid limitation .'
+p889
+(lp890
+I19
+a(lp891
+I26
+atp892
+a(I-1
+S'The sigmaB - dependent promoter drives expression of yvyD under stress conditions and after glucose starvation , whereas a sigmaH - dependent promoter is responsible for yvyD transcription following amino acid limitation .'
+p893
+(lp894
+I8
+a(lp895
+I26
+atp896
+a(I-1
+S'This indicates that the yvyD gene product , being a member of both the sigmaB and sigmaH regulons , might negatively regulate the activity of the sigmaL regulon .'
+p897
+(lp898
+I14
+a(lp899
+I16
+atp900
+a(I1
+S'This indicates that the yvyD gene product , being a member of both the sigmaB and sigmaH regulons , might negatively regulate the activity of the sigmaL regulon .'
+p901
+(lp902
+I4
+a(lp903
+I14
+atp904
+a(I-1
+S'This indicates that the yvyD gene product , being a member of both the sigmaB and sigmaH regulons , might negatively regulate the activity of the sigmaL regulon .'
+p905
+(lp906
+I14
+a(lp907
+I26
+atp908
+a(I1
+S'This indicates that the yvyD gene product , being a member of both the sigmaB and sigmaH regulons , might negatively regulate the activity of the sigmaL regulon .'
+p909
+(lp910
+I4
+a(lp911
+I16
+atp912
+a(I-1
+S'This indicates that the yvyD gene product , being a member of both the sigmaB and sigmaH regulons , might negatively regulate the activity of the sigmaL regulon .'
+p913
+(lp914
+I16
+a(lp915
+I26
+atp916
+a(I1
+S'This indicates that the yvyD gene product , being a member of both the sigmaB and sigmaH regulons , might negatively regulate the activity of the sigmaL regulon .'
+p917
+(lp918
+I4
+a(lp919
+I26
+atp920
+a(I1
+S'In addition to the typical sigmaB - dependent , stress - and starvation - inducible pattern , yvyD is also induced in response to amino acid depletion .'
+p921
+(lp922
+I5
+a(lp923
+I17
+atp924
+a(I-1
+S'Therefore , ftsY is solely expressed during sporulation from a sigma ( K ) - and GerE - controlled promoter that is located immediately upstream of ftsY inside the smc gene .'
+p925
+(lp926
+I10
+aI11
+aI12
+aI13
+a(lp927
+I16
+atp928
+a(I1
+S'Therefore , ftsY is solely expressed during sporulation from a sigma ( K ) - and GerE - controlled promoter that is located immediately upstream of ftsY inside the smc gene .'
+p929
+(lp930
+I2
+a(lp931
+I10
+aI11
+aI12
+aI13
+atp932
+a(I1
+S'Therefore , ftsY is solely expressed during sporulation from a sigma ( K ) - and GerE - controlled promoter that is located immediately upstream of ftsY inside the smc gene .'
+p933
+(lp934
+I2
+a(lp935
+I16
+atp936
+a(I1
+S'In that respect sigB is similar to the previously described gene gsiB which is also a member of the sigmaB regulon .'
+p937
+(lp938
+I11
+a(lp939
+I19
+atp940
+a(I1
+S'In that respect sigB is similar to the previously described gene gsiB which is also a member of the sigmaB regulon .'
+p941
+(lp942
+I3
+a(lp943
+I19
+atp944
+a(I-1
+S'In that respect sigB is similar to the previously described gene gsiB which is also a member of the sigmaB regulon .'
+p945
+(lp946
+I3
+a(lp947
+I11
+atp948
+a(I-1
+S'The addition of ClpX to in vitro transcription reactions resulted in the stimulation of RNAP holoenzyme activity , but sigmaH - RNAP was observed to be more sensitive to ClpX - dependent stimulation than sigmaA - RNAP .'
+p949
+(lp950
+I3
+a(lp951
+I29
+atp952
+a(I1
+S'The addition of ClpX to in vitro transcription reactions resulted in the stimulation of RNAP holoenzyme activity , but sigmaH - RNAP was observed to be more sensitive to ClpX - dependent stimulation than sigmaA - RNAP .'
+p953
+(lp954
+I19
+a(lp955
+I29
+atp956
+a(I1
+S'The addition of ClpX to in vitro transcription reactions resulted in the stimulation of RNAP holoenzyme activity , but sigmaH - RNAP was observed to be more sensitive to ClpX - dependent stimulation than sigmaA - RNAP .'
+p957
+(lp958
+I29
+a(lp959
+I34
+atp960
+a(I1
+S'The addition of ClpX to in vitro transcription reactions resulted in the stimulation of RNAP holoenzyme activity , but sigmaH - RNAP was observed to be more sensitive to ClpX - dependent stimulation than sigmaA - RNAP .'
+p961
+(lp962
+I3
+a(lp963
+I19
+atp964
+a(I1
+S'The addition of ClpX to in vitro transcription reactions resulted in the stimulation of RNAP holoenzyme activity , but sigmaH - RNAP was observed to be more sensitive to ClpX - dependent stimulation than sigmaA - RNAP .'
+p965
+(lp966
+I3
+a(lp967
+I34
+atp968
+a(I-1
+S'The addition of ClpX to in vitro transcription reactions resulted in the stimulation of RNAP holoenzyme activity , but sigmaH - RNAP was observed to be more sensitive to ClpX - dependent stimulation than sigmaA - RNAP .'
+p969
+(lp970
+I19
+a(lp971
+I34
+atp972
+a(I1
+S'Although spo0H is transcriptionally regulated by the key regulatory device that controls sporulation initiation , the Spo0 phosphorelay , there is considerable evidence implicating a mechanism of post - translational control that governs the activity and concentration of sigmaH .'
+p973
+(lp974
+I1
+a(lp975
+I16
+atp976
+a(I-1
+S'The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram - positive and gram - negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation - specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B . subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .'
+p977
+(lp978
+I15
+a(lp979
+I38
+atp980
+a(I-1
+S'The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram - positive and gram - negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation - specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B . subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .'
+p981
+(lp982
+I38
+a(lp983
+I59
+atp984
+a(I-1
+S'The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram - positive and gram - negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation - specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B . subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .'
+p985
+(lp986
+I38
+a(lp987
+I75
+atp988
+a(I1
+S'The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram - positive and gram - negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation - specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B . subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .'
+p989
+(lp990
+I38
+a(lp991
+I49
+aI50
+atp992
+a(I1
+S'The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram - positive and gram - negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation - specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B . subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .'
+p993
+(lp994
+I38
+a(lp995
+I52
+aI53
+atp996
+a(I-1
+S'The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram - positive and gram - negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation - specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B . subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .'
+p997
+(lp998
+I35
+aI36
+a(lp999
+I38
+atp1000
+a(I-1
+S'The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram - positive and gram - negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation - specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B . subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .'
+p1001
+(lp1002
+I38
+a(lp1003
+I71
+aI72
+atp1004
+a(I-1
+S'The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram - positive and gram - negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation - specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B . subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .'
+p1005
+(lp1006
+I38
+a(lp1007
+I95
+aI96
+atp1008
+a(I-1
+S'The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram - positive and gram - negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation - specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B . subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .'
+p1009
+(lp1010
+I15
+a(lp1011
+I59
+atp1012
+a(I-1
+S'The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram - positive and gram - negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation - specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B . subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .'
+p1013
+(lp1014
+I15
+a(lp1015
+I75
+atp1016
+a(I-1
+S'The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram - positive and gram - negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation - specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B . subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .'
+p1017
+(lp1018
+I15
+a(lp1019
+I49
+aI50
+atp1020
+a(I-1
+S'The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram - positive and gram - negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation - specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B . subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .'
+p1021
+(lp1022
+I15
+a(lp1023
+I52
+aI53
+atp1024
+a(I1
+S'The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram - positive and gram - negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation - specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B . subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .'
+p1025
+(lp1026
+I15
+a(lp1027
+I35
+aI36
+atp1028
+a(I-1
+S'The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram - positive and gram - negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation - specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B . subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .'
+p1029
+(lp1030
+I15
+a(lp1031
+I71
+aI72
+atp1032
+a(I-1
+S'The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram - positive and gram - negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation - specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B . subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .'
+p1033
+(lp1034
+I15
+a(lp1035
+I95
+aI96
+atp1036
+a(I-1
+S'The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram - positive and gram - negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation - specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B . subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .'
+p1037
+(lp1038
+I59
+a(lp1039
+I75
+atp1040
+a(I-1
+S'The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram - positive and gram - negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation - specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B . subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .'
+p1041
+(lp1042
+I49
+aI50
+a(lp1043
+I59
+atp1044
+a(I-1
+S'The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram - positive and gram - negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation - specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B . subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .'
+p1045
+(lp1046
+I52
+aI53
+a(lp1047
+I59
+atp1048
+a(I-1
+S'The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram - positive and gram - negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation - specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B . subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .'
+p1049
+(lp1050
+I35
+aI36
+a(lp1051
+I59
+atp1052
+a(I1
+S'The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram - positive and gram - negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation - specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B . subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .'
+p1053
+(lp1054
+I59
+a(lp1055
+I71
+aI72
+atp1056
+a(I-1
+S'The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram - positive and gram - negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation - specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B . subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .'
+p1057
+(lp1058
+I59
+a(lp1059
+I95
+aI96
+atp1060
+a(I-1
+S'The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram - positive and gram - negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation - specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B . subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .'
+p1061
+(lp1062
+I49
+aI50
+a(lp1063
+I75
+atp1064
+a(I-1
+S'The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram - positive and gram - negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation - specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B . subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .'
+p1065
+(lp1066
+I52
+aI53
+a(lp1067
+I75
+atp1068
+a(I-1
+S'The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram - positive and gram - negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation - specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B . subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .'
+p1069
+(lp1070
+I35
+aI36
+a(lp1071
+I75
+atp1072
+a(I-1
+S'The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram - positive and gram - negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation - specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B . subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .'
+p1073
+(lp1074
+I71
+aI72
+a(lp1075
+I75
+atp1076
+a(I1
+S'The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram - positive and gram - negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation - specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B . subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .'
+p1077
+(lp1078
+I75
+a(lp1079
+I95
+aI96
+atp1080
+a(I-1
+S'The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram - positive and gram - negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation - specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B . subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .'
+p1081
+(lp1082
+I49
+aI50
+a(lp1083
+I52
+aI53
+atp1084
+a(I-1
+S'The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram - positive and gram - negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation - specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B . subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .'
+p1085
+(lp1086
+I35
+aI36
+a(lp1087
+I49
+aI50
+atp1088
+a(I-1
+S'The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram - positive and gram - negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation - specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B . subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .'
+p1089
+(lp1090
+I49
+aI50
+a(lp1091
+I71
+aI72
+atp1092
+a(I-1
+S'The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram - positive and gram - negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation - specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B . subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .'
+p1093
+(lp1094
+I49
+aI50
+a(lp1095
+I95
+aI96
+atp1096
+a(I-1
+S'The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram - positive and gram - negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation - specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B . subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .'
+p1097
+(lp1098
+I35
+aI36
+a(lp1099
+I52
+aI53
+atp1100
+a(I-1
+S'The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram - positive and gram - negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation - specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B . subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .'
+p1101
+(lp1102
+I52
+aI53
+a(lp1103
+I71
+aI72
+atp1104
+a(I-1
+S'The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram - positive and gram - negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation - specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B . subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .'
+p1105
+(lp1106
+I52
+aI53
+a(lp1107
+I95
+aI96
+atp1108
+a(I-1
+S'The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram - positive and gram - negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation - specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B . subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .'
+p1109
+(lp1110
+I35
+aI36
+a(lp1111
+I71
+aI72
+atp1112
+a(I-1
+S'The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram - positive and gram - negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation - specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B . subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .'
+p1113
+(lp1114
+I35
+aI36
+a(lp1115
+I95
+aI96
+atp1116
+a(I-1
+S'The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram - positive and gram - negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation - specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B . subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .'
+p1117
+(lp1118
+I71
+aI72
+a(lp1119
+I95
+aI96
+atp1120
+a(I1
+S'Finally , we show that proper localization of SpoIVA required the expression of one or more genes which , like spoIVA , are under the control of the mother cell transcription factor sigmaE .'
+p1121
+(lp1122
+I20
+a(lp1123
+I32
+atp1124
+a(I-1
+S'The sspH and sspL genes are recognized primarily by the forespore - specific sigma factor for RNA polymerase , sigmaG ; the sspN - tlp operon is recognized equally well by sigmaG and the other forespore - specific sigma factor , sigmaF .'
+p1125
+(lp1126
+I19
+a(lp1127
+I31
+atp1128
+a(I-1
+S'The sspH and sspL genes are recognized primarily by the forespore - specific sigma factor for RNA polymerase , sigmaG ; the sspN - tlp operon is recognized equally well by sigmaG and the other forespore - specific sigma factor , sigmaF .'
+p1129
+(lp1130
+I19
+a(lp1131
+I41
+atp1132
+a(I1
+S'The sspH and sspL genes are recognized primarily by the forespore - specific sigma factor for RNA polymerase , sigmaG ; the sspN - tlp operon is recognized equally well by sigmaG and the other forespore - specific sigma factor , sigmaF .'
+p1133
+(lp1134
+I1
+a(lp1135
+I19
+atp1136
+a(I-1
+S'The sspH and sspL genes are recognized primarily by the forespore - specific sigma factor for RNA polymerase , sigmaG ; the sspN - tlp operon is recognized equally well by sigmaG and the other forespore - specific sigma factor , sigmaF .'
+p1137
+(lp1138
+I19
+a(lp1139
+I22
+atp1140
+a(I1
+S'The sspH and sspL genes are recognized primarily by the forespore - specific sigma factor for RNA polymerase , sigmaG ; the sspN - tlp operon is recognized equally well by sigmaG and the other forespore - specific sigma factor , sigmaF .'
+p1141
+(lp1142
+I3
+a(lp1143
+I19
+atp1144
+a(I-1
+S'The sspH and sspL genes are recognized primarily by the forespore - specific sigma factor for RNA polymerase , sigmaG ; the sspN - tlp operon is recognized equally well by sigmaG and the other forespore - specific sigma factor , sigmaF .'
+p1145
+(lp1146
+I19
+a(lp1147
+I24
+atp1148
+a(I-1
+S'The sspH and sspL genes are recognized primarily by the forespore - specific sigma factor for RNA polymerase , sigmaG ; the sspN - tlp operon is recognized equally well by sigmaG and the other forespore - specific sigma factor , sigmaF .'
+p1149
+(lp1150
+I31
+a(lp1151
+I41
+atp1152
+a(I-1
+S'The sspH and sspL genes are recognized primarily by the forespore - specific sigma factor for RNA polymerase , sigmaG ; the sspN - tlp operon is recognized equally well by sigmaG and the other forespore - specific sigma factor , sigmaF .'
+p1153
+(lp1154
+I1
+a(lp1155
+I31
+atp1156
+a(I1
+S'The sspH and sspL genes are recognized primarily by the forespore - specific sigma factor for RNA polymerase , sigmaG ; the sspN - tlp operon is recognized equally well by sigmaG and the other forespore - specific sigma factor , sigmaF .'
+p1157
+(lp1158
+I22
+a(lp1159
+I31
+atp1160
+a(I-1
+S'The sspH and sspL genes are recognized primarily by the forespore - specific sigma factor for RNA polymerase , sigmaG ; the sspN - tlp operon is recognized equally well by sigmaG and the other forespore - specific sigma factor , sigmaF .'
+p1161
+(lp1162
+I3
+a(lp1163
+I31
+atp1164
+a(I1
+S'The sspH and sspL genes are recognized primarily by the forespore - specific sigma factor for RNA polymerase , sigmaG ; the sspN - tlp operon is recognized equally well by sigmaG and the other forespore - specific sigma factor , sigmaF .'
+p1165
+(lp1166
+I24
+a(lp1167
+I31
+atp1168
+a(I-1
+S'The sspH and sspL genes are recognized primarily by the forespore - specific sigma factor for RNA polymerase , sigmaG ; the sspN - tlp operon is recognized equally well by sigmaG and the other forespore - specific sigma factor , sigmaF .'
+p1169
+(lp1170
+I1
+a(lp1171
+I41
+atp1172
+a(I1
+S'The sspH and sspL genes are recognized primarily by the forespore - specific sigma factor for RNA polymerase , sigmaG ; the sspN - tlp operon is recognized equally well by sigmaG and the other forespore - specific sigma factor , sigmaF .'
+p1173
+(lp1174
+I22
+a(lp1175
+I41
+atp1176
+a(I-1
+S'The sspH and sspL genes are recognized primarily by the forespore - specific sigma factor for RNA polymerase , sigmaG ; the sspN - tlp operon is recognized equally well by sigmaG and the other forespore - specific sigma factor , sigmaF .'
+p1177
+(lp1178
+I3
+a(lp1179
+I41
+atp1180
+a(I1
+S'The sspH and sspL genes are recognized primarily by the forespore - specific sigma factor for RNA polymerase , sigmaG ; the sspN - tlp operon is recognized equally well by sigmaG and the other forespore - specific sigma factor , sigmaF .'
+p1181
+(lp1182
+I24
+a(lp1183
+I41
+atp1184
+a(I-1
+S'The sspH and sspL genes are recognized primarily by the forespore - specific sigma factor for RNA polymerase , sigmaG ; the sspN - tlp operon is recognized equally well by sigmaG and the other forespore - specific sigma factor , sigmaF .'
+p1185
+(lp1186
+I1
+a(lp1187
+I22
+atp1188
+a(I-1
+S'The sspH and sspL genes are recognized primarily by the forespore - specific sigma factor for RNA polymerase , sigmaG ; the sspN - tlp operon is recognized equally well by sigmaG and the other forespore - specific sigma factor , sigmaF .'
+p1189
+(lp1190
+I1
+a(lp1191
+I3
+atp1192
+a(I-1
+S'The sspH and sspL genes are recognized primarily by the forespore - specific sigma factor for RNA polymerase , sigmaG ; the sspN - tlp operon is recognized equally well by sigmaG and the other forespore - specific sigma factor , sigmaF .'
+p1193
+(lp1194
+I1
+a(lp1195
+I24
+atp1196
+a(I-1
+S'The sspH and sspL genes are recognized primarily by the forespore - specific sigma factor for RNA polymerase , sigmaG ; the sspN - tlp operon is recognized equally well by sigmaG and the other forespore - specific sigma factor , sigmaF .'
+p1197
+(lp1198
+I3
+a(lp1199
+I22
+atp1200
+a(I-1
+S'The sspH and sspL genes are recognized primarily by the forespore - specific sigma factor for RNA polymerase , sigmaG ; the sspN - tlp operon is recognized equally well by sigmaG and the other forespore - specific sigma factor , sigmaF .'
+p1201
+(lp1202
+I22
+a(lp1203
+I24
+atp1204
+a(I-1
+S'The sspH and sspL genes are recognized primarily by the forespore - specific sigma factor for RNA polymerase , sigmaG ; the sspN - tlp operon is recognized equally well by sigmaG and the other forespore - specific sigma factor , sigmaF .'
+p1205
+(lp1206
+I3
+a(lp1207
+I24
+atp1208
+a(I1
+S'The sigma W regulon includes a penicillin binding protein ( PBP4 * ) and a co - transcribed amino acid racemase ( RacX ) , homologues of signal peptide peptidase ( YteI ) , flotillin ( YuaG ) , ABC transporters ( YknXYZ ) , non - haem bromoperoxidase ( YdjP ) , epoxide hydrolase ( YfhM ) and three small peptides with structural similarities to bacteriocin precursor polypeptides .'
+p1209
+(lp1210
+I1
+aI2
+a(lp1211
+I10
+aI11
+atp1212
+a(I1
+S'The sigma W regulon includes a penicillin binding protein ( PBP4 * ) and a co - transcribed amino acid racemase ( RacX ) , homologues of signal peptide peptidase ( YteI ) , flotillin ( YuaG ) , ABC transporters ( YknXYZ ) , non - haem bromoperoxidase ( YdjP ) , epoxide hydrolase ( YfhM ) and three small peptides with structural similarities to bacteriocin precursor polypeptides .'
+p1213
+(lp1214
+I1
+aI2
+a(lp1215
+I22
+atp1216
+a(I1
+S'The sigma W regulon includes a penicillin binding protein ( PBP4 * ) and a co - transcribed amino acid racemase ( RacX ) , homologues of signal peptide peptidase ( YteI ) , flotillin ( YuaG ) , ABC transporters ( YknXYZ ) , non - haem bromoperoxidase ( YdjP ) , epoxide hydrolase ( YfhM ) and three small peptides with structural similarities to bacteriocin precursor polypeptides .'
+p1217
+(lp1218
+I1
+aI2
+a(lp1219
+I31
+atp1220
+a(I1
+S'The sigma W regulon includes a penicillin binding protein ( PBP4 * ) and a co - transcribed amino acid racemase ( RacX ) , homologues of signal peptide peptidase ( YteI ) , flotillin ( YuaG ) , ABC transporters ( YknXYZ ) , non - haem bromoperoxidase ( YdjP ) , epoxide hydrolase ( YfhM ) and three small peptides with structural similarities to bacteriocin precursor polypeptides .'
+p1221
+(lp1222
+I1
+aI2
+a(lp1223
+I36
+atp1224
+a(I1
+S'The sigma W regulon includes a penicillin binding protein ( PBP4 * ) and a co - transcribed amino acid racemase ( RacX ) , homologues of signal peptide peptidase ( YteI ) , flotillin ( YuaG ) , ABC transporters ( YknXYZ ) , non - haem bromoperoxidase ( YdjP ) , epoxide hydrolase ( YfhM ) and three small peptides with structural similarities to bacteriocin precursor polypeptides .'
+p1225
+(lp1226
+I1
+aI2
+a(lp1227
+I42
+atp1228
+a(I1
+S'The sigma W regulon includes a penicillin binding protein ( PBP4 * ) and a co - transcribed amino acid racemase ( RacX ) , homologues of signal peptide peptidase ( YteI ) , flotillin ( YuaG ) , ABC transporters ( YknXYZ ) , non - haem bromoperoxidase ( YdjP ) , epoxide hydrolase ( YfhM ) and three small peptides with structural similarities to bacteriocin precursor polypeptides .'
+p1229
+(lp1230
+I1
+aI2
+a(lp1231
+I50
+atp1232
+a(I1
+S'The sigma W regulon includes a penicillin binding protein ( PBP4 * ) and a co - transcribed amino acid racemase ( RacX ) , homologues of signal peptide peptidase ( YteI ) , flotillin ( YuaG ) , ABC transporters ( YknXYZ ) , non - haem bromoperoxidase ( YdjP ) , epoxide hydrolase ( YfhM ) and three small peptides with structural similarities to bacteriocin precursor polypeptides .'
+p1233
+(lp1234
+I1
+aI2
+a(lp1235
+I56
+atp1236
+a(I-1
+S'The sigma W regulon includes a penicillin binding protein ( PBP4 * ) and a co - transcribed amino acid racemase ( RacX ) , homologues of signal peptide peptidase ( YteI ) , flotillin ( YuaG ) , ABC transporters ( YknXYZ ) , non - haem bromoperoxidase ( YdjP ) , epoxide hydrolase ( YfhM ) and three small peptides with structural similarities to bacteriocin precursor polypeptides .'
+p1237
+(lp1238
+I10
+aI11
+a(lp1239
+I22
+atp1240
+a(I-1
+S'The sigma W regulon includes a penicillin binding protein ( PBP4 * ) and a co - transcribed amino acid racemase ( RacX ) , homologues of signal peptide peptidase ( YteI ) , flotillin ( YuaG ) , ABC transporters ( YknXYZ ) , non - haem bromoperoxidase ( YdjP ) , epoxide hydrolase ( YfhM ) and three small peptides with structural similarities to bacteriocin precursor polypeptides .'
+p1241
+(lp1242
+I10
+aI11
+a(lp1243
+I31
+atp1244
+a(I-1
+S'The sigma W regulon includes a penicillin binding protein ( PBP4 * ) and a co - transcribed amino acid racemase ( RacX ) , homologues of signal peptide peptidase ( YteI ) , flotillin ( YuaG ) , ABC transporters ( YknXYZ ) , non - haem bromoperoxidase ( YdjP ) , epoxide hydrolase ( YfhM ) and three small peptides with structural similarities to bacteriocin precursor polypeptides .'
+p1245
+(lp1246
+I10
+aI11
+a(lp1247
+I36
+atp1248
+a(I-1
+S'The sigma W regulon includes a penicillin binding protein ( PBP4 * ) and a co - transcribed amino acid racemase ( RacX ) , homologues of signal peptide peptidase ( YteI ) , flotillin ( YuaG ) , ABC transporters ( YknXYZ ) , non - haem bromoperoxidase ( YdjP ) , epoxide hydrolase ( YfhM ) and three small peptides with structural similarities to bacteriocin precursor polypeptides .'
+p1249
+(lp1250
+I10
+aI11
+a(lp1251
+I42
+atp1252
+a(I-1
+S'The sigma W regulon includes a penicillin binding protein ( PBP4 * ) and a co - transcribed amino acid racemase ( RacX ) , homologues of signal peptide peptidase ( YteI ) , flotillin ( YuaG ) , ABC transporters ( YknXYZ ) , non - haem bromoperoxidase ( YdjP ) , epoxide hydrolase ( YfhM ) and three small peptides with structural similarities to bacteriocin precursor polypeptides .'
+p1253
+(lp1254
+I10
+aI11
+a(lp1255
+I50
+atp1256
+a(I-1
+S'The sigma W regulon includes a penicillin binding protein ( PBP4 * ) and a co - transcribed amino acid racemase ( RacX ) , homologues of signal peptide peptidase ( YteI ) , flotillin ( YuaG ) , ABC transporters ( YknXYZ ) , non - haem bromoperoxidase ( YdjP ) , epoxide hydrolase ( YfhM ) and three small peptides with structural similarities to bacteriocin precursor polypeptides .'
+p1257
+(lp1258
+I10
+aI11
+a(lp1259
+I56
+atp1260
+a(I-1
+S'The sigma W regulon includes a penicillin binding protein ( PBP4 * ) and a co - transcribed amino acid racemase ( RacX ) , homologues of signal peptide peptidase ( YteI ) , flotillin ( YuaG ) , ABC transporters ( YknXYZ ) , non - haem bromoperoxidase ( YdjP ) , epoxide hydrolase ( YfhM ) and three small peptides with structural similarities to bacteriocin precursor polypeptides .'
+p1261
+(lp1262
+I22
+a(lp1263
+I31
+atp1264
+a(I-1
+S'The sigma W regulon includes a penicillin binding protein ( PBP4 * ) and a co - transcribed amino acid racemase ( RacX ) , homologues of signal peptide peptidase ( YteI ) , flotillin ( YuaG ) , ABC transporters ( YknXYZ ) , non - haem bromoperoxidase ( YdjP ) , epoxide hydrolase ( YfhM ) and three small peptides with structural similarities to bacteriocin precursor polypeptides .'
+p1265
+(lp1266
+I22
+a(lp1267
+I36
+atp1268
+a(I-1
+S'The sigma W regulon includes a penicillin binding protein ( PBP4 * ) and a co - transcribed amino acid racemase ( RacX ) , homologues of signal peptide peptidase ( YteI ) , flotillin ( YuaG ) , ABC transporters ( YknXYZ ) , non - haem bromoperoxidase ( YdjP ) , epoxide hydrolase ( YfhM ) and three small peptides with structural similarities to bacteriocin precursor polypeptides .'
+p1269
+(lp1270
+I22
+a(lp1271
+I42
+atp1272
+a(I-1
+S'The sigma W regulon includes a penicillin binding protein ( PBP4 * ) and a co - transcribed amino acid racemase ( RacX ) , homologues of signal peptide peptidase ( YteI ) , flotillin ( YuaG ) , ABC transporters ( YknXYZ ) , non - haem bromoperoxidase ( YdjP ) , epoxide hydrolase ( YfhM ) and three small peptides with structural similarities to bacteriocin precursor polypeptides .'
+p1273
+(lp1274
+I22
+a(lp1275
+I50
+atp1276
+a(I-1
+S'The sigma W regulon includes a penicillin binding protein ( PBP4 * ) and a co - transcribed amino acid racemase ( RacX ) , homologues of signal peptide peptidase ( YteI ) , flotillin ( YuaG ) , ABC transporters ( YknXYZ ) , non - haem bromoperoxidase ( YdjP ) , epoxide hydrolase ( YfhM ) and three small peptides with structural similarities to bacteriocin precursor polypeptides .'
+p1277
+(lp1278
+I22
+a(lp1279
+I56
+atp1280
+a(I-1
+S'The sigma W regulon includes a penicillin binding protein ( PBP4 * ) and a co - transcribed amino acid racemase ( RacX ) , homologues of signal peptide peptidase ( YteI ) , flotillin ( YuaG ) , ABC transporters ( YknXYZ ) , non - haem bromoperoxidase ( YdjP ) , epoxide hydrolase ( YfhM ) and three small peptides with structural similarities to bacteriocin precursor polypeptides .'
+p1281
+(lp1282
+I31
+a(lp1283
+I36
+atp1284
+a(I-1
+S'The sigma W regulon includes a penicillin binding protein ( PBP4 * ) and a co - transcribed amino acid racemase ( RacX ) , homologues of signal peptide peptidase ( YteI ) , flotillin ( YuaG ) , ABC transporters ( YknXYZ ) , non - haem bromoperoxidase ( YdjP ) , epoxide hydrolase ( YfhM ) and three small peptides with structural similarities to bacteriocin precursor polypeptides .'
+p1285
+(lp1286
+I31
+a(lp1287
+I42
+atp1288
+a(I-1
+S'The sigma W regulon includes a penicillin binding protein ( PBP4 * ) and a co - transcribed amino acid racemase ( RacX ) , homologues of signal peptide peptidase ( YteI ) , flotillin ( YuaG ) , ABC transporters ( YknXYZ ) , non - haem bromoperoxidase ( YdjP ) , epoxide hydrolase ( YfhM ) and three small peptides with structural similarities to bacteriocin precursor polypeptides .'
+p1289
+(lp1290
+I31
+a(lp1291
+I50
+atp1292
+a(I-1
+S'The sigma W regulon includes a penicillin binding protein ( PBP4 * ) and a co - transcribed amino acid racemase ( RacX ) , homologues of signal peptide peptidase ( YteI ) , flotillin ( YuaG ) , ABC transporters ( YknXYZ ) , non - haem bromoperoxidase ( YdjP ) , epoxide hydrolase ( YfhM ) and three small peptides with structural similarities to bacteriocin precursor polypeptides .'
+p1293
+(lp1294
+I31
+a(lp1295
+I56
+atp1296
+a(I-1
+S'The sigma W regulon includes a penicillin binding protein ( PBP4 * ) and a co - transcribed amino acid racemase ( RacX ) , homologues of signal peptide peptidase ( YteI ) , flotillin ( YuaG ) , ABC transporters ( YknXYZ ) , non - haem bromoperoxidase ( YdjP ) , epoxide hydrolase ( YfhM ) and three small peptides with structural similarities to bacteriocin precursor polypeptides .'
+p1297
+(lp1298
+I36
+a(lp1299
+I42
+atp1300
+a(I-1
+S'The sigma W regulon includes a penicillin binding protein ( PBP4 * ) and a co - transcribed amino acid racemase ( RacX ) , homologues of signal peptide peptidase ( YteI ) , flotillin ( YuaG ) , ABC transporters ( YknXYZ ) , non - haem bromoperoxidase ( YdjP ) , epoxide hydrolase ( YfhM ) and three small peptides with structural similarities to bacteriocin precursor polypeptides .'
+p1301
+(lp1302
+I36
+a(lp1303
+I50
+atp1304
+a(I-1
+S'The sigma W regulon includes a penicillin binding protein ( PBP4 * ) and a co - transcribed amino acid racemase ( RacX ) , homologues of signal peptide peptidase ( YteI ) , flotillin ( YuaG ) , ABC transporters ( YknXYZ ) , non - haem bromoperoxidase ( YdjP ) , epoxide hydrolase ( YfhM ) and three small peptides with structural similarities to bacteriocin precursor polypeptides .'
+p1305
+(lp1306
+I36
+a(lp1307
+I56
+atp1308
+a(I-1
+S'The sigma W regulon includes a penicillin binding protein ( PBP4 * ) and a co - transcribed amino acid racemase ( RacX ) , homologues of signal peptide peptidase ( YteI ) , flotillin ( YuaG ) , ABC transporters ( YknXYZ ) , non - haem bromoperoxidase ( YdjP ) , epoxide hydrolase ( YfhM ) and three small peptides with structural similarities to bacteriocin precursor polypeptides .'
+p1309
+(lp1310
+I42
+a(lp1311
+I50
+atp1312
+a(I-1
+S'The sigma W regulon includes a penicillin binding protein ( PBP4 * ) and a co - transcribed amino acid racemase ( RacX ) , homologues of signal peptide peptidase ( YteI ) , flotillin ( YuaG ) , ABC transporters ( YknXYZ ) , non - haem bromoperoxidase ( YdjP ) , epoxide hydrolase ( YfhM ) and three small peptides with structural similarities to bacteriocin precursor polypeptides .'
+p1313
+(lp1314
+I42
+a(lp1315
+I56
+atp1316
+a(I-1
+S'The sigma W regulon includes a penicillin binding protein ( PBP4 * ) and a co - transcribed amino acid racemase ( RacX ) , homologues of signal peptide peptidase ( YteI ) , flotillin ( YuaG ) , ABC transporters ( YknXYZ ) , non - haem bromoperoxidase ( YdjP ) , epoxide hydrolase ( YfhM ) and three small peptides with structural similarities to bacteriocin precursor polypeptides .'
+p1317
+(lp1318
+I50
+a(lp1319
+I56
+atp1320
+a.

@@ -1,0 +1,4039 @@
+(lp0
+(I-1
+S'Cloning and characterization of two evolutionarily conserved subunits ( TFIIIC102 and TFIIIC63 ) of human TFIIIC and their involvement in functional interactions with TFIIIB and RNA polymerase III'
+p1
+(lp2
+I9
+a(lp3
+I11
+atp4
+a(I-1
+S'Cloning and characterization of two evolutionarily conserved subunits ( TFIIIC102 and TFIIIC63 ) of human TFIIIC and their involvement in functional interactions with TFIIIB and RNA polymerase III'
+p5
+(lp6
+I9
+a(lp7
+I15
+atp8
+a(I-1
+S'Cloning and characterization of two evolutionarily conserved subunits ( TFIIIC102 and TFIIIC63 ) of human TFIIIC and their involvement in functional interactions with TFIIIB and RNA polymerase III'
+p9
+(lp10
+I11
+a(lp11
+I15
+atp12
+a(I1
+S'Identification of residues in the monocyte chemotactic protein - 1 that contact the MCP - 1 receptor , CCR2'
+p13
+(lp14
+I5
+aI6
+aI7
+aI8
+aI9
+a(lp15
+I18
+atp16
+a(I-1
+S'The receptor binding site of MCP - 1 also is significantly different from the binding sites of RANTES and IL - 8 , providing insight into the issue of receptor specificity'
+p17
+(lp18
+I5
+aI6
+aI7
+a(lp19
+I17
+atp20
+a(I-1
+S'The receptor binding site of MCP - 1 also is significantly different from the binding sites of RANTES and IL - 8 , providing insight into the issue of receptor specificity'
+p21
+(lp22
+I5
+aI6
+aI7
+a(lp23
+I19
+aI20
+aI21
+atp24
+a(I-1
+S'The receptor binding site of MCP - 1 also is significantly different from the binding sites of RANTES and IL - 8 , providing insight into the issue of receptor specificity'
+p25
+(lp26
+I17
+a(lp27
+I19
+aI20
+aI21
+atp28
+a(I1
+S'It was previously shown that the N - terminus of CCR2 is critical for binding MCP - 1'
+p29
+(lp30
+I10
+a(lp31
+I15
+aI16
+aI17
+atp32
+a(I1
+S'To identify the regions of MCP - 1 that contact its receptor , CCR2 , we substituted all surface - exposed residues with alanine'
+p33
+(lp34
+I5
+aI6
+aI7
+a(lp35
+I13
+atp36
+a(I-1
+S'We tested this point by cotransfecting CHO cells with the genes encoding F beta alpha and the CG beta subunit or the CG beta alpha and FSH beta monomer'
+p37
+(lp38
+I17
+aI18
+a(lp39
+I22
+aI23
+aI24
+atp40
+a(I-1
+S'We tested this point by cotransfecting CHO cells with the genes encoding F beta alpha and the CG beta subunit or the CG beta alpha and FSH beta monomer'
+p41
+(lp42
+I17
+aI18
+a(lp43
+I26
+aI27
+atp44
+a(I-1
+S'We tested this point by cotransfecting CHO cells with the genes encoding F beta alpha and the CG beta subunit or the CG beta alpha and FSH beta monomer'
+p45
+(lp46
+I22
+aI23
+aI24
+a(lp47
+I26
+aI27
+atp48
+a(I-1
+S'The formation of a functional single chain / subunit complex was not restricted to the FSH single chain / CG beta subunit since CG single chain interacts with the monomeric FSH beta subunit and exhibits FSH activity'
+p49
+(lp50
+I19
+aI20
+a(lp51
+I30
+aI31
+atp52
+a(I-1
+S'This is relevant for the case of LH and FSH , because both are synthesized in the same cell ( i . e . , pituitary gonadotrophs ) and several of the alpha subunit sequences required for association with either the LH beta or FSH beta subunits are different'
+p53
+(lp54
+I41
+aI42
+a(lp55
+I44
+aI45
+atp56
+a(I-1
+S'Previously , we showed that the CG beta or FSH beta subunit genes can be genetically fused to the alpha gene to produce biologically active single chains , CG beta alpha and F beta alpha , respectively'
+p57
+(lp58
+I6
+aI7
+a(lp59
+I9
+aI10
+atp60
+a(I-1
+S'Previously , we showed that the CG beta or FSH beta subunit genes can be genetically fused to the alpha gene to produce biologically active single chains , CG beta alpha and F beta alpha , respectively'
+p61
+(lp62
+I6
+aI7
+a(lp63
+I28
+aI29
+aI30
+atp64
+a(I-1
+S'Previously , we showed that the CG beta or FSH beta subunit genes can be genetically fused to the alpha gene to produce biologically active single chains , CG beta alpha and F beta alpha , respectively'
+p65
+(lp66
+I9
+aI10
+a(lp67
+I28
+aI29
+aI30
+atp68
+a(I1
+S'Interleukin - 6 activates phosphatidylinositol - 3 kinase , which inhibits apoptosis in human prostate cancer cell lines'
+p69
+(lp70
+I0
+aI1
+aI2
+a(lp71
+I4
+aI5
+aI6
+aI7
+atp72
+a(I-1
+S'RESULTS : Tyrosine phosphorylation of p85 is upregulated by IL - 6 in both LNCaP and PC - 3'
+p73
+(lp74
+I9
+aI10
+aI11
+a(lp75
+I16
+aI17
+aI18
+atp76
+a(I1
+S'IL - 6 promotes coprecipitation of p85 with gp130 , the signal - transducing component of the IL - 6 receptor'
+p77
+(lp78
+I0
+aI1
+aI2
+a(lp79
+I8
+atp80
+a(I-1
+S'IL - 6 promotes coprecipitation of p85 with gp130 , the signal - transducing component of the IL - 6 receptor'
+p81
+(lp82
+I0
+aI1
+aI2
+a(lp83
+I17
+aI18
+aI19
+aI20
+atp84
+a(I-1
+S'IL - 6 promotes coprecipitation of p85 with gp130 , the signal - transducing component of the IL - 6 receptor'
+p85
+(lp86
+I8
+a(lp87
+I17
+aI18
+aI19
+aI20
+atp88
+a(I-1
+S'In solution , FGFR4ed formed complexes with acidic FGF ( FGF - 1 ) and basic FGF ( FGF - 2 ) , both in the presence and absence of heparin'
+p89
+(lp90
+I7
+aI8
+aI9
+aI10
+aI11
+aI12
+aI13
+a(lp91
+I15
+aI16
+aI17
+aI18
+aI19
+aI20
+aI21
+atp92
+a(I1
+S'Immobilized FGFR4 also bound FGF - 8 besides FGF - 1 and FGF - 2'
+p93
+(lp94
+I1
+a(lp95
+I4
+aI5
+aI6
+atp96
+a(I1
+S'Immobilized FGFR4 also bound FGF - 8 besides FGF - 1 and FGF - 2'
+p97
+(lp98
+I1
+a(lp99
+I8
+aI9
+aI10
+atp100
+a(I1
+S'Immobilized FGFR4 also bound FGF - 8 besides FGF - 1 and FGF - 2'
+p101
+(lp102
+I1
+a(lp103
+I12
+aI13
+aI14
+atp104
+a(I-1
+S'Immobilized FGFR4 also bound FGF - 8 besides FGF - 1 and FGF - 2'
+p105
+(lp106
+I4
+aI5
+aI6
+a(lp107
+I8
+aI9
+aI10
+atp108
+a(I-1
+S'Immobilized FGFR4 also bound FGF - 8 besides FGF - 1 and FGF - 2'
+p109
+(lp110
+I4
+aI5
+aI6
+a(lp111
+I12
+aI13
+aI14
+atp112
+a(I-1
+S'Immobilized FGFR4 also bound FGF - 8 besides FGF - 1 and FGF - 2'
+p113
+(lp114
+I8
+aI9
+aI10
+a(lp115
+I12
+aI13
+aI14
+atp116
+a(I1
+S'Cytohesin - 1 regulates beta - 2 integrin - mediated adhesion through both ARF - GEF function and interaction with LFA - 1'
+p117
+(lp118
+I0
+aI1
+aI2
+a(lp119
+I20
+aI21
+aI22
+atp120
+a(I1
+S'Here we provide evidence of how cytohesin - 1 , an integrin - binding protein and guanine - nucleotide exchange factor ( GEF ) for ARF GTPases , regulates cell adhesion'
+p121
+(lp122
+I6
+aI7
+aI8
+a(lp123
+I25
+atp124
+a(I1
+S'Mutational analyses of the beta - 2 cytoplasmic domain revealed that the adhesive function of LFA - 1 depends on its interaction with cytohesin - 1 , unless the integrin is activated by exogenous divalent cations'
+p125
+(lp126
+I15
+aI16
+aI17
+a(lp127
+I23
+aI24
+aI25
+atp128
+a(I1
+S'Secondly , cytohesin - 1 induces expression of an extracellular activation epitope of LFA - 1 , and the exchange factor function is not essential for this activity'
+p129
+(lp130
+I2
+aI3
+aI4
+a(lp131
+I13
+aI14
+aI15
+atp132
+a(I1
+S'In contrast , LFA - 1 - mediated cell adhesion and spreading on intercellular cell adhesion molecule 1 is strongly inhibited by a cytohesin - 1 mutant , which fails to catalyze ARF GDP - GTP exchange in vitro'
+p133
+(lp134
+I23
+aI24
+aI25
+a(lp135
+I32
+atp136
+a(I1
+S'Thus , cytohesin - 1 is involved in the activation of LFA - 1 , most probably through direct interaction with the integrin , and induces cell spreading by its ARF - GEF activity'
+p137
+(lp138
+I2
+aI3
+aI4
+a(lp139
+I11
+aI12
+aI13
+atp140
+a(I-1
+S'Regulation of neutrophil adhesion by pituitary growth hormone accompanies tyrosine phosphorylation of Jak2 , p125FAK , and paxillin'
+p141
+(lp142
+I12
+a(lp143
+I17
+atp144
+a(I-1
+S'These results suggest that pituitary GH modulates neutrophil adhesion through tyrosine phosphorylation of Jak2 , p125FAK , and paxillin and actin polymerization'
+p145
+(lp146
+I13
+a(lp147
+I18
+atp148
+a(I-1
+S'Pituitary GH triggered the tyrosine phosphorylation of Janus kinase 2 ( Jak2 ) and STAT3 in neutrophils'
+p149
+(lp150
+I7
+aI8
+aI9
+a(lp151
+I11
+atp152
+a(I-1
+S'Pituitary GH triggered the tyrosine phosphorylation of Janus kinase 2 ( Jak2 ) and STAT3 in neutrophils'
+p153
+(lp154
+I7
+aI8
+aI9
+a(lp155
+I14
+atp156
+a(I-1
+S'Pituitary GH triggered the tyrosine phosphorylation of Janus kinase 2 ( Jak2 ) and STAT3 in neutrophils'
+p157
+(lp158
+I11
+a(lp159
+I14
+atp160
+a(I-1
+S'Preincubation with genistein , a tyrosine kinase inhibitor , blocked the GH - stimulated adhesion and Jak2 , STAT3 , p125FAK , and paxillin phosphorylation'
+p161
+(lp162
+I16
+a(lp163
+I18
+atp164
+a(I-1
+S'Preincubation with genistein , a tyrosine kinase inhibitor , blocked the GH - stimulated adhesion and Jak2 , STAT3 , p125FAK , and paxillin phosphorylation'
+p165
+(lp166
+I16
+a(lp167
+I23
+atp168
+a(I-1
+S'Preincubation with genistein , a tyrosine kinase inhibitor , blocked the GH - stimulated adhesion and Jak2 , STAT3 , p125FAK , and paxillin phosphorylation'
+p169
+(lp170
+I18
+a(lp171
+I23
+atp172
+a(I1
+S'Immunoprecipitation experiments revealed a physical association of Jak2 with p125FAK via STAT3 in vivo'
+p173
+(lp174
+I7
+a(lp175
+I11
+atp176
+a(I1
+S'Suppression of rat thromboxane synthase gene transcription by peroxisome proliferator - activated receptor gamma in macrophages via an interaction with NRF2'
+p177
+(lp178
+I8
+aI9
+aI10
+aI11
+aI12
+aI13
+a(lp179
+I20
+atp180
+a(I-1
+S'Deletion analysis showed that the element responsible for the PPARgamma effect is located in a region containing the nuclear factor E2 ( NF - E2 ) / AP - 1 site ( - 98 / - 88 ) , which was indicated to be the major promoter of the TXS gene'
+p181
+(lp182
+I22
+aI23
+aI24
+a(lp183
+I27
+aI28
+aI29
+atp184
+a(I-1
+S'By electrophoretic mobility shift assay using the NF - E2 / AP - 1 site and nuclear extracts from macrophages , we observed a specific protein - DNA complex formation , which was inhibited by a specific antibody against the transcription factor NRF2 ( NF - E2 - related factor 2 )'
+p185
+(lp186
+I7
+aI8
+aI9
+a(lp187
+I11
+aI12
+aI13
+atp188
+a(I-1
+S'By electrophoretic mobility shift assay using the NF - E2 / AP - 1 site and nuclear extracts from macrophages , we observed a specific protein - DNA complex formation , which was inhibited by a specific antibody against the transcription factor NRF2 ( NF - E2 - related factor 2 )'
+p189
+(lp190
+I7
+aI8
+aI9
+a(lp191
+I42
+atp192
+a(I-1
+S'By electrophoretic mobility shift assay using the NF - E2 / AP - 1 site and nuclear extracts from macrophages , we observed a specific protein - DNA complex formation , which was inhibited by a specific antibody against the transcription factor NRF2 ( NF - E2 - related factor 2 )'
+p193
+(lp194
+I7
+aI8
+aI9
+a(lp195
+I44
+aI45
+aI46
+aI47
+aI48
+aI49
+aI50
+atp196
+a(I-1
+S'By electrophoretic mobility shift assay using the NF - E2 / AP - 1 site and nuclear extracts from macrophages , we observed a specific protein - DNA complex formation , which was inhibited by a specific antibody against the transcription factor NRF2 ( NF - E2 - related factor 2 )'
+p197
+(lp198
+I11
+aI12
+aI13
+a(lp199
+I42
+atp200
+a(I-1
+S'By electrophoretic mobility shift assay using the NF - E2 / AP - 1 site and nuclear extracts from macrophages , we observed a specific protein - DNA complex formation , which was inhibited by a specific antibody against the transcription factor NRF2 ( NF - E2 - related factor 2 )'
+p201
+(lp202
+I11
+aI12
+aI13
+a(lp203
+I44
+aI45
+aI46
+aI47
+aI48
+aI49
+aI50
+atp204
+a(I-1
+S'By electrophoretic mobility shift assay using the NF - E2 / AP - 1 site and nuclear extracts from macrophages , we observed a specific protein - DNA complex formation , which was inhibited by a specific antibody against the transcription factor NRF2 ( NF - E2 - related factor 2 )'
+p205
+(lp206
+I42
+a(lp207
+I44
+aI45
+aI46
+aI47
+aI48
+aI49
+aI50
+atp208
+a(I-1
+S'Finally , a direct interaction between PPARgamma and NRF2 was confirmed by glutathione S - transferase pull - down assay'
+p209
+(lp210
+I8
+a(lp211
+I12
+aI13
+aI14
+aI15
+atp212
+a(I-1
+S'By constructing deletion mutants , we identified that amino acid residues 229 - 309 of Akt were involved in the binding to Hsp90 and amino acid residues 327 - 340 of Hsp90beta were involved in the binding to Akt'
+p213
+(lp214
+I22
+a(lp215
+I31
+atp216
+a(I-1
+S'Here , we cloned and characterized a mouse orthologue of human KIAA1427 protein as an atypical Syt ( named Syt XIII )'
+p217
+(lp218
+I11
+a(lp219
+I16
+atp220
+a(I-1
+S'Here , we cloned and characterized a mouse orthologue of human KIAA1427 protein as an atypical Syt ( named Syt XIII )'
+p221
+(lp222
+I11
+a(lp223
+I19
+aI20
+atp224
+a(I-1
+S'Here , we cloned and characterized a mouse orthologue of human KIAA1427 protein as an atypical Syt ( named Syt XIII )'
+p225
+(lp226
+I16
+a(lp227
+I19
+aI20
+atp228
+a(I-1
+S'Subcellular fractionation and antibody - uptake experiments indicate that Syt XIII is indeed a type - I membrane protein , but , unlike other Syt isoforms , lacks an N - terminal extracellular domain'
+p229
+(lp230
+I9
+aI10
+a(lp231
+I24
+atp232
+a(I1
+S'Cutting edge : CD43 functions as a T cell counterreceptor for the macrophage adhesion receptor sialoadhesin ( Siglec - 1 )'
+p233
+(lp234
+I3
+a(lp235
+I15
+atp236
+a(I1
+S'Cutting edge : CD43 functions as a T cell counterreceptor for the macrophage adhesion receptor sialoadhesin ( Siglec - 1 )'
+p237
+(lp238
+I3
+a(lp239
+I17
+aI18
+aI19
+atp240
+a(I-1
+S'Cutting edge : CD43 functions as a T cell counterreceptor for the macrophage adhesion receptor sialoadhesin ( Siglec - 1 )'
+p241
+(lp242
+I15
+a(lp243
+I17
+aI18
+aI19
+atp244
+a(I-1
+S'The 130 - and 240 - kDa sialoadhesin - binding glycoproteins were identified as the sialomucins CD43 and P - selectin glycoprotein ligand 1 ( CD162 ) , respectively'
+p245
+(lp246
+I16
+a(lp247
+I18
+aI19
+aI20
+aI21
+aI22
+aI23
+atp248
+a(I-1
+S'The 130 - and 240 - kDa sialoadhesin - binding glycoproteins were identified as the sialomucins CD43 and P - selectin glycoprotein ligand 1 ( CD162 ) , respectively'
+p249
+(lp250
+I16
+a(lp251
+I25
+atp252
+a(I-1
+S'The 130 - and 240 - kDa sialoadhesin - binding glycoproteins were identified as the sialomucins CD43 and P - selectin glycoprotein ligand 1 ( CD162 ) , respectively'
+p253
+(lp254
+I18
+aI19
+aI20
+aI21
+aI22
+aI23
+a(lp255
+I25
+atp256
+a(I1
+S'CD43 expressed in COS cells supported increased binding to immobilized sialoadhesin'
+p257
+(lp258
+I0
+a(lp259
+I10
+atp260
+a(I1
+S'Finally , sialoadhesin bound different glycoforms of CD43 expressed in Chinese hamster ovary cells , including unbranched ( core 1 ) and branched ( core 2 ) O : - linked glycans , that are normally found on CD43 in resting and activated T cells , respectively'
+p261
+(lp262
+I2
+a(lp263
+I7
+atp264
+a(I-1
+S'Finally , sialoadhesin bound different glycoforms of CD43 expressed in Chinese hamster ovary cells , including unbranched ( core 1 ) and branched ( core 2 ) O : - linked glycans , that are normally found on CD43 in resting and activated T cells , respectively'
+p265
+(lp266
+I2
+a(lp267
+I38
+atp268
+a(I-1
+S'Finally , sialoadhesin bound different glycoforms of CD43 expressed in Chinese hamster ovary cells , including unbranched ( core 1 ) and branched ( core 2 ) O : - linked glycans , that are normally found on CD43 in resting and activated T cells , respectively'
+p269
+(lp270
+I7
+a(lp271
+I38
+atp272
+a(I1
+S'These results identify CD43 as a T cell counterreceptor for sialoadhesin and suggest that in addition to its anti - adhesive role CD43 may promote cell - cell interactions'
+p273
+(lp274
+I3
+a(lp275
+I10
+atp276
+a(I-1
+S'These results identify CD43 as a T cell counterreceptor for sialoadhesin and suggest that in addition to its anti - adhesive role CD43 may promote cell - cell interactions'
+p277
+(lp278
+I3
+a(lp279
+I22
+atp280
+a(I-1
+S'These results identify CD43 as a T cell counterreceptor for sialoadhesin and suggest that in addition to its anti - adhesive role CD43 may promote cell - cell interactions'
+p281
+(lp282
+I10
+a(lp283
+I22
+atp284
+a(I1
+S'Direct interaction between the cytoplasmic tail of ADAM 12 and the Src homology 3 domain of p85alpha activates phosphatidylinositol 3 - kinase in C2C12 cells'
+p285
+(lp286
+I7
+aI8
+a(lp287
+I16
+atp288
+a(I1
+S'Direct interaction between the cytoplasmic tail of ADAM 12 and the Src homology 3 domain of p85alpha activates phosphatidylinositol 3 - kinase in C2C12 cells'
+p289
+(lp290
+I7
+aI8
+a(lp291
+I18
+aI19
+aI20
+aI21
+atp292
+a(I1
+S'Direct interaction between the cytoplasmic tail of ADAM 12 and the Src homology 3 domain of p85alpha activates phosphatidylinositol 3 - kinase in C2C12 cells'
+p293
+(lp294
+I16
+a(lp295
+I18
+aI19
+aI20
+aI21
+atp296
+a(I1
+S'This suggests that transmembrane ADAM 12 , by providing docking sites for the Src homology 3 domain of p85alpha , activates PI 3 - kinase by mediating its recruitment to the membrane'
+p297
+(lp298
+I4
+aI5
+a(lp299
+I18
+atp300
+a(I1
+S'AP180 binds to the C - terminal SH2 domain of phospholipase C - gamma1 and inhibits its enzymatic activity'
+p301
+(lp302
+I0
+a(lp303
+I10
+aI11
+aI12
+aI13
+atp304
+a(I1
+S'In this report , we demonstrate the stable association of PLCgamma1 with AP180 in a clathrin - coated vesicle complex , which not only binds to the carboxyl - terminal SH2 domain of PLCgamma1 , but also inhibits its enzymatic activity in a dose - dependent manner'
+p305
+(lp306
+I10
+a(lp307
+I12
+atp308
+a(I-1
+S'In this report , we demonstrate the stable association of PLCgamma1 with AP180 in a clathrin - coated vesicle complex , which not only binds to the carboxyl - terminal SH2 domain of PLCgamma1 , but also inhibits its enzymatic activity in a dose - dependent manner'
+p309
+(lp310
+I10
+a(lp311
+I33
+atp312
+a(I1
+S'In this report , we demonstrate the stable association of PLCgamma1 with AP180 in a clathrin - coated vesicle complex , which not only binds to the carboxyl - terminal SH2 domain of PLCgamma1 , but also inhibits its enzymatic activity in a dose - dependent manner'
+p313
+(lp314
+I12
+a(lp315
+I33
+atp316
+a(I1
+S'Here we demonstrate colocalization and direct interaction between CLIP - 170 and LIS1'
+p317
+(lp318
+I8
+aI9
+aI10
+a(lp319
+I12
+atp320
+a(I1
+S'Overexpression of CLIP - 170 results in a zinc finger - dependent localization of a phospho - LIS1 isoform and dynactin to MT bundles , raising the possibility that CLIP - 170 and LIS1 regulate dynein / dynactin binding to MTs'
+p321
+(lp322
+I2
+aI3
+aI4
+a(lp323
+I15
+aI16
+aI17
+atp324
+a(I-1
+S'Overexpression of CLIP - 170 results in a zinc finger - dependent localization of a phospho - LIS1 isoform and dynactin to MT bundles , raising the possibility that CLIP - 170 and LIS1 regulate dynein / dynactin binding to MTs'
+p325
+(lp326
+I2
+aI3
+aI4
+a(lp327
+I29
+aI30
+aI31
+atp328
+a(I-1
+S'Overexpression of CLIP - 170 results in a zinc finger - dependent localization of a phospho - LIS1 isoform and dynactin to MT bundles , raising the possibility that CLIP - 170 and LIS1 regulate dynein / dynactin binding to MTs'
+p329
+(lp330
+I2
+aI3
+aI4
+a(lp331
+I33
+atp332
+a(I-1
+S'Overexpression of CLIP - 170 results in a zinc finger - dependent localization of a phospho - LIS1 isoform and dynactin to MT bundles , raising the possibility that CLIP - 170 and LIS1 regulate dynein / dynactin binding to MTs'
+p333
+(lp334
+I15
+aI16
+aI17
+a(lp335
+I29
+aI30
+aI31
+atp336
+a(I-1
+S'Overexpression of CLIP - 170 results in a zinc finger - dependent localization of a phospho - LIS1 isoform and dynactin to MT bundles , raising the possibility that CLIP - 170 and LIS1 regulate dynein / dynactin binding to MTs'
+p337
+(lp338
+I15
+aI16
+aI17
+a(lp339
+I33
+atp340
+a(I-1
+S'Overexpression of CLIP - 170 results in a zinc finger - dependent localization of a phospho - LIS1 isoform and dynactin to MT bundles , raising the possibility that CLIP - 170 and LIS1 regulate dynein / dynactin binding to MTs'
+p341
+(lp342
+I29
+aI30
+aI31
+a(lp343
+I33
+atp344
+a(I1
+S'This work suggests that LIS1 is a regulated adapter between CLIP - 170 and cytoplasmic dynein at sites involved in cargo - MT loading , and / or in the control of MT dynamics'
+p345
+(lp346
+I4
+a(lp347
+I10
+aI11
+aI12
+atp348
+a(I-1
+S'Megalin and cubilin : multifunctional endocytic receptors'
+p349
+(lp350
+I0
+a(lp351
+I2
+atp352
+a(I1
+S'Megalin and cubilin are two structurally different endocytic receptors that interact to serve such functions'
+p353
+(lp354
+I0
+a(lp355
+I2
+atp356
+a(I1
+S'Physical association of beta 2 integrin with GPI - 80 , a novel glycosylphosphatidylinositol - anchored protein with potential for regulating adhesion and migration'
+p357
+(lp358
+I3
+aI4
+aI5
+a(lp359
+I7
+aI8
+aI9
+atp360
+a(I1
+S'To clarify the mechanisms by which GPI - 80 functions on leukocytes , we explored the possibility of its physical association with beta 2 integrin which is important for leukocyte adherence , locomotion , and extravasation'
+p361
+(lp362
+I6
+aI7
+aI8
+a(lp363
+I22
+aI23
+aI24
+atp364
+a(I1
+S'beta 2 integrin , detected by anti - CD18 mAb , was coprecipitated with GPI - 80 from human neutrophil lysates by a mAb to GPI - 80'
+p365
+(lp366
+I0
+aI1
+aI2
+a(lp367
+I14
+aI15
+aI16
+atp368
+a(I-1
+S'beta 2 integrin , detected by anti - CD18 mAb , was coprecipitated with GPI - 80 from human neutrophil lysates by a mAb to GPI - 80'
+p369
+(lp370
+I0
+aI1
+aI2
+a(lp371
+I25
+aI26
+aI27
+atp372
+a(I-1
+S'beta 2 integrin , detected by anti - CD18 mAb , was coprecipitated with GPI - 80 from human neutrophil lysates by a mAb to GPI - 80'
+p373
+(lp374
+I14
+aI15
+aI16
+a(lp375
+I25
+aI26
+aI27
+atp376
+a(I1
+S'In addition , GPI - 80 was immunoprecipitated from human neutrophil lysates by anti - human CD18 mAb'
+p377
+(lp378
+I3
+aI4
+aI5
+a(lp379
+I16
+atp380
+a(I1
+S'These results clearly show that GPI - 80 is physically associated with beta 2 integrin in human neutrophils'
+p381
+(lp382
+I5
+aI6
+aI7
+a(lp383
+I12
+aI13
+aI14
+atp384
+a(I-1
+S'GADD45b and GADD45g are cdc2 / cyclinB1 kinase inhibitors with a role in S and G2 / M cell cycle checkpoints induced by genotoxic stress'
+p385
+(lp386
+I0
+a(lp387
+I2
+atp388
+a(I1
+S'GADD45b and GADD45g are cdc2 / cyclinB1 kinase inhibitors with a role in S and G2 / M cell cycle checkpoints induced by genotoxic stress'
+p389
+(lp390
+I0
+a(lp391
+I4
+atp392
+a(I1
+S'GADD45b and GADD45g are cdc2 / cyclinB1 kinase inhibitors with a role in S and G2 / M cell cycle checkpoints induced by genotoxic stress'
+p393
+(lp394
+I2
+a(lp395
+I4
+atp396
+a(I-1
+S'Gadd45a ( Gadd45 ) , Gadd45b ( MyD118 ) , and Gadd45g ( CR6 ) constitute a family of evolutionarily conserved , small , acidic , nuclear proteins , which have been implicated in terminal differentiation , growth suppression , and apoptosis'
+p397
+(lp398
+I0
+a(lp399
+I2
+atp400
+a(I-1
+S'Gadd45a ( Gadd45 ) , Gadd45b ( MyD118 ) , and Gadd45g ( CR6 ) constitute a family of evolutionarily conserved , small , acidic , nuclear proteins , which have been implicated in terminal differentiation , growth suppression , and apoptosis'
+p401
+(lp402
+I0
+a(lp403
+I5
+atp404
+a(I-1
+S'Gadd45a ( Gadd45 ) , Gadd45b ( MyD118 ) , and Gadd45g ( CR6 ) constitute a family of evolutionarily conserved , small , acidic , nuclear proteins , which have been implicated in terminal differentiation , growth suppression , and apoptosis'
+p405
+(lp406
+I0
+a(lp407
+I7
+atp408
+a(I-1
+S'Gadd45a ( Gadd45 ) , Gadd45b ( MyD118 ) , and Gadd45g ( CR6 ) constitute a family of evolutionarily conserved , small , acidic , nuclear proteins , which have been implicated in terminal differentiation , growth suppression , and apoptosis'
+p409
+(lp410
+I0
+a(lp411
+I11
+atp412
+a(I-1
+S'Gadd45a ( Gadd45 ) , Gadd45b ( MyD118 ) , and Gadd45g ( CR6 ) constitute a family of evolutionarily conserved , small , acidic , nuclear proteins , which have been implicated in terminal differentiation , growth suppression , and apoptosis'
+p413
+(lp414
+I0
+a(lp415
+I13
+atp416
+a(I-1
+S'Gadd45a ( Gadd45 ) , Gadd45b ( MyD118 ) , and Gadd45g ( CR6 ) constitute a family of evolutionarily conserved , small , acidic , nuclear proteins , which have been implicated in terminal differentiation , growth suppression , and apoptosis'
+p417
+(lp418
+I2
+a(lp419
+I5
+atp420
+a(I-1
+S'Gadd45a ( Gadd45 ) , Gadd45b ( MyD118 ) , and Gadd45g ( CR6 ) constitute a family of evolutionarily conserved , small , acidic , nuclear proteins , which have been implicated in terminal differentiation , growth suppression , and apoptosis'
+p421
+(lp422
+I2
+a(lp423
+I7
+atp424
+a(I-1
+S'Gadd45a ( Gadd45 ) , Gadd45b ( MyD118 ) , and Gadd45g ( CR6 ) constitute a family of evolutionarily conserved , small , acidic , nuclear proteins , which have been implicated in terminal differentiation , growth suppression , and apoptosis'
+p425
+(lp426
+I2
+a(lp427
+I11
+atp428
+a(I-1
+S'Gadd45a ( Gadd45 ) , Gadd45b ( MyD118 ) , and Gadd45g ( CR6 ) constitute a family of evolutionarily conserved , small , acidic , nuclear proteins , which have been implicated in terminal differentiation , growth suppression , and apoptosis'
+p429
+(lp430
+I2
+a(lp431
+I13
+atp432
+a(I-1
+S'Gadd45a ( Gadd45 ) , Gadd45b ( MyD118 ) , and Gadd45g ( CR6 ) constitute a family of evolutionarily conserved , small , acidic , nuclear proteins , which have been implicated in terminal differentiation , growth suppression , and apoptosis'
+p433
+(lp434
+I5
+a(lp435
+I7
+atp436
+a(I-1
+S'Gadd45a ( Gadd45 ) , Gadd45b ( MyD118 ) , and Gadd45g ( CR6 ) constitute a family of evolutionarily conserved , small , acidic , nuclear proteins , which have been implicated in terminal differentiation , growth suppression , and apoptosis'
+p437
+(lp438
+I5
+a(lp439
+I11
+atp440
+a(I-1
+S'Gadd45a ( Gadd45 ) , Gadd45b ( MyD118 ) , and Gadd45g ( CR6 ) constitute a family of evolutionarily conserved , small , acidic , nuclear proteins , which have been implicated in terminal differentiation , growth suppression , and apoptosis'
+p441
+(lp442
+I5
+a(lp443
+I13
+atp444
+a(I-1
+S'Gadd45a ( Gadd45 ) , Gadd45b ( MyD118 ) , and Gadd45g ( CR6 ) constitute a family of evolutionarily conserved , small , acidic , nuclear proteins , which have been implicated in terminal differentiation , growth suppression , and apoptosis'
+p445
+(lp446
+I7
+a(lp447
+I11
+atp448
+a(I-1
+S'Gadd45a ( Gadd45 ) , Gadd45b ( MyD118 ) , and Gadd45g ( CR6 ) constitute a family of evolutionarily conserved , small , acidic , nuclear proteins , which have been implicated in terminal differentiation , growth suppression , and apoptosis'
+p449
+(lp450
+I7
+a(lp451
+I13
+atp452
+a(I-1
+S'Gadd45a ( Gadd45 ) , Gadd45b ( MyD118 ) , and Gadd45g ( CR6 ) constitute a family of evolutionarily conserved , small , acidic , nuclear proteins , which have been implicated in terminal differentiation , growth suppression , and apoptosis'
+p453
+(lp454
+I11
+a(lp455
+I13
+atp456
+a(I1
+S'Recent evidence has implicated Gadd45a in inhibition of cdc2 / cyclinB1 kinase and in G2 / M cell cycle arrest'
+p457
+(lp458
+I4
+a(lp459
+I8
+atp460
+a(I-1
+S'Yet , whether Gadd45b and / or Gadd45g function as inhibitors of cdc2 / cyclinB1 kinase and / or play a role in G2 / M cell cycle arrest has not been fully established'
+p461
+(lp462
+I3
+a(lp463
+I7
+atp464
+a(I1
+S'Yet , whether Gadd45b and / or Gadd45g function as inhibitors of cdc2 / cyclinB1 kinase and / or play a role in G2 / M cell cycle arrest has not been fully established'
+p465
+(lp466
+I3
+a(lp467
+I12
+atp468
+a(I1
+S'Yet , whether Gadd45b and / or Gadd45g function as inhibitors of cdc2 / cyclinB1 kinase and / or play a role in G2 / M cell cycle arrest has not been fully established'
+p469
+(lp470
+I7
+a(lp471
+I12
+atp472
+a(I-1
+S'In this work , we show that Gadd45b and Gadd45g specifically interact with the Cdk1 / CyclinB1 complex , but not with other Cdk / Cyclin complexes , in vitro and in vivo'
+p473
+(lp474
+I7
+a(lp475
+I9
+atp476
+a(I1
+S'In this work , we show that Gadd45b and Gadd45g specifically interact with the Cdk1 / CyclinB1 complex , but not with other Cdk / Cyclin complexes , in vitro and in vivo'
+p477
+(lp478
+I7
+a(lp479
+I14
+atp480
+a(I1
+S'In this work , we show that Gadd45b and Gadd45g specifically interact with the Cdk1 / CyclinB1 complex , but not with other Cdk / Cyclin complexes , in vitro and in vivo'
+p481
+(lp482
+I9
+a(lp483
+I14
+atp484
+a(I-1
+S'Data also has been obtained that Gadd45b and Gadd45g , as well as GADD45a , interact with both Cdk1 and cyclinB1 , resulting in inhibition of the kinase activity of the Cdk1 / cyclinB1 complex'
+p485
+(lp486
+I6
+a(lp487
+I8
+atp488
+a(I-1
+S'Data also has been obtained that Gadd45b and Gadd45g , as well as GADD45a , interact with both Cdk1 and cyclinB1 , resulting in inhibition of the kinase activity of the Cdk1 / cyclinB1 complex'
+p489
+(lp490
+I6
+a(lp491
+I13
+atp492
+a(I1
+S'Data also has been obtained that Gadd45b and Gadd45g , as well as GADD45a , interact with both Cdk1 and cyclinB1 , resulting in inhibition of the kinase activity of the Cdk1 / cyclinB1 complex'
+p493
+(lp494
+I6
+a(lp495
+I18
+atp496
+a(I1
+S'Data also has been obtained that Gadd45b and Gadd45g , as well as GADD45a , interact with both Cdk1 and cyclinB1 , resulting in inhibition of the kinase activity of the Cdk1 / cyclinB1 complex'
+p497
+(lp498
+I6
+a(lp499
+I31
+atp500
+a(I-1
+S'Data also has been obtained that Gadd45b and Gadd45g , as well as GADD45a , interact with both Cdk1 and cyclinB1 , resulting in inhibition of the kinase activity of the Cdk1 / cyclinB1 complex'
+p501
+(lp502
+I8
+a(lp503
+I13
+atp504
+a(I1
+S'Data also has been obtained that Gadd45b and Gadd45g , as well as GADD45a , interact with both Cdk1 and cyclinB1 , resulting in inhibition of the kinase activity of the Cdk1 / cyclinB1 complex'
+p505
+(lp506
+I8
+a(lp507
+I18
+atp508
+a(I1
+S'Data also has been obtained that Gadd45b and Gadd45g , as well as GADD45a , interact with both Cdk1 and cyclinB1 , resulting in inhibition of the kinase activity of the Cdk1 / cyclinB1 complex'
+p509
+(lp510
+I8
+a(lp511
+I31
+atp512
+a(I1
+S'Data also has been obtained that Gadd45b and Gadd45g , as well as GADD45a , interact with both Cdk1 and cyclinB1 , resulting in inhibition of the kinase activity of the Cdk1 / cyclinB1 complex'
+p513
+(lp514
+I13
+a(lp515
+I18
+atp516
+a(I1
+S'Data also has been obtained that Gadd45b and Gadd45g , as well as GADD45a , interact with both Cdk1 and cyclinB1 , resulting in inhibition of the kinase activity of the Cdk1 / cyclinB1 complex'
+p517
+(lp518
+I13
+a(lp519
+I31
+atp520
+a(I-1
+S'Data also has been obtained that Gadd45b and Gadd45g , as well as GADD45a , interact with both Cdk1 and cyclinB1 , resulting in inhibition of the kinase activity of the Cdk1 / cyclinB1 complex'
+p521
+(lp522
+I18
+a(lp523
+I31
+atp524
+a(I1
+S'Inhibition of Cdk1 / cyclinB1 kinase activity by Gadd45b and Gadd45a was found to involve disruption of the complex , whereas Gadd45g did not disrupt the complex'
+p525
+(lp526
+I2
+a(lp527
+I8
+atp528
+a(I1
+S'Inhibition of Cdk1 / cyclinB1 kinase activity by Gadd45b and Gadd45a was found to involve disruption of the complex , whereas Gadd45g did not disrupt the complex'
+p529
+(lp530
+I2
+a(lp531
+I10
+atp532
+a(I-1
+S'Inhibition of Cdk1 / cyclinB1 kinase activity by Gadd45b and Gadd45a was found to involve disruption of the complex , whereas Gadd45g did not disrupt the complex'
+p533
+(lp534
+I2
+a(lp535
+I21
+atp536
+a(I-1
+S'Inhibition of Cdk1 / cyclinB1 kinase activity by Gadd45b and Gadd45a was found to involve disruption of the complex , whereas Gadd45g did not disrupt the complex'
+p537
+(lp538
+I8
+a(lp539
+I10
+atp540
+a(I-1
+S'Inhibition of Cdk1 / cyclinB1 kinase activity by Gadd45b and Gadd45a was found to involve disruption of the complex , whereas Gadd45g did not disrupt the complex'
+p541
+(lp542
+I8
+a(lp543
+I21
+atp544
+a(I-1
+S'Inhibition of Cdk1 / cyclinB1 kinase activity by Gadd45b and Gadd45a was found to involve disruption of the complex , whereas Gadd45g did not disrupt the complex'
+p545
+(lp546
+I10
+a(lp547
+I21
+atp548
+a(I-1
+S'DGKdelta ( type II isozyme ) contains a pleckstrin homology domain at the N terminus and a sterile alpha motif domain at the C terminus'
+p549
+(lp550
+I0
+a(lp551
+I8
+atp552
+a(I-1
+S'The transmembrane receptor protein tyrosine phosphatase DEP1 interacts with p120 ( ctn )'
+p553
+(lp554
+I2
+aI3
+aI4
+aI5
+a(lp555
+I6
+atp556
+a(I1
+S'The transmembrane receptor protein tyrosine phosphatase DEP1 interacts with p120 ( ctn )'
+p557
+(lp558
+I2
+aI3
+aI4
+aI5
+a(lp559
+I9
+aI10
+aI11
+aI12
+atp560
+a(I1
+S'The transmembrane receptor protein tyrosine phosphatase DEP1 interacts with p120 ( ctn )'
+p561
+(lp562
+I6
+a(lp563
+I9
+aI10
+aI11
+aI12
+atp564
+a(I-1
+S'The receptor - like protein tyrosine phosphatase DEP1 , also known as CD148 , is expressed predominantly in epithelial cells , in a variety of tumor cell lines , and in lymphocytes'
+p565
+(lp566
+I1
+aI2
+aI3
+aI4
+aI5
+aI6
+a(lp567
+I7
+atp568
+a(I-1
+S'The receptor - like protein tyrosine phosphatase DEP1 , also known as CD148 , is expressed predominantly in epithelial cells , in a variety of tumor cell lines , and in lymphocytes'
+p569
+(lp570
+I1
+aI2
+aI3
+aI4
+aI5
+aI6
+a(lp571
+I12
+atp572
+a(I-1
+S'The receptor - like protein tyrosine phosphatase DEP1 , also known as CD148 , is expressed predominantly in epithelial cells , in a variety of tumor cell lines , and in lymphocytes'
+p573
+(lp574
+I7
+a(lp575
+I12
+atp576
+a(I1
+S'DEP1 also interacted with other members of the catenin gene family including beta - catenin and gamma - catenin'
+p577
+(lp578
+I0
+a(lp579
+I12
+aI13
+aI14
+atp580
+a(I-1
+S'The interaction with p120 ( ctn ) is likely to be direct , as the interaction occurs in K562 cells lacking functional adherens junctions and E - cadherin expression'
+p581
+(lp582
+I3
+aI4
+aI5
+aI6
+a(lp583
+I25
+aI26
+aI27
+atp584
+a(I-1
+S'Catalytic domains of the tyrosine phosphatases PTP - PEST , CD45 , and PTPbeta did not interact with proteins of the catenin family to detectable levels , suggesting that the interaction of DEP1 with these proteins is specific'
+p585
+(lp586
+I6
+aI7
+aI8
+a(lp587
+I10
+atp588
+a(I-1
+S'Catalytic domains of the tyrosine phosphatases PTP - PEST , CD45 , and PTPbeta did not interact with proteins of the catenin family to detectable levels , suggesting that the interaction of DEP1 with these proteins is specific'
+p589
+(lp590
+I6
+aI7
+aI8
+a(lp591
+I32
+atp592
+a(I-1
+S'Catalytic domains of the tyrosine phosphatases PTP - PEST , CD45 , and PTPbeta did not interact with proteins of the catenin family to detectable levels , suggesting that the interaction of DEP1 with these proteins is specific'
+p593
+(lp594
+I10
+a(lp595
+I32
+atp596
+a(I-1
+S"p300 / cAMP - response - element - binding - protein ( ' CREB ' ) - binding protein ( CBP ) modulates co - operation between myocyte enhancer factor 2A ( MEF2A ) and thyroid hormone receptor - retinoid X receptor"
+p597
+(lp598
+I0
+a(lp599
+I2
+aI3
+aI4
+aI5
+aI6
+aI7
+aI8
+aI9
+aI10
+atp600
+a(I-1
+S"p300 / cAMP - response - element - binding - protein ( ' CREB ' ) - binding protein ( CBP ) modulates co - operation between myocyte enhancer factor 2A ( MEF2A ) and thyroid hormone receptor - retinoid X receptor"
+p601
+(lp602
+I0
+a(lp603
+I13
+atp604
+a(I1
+S"p300 / cAMP - response - element - binding - protein ( ' CREB ' ) - binding protein ( CBP ) modulates co - operation between myocyte enhancer factor 2A ( MEF2A ) and thyroid hormone receptor - retinoid X receptor"
+p605
+(lp606
+I0
+a(lp607
+I32
+atp608
+a(I-1
+S"p300 / cAMP - response - element - binding - protein ( ' CREB ' ) - binding protein ( CBP ) modulates co - operation between myocyte enhancer factor 2A ( MEF2A ) and thyroid hormone receptor - retinoid X receptor"
+p609
+(lp610
+I2
+aI3
+aI4
+aI5
+aI6
+aI7
+aI8
+aI9
+aI10
+a(lp611
+I13
+atp612
+a(I1
+S"p300 / cAMP - response - element - binding - protein ( ' CREB ' ) - binding protein ( CBP ) modulates co - operation between myocyte enhancer factor 2A ( MEF2A ) and thyroid hormone receptor - retinoid X receptor"
+p613
+(lp614
+I2
+aI3
+aI4
+aI5
+aI6
+aI7
+aI8
+aI9
+aI10
+a(lp615
+I32
+atp616
+a(I1
+S"p300 / cAMP - response - element - binding - protein ( ' CREB ' ) - binding protein ( CBP ) modulates co - operation between myocyte enhancer factor 2A ( MEF2A ) and thyroid hormone receptor - retinoid X receptor"
+p617
+(lp618
+I13
+a(lp619
+I32
+atp620
+a(I-1
+S"p300 / cAMP - response - element - binding - protein ( ' CREB ' ) - binding protein ( CBP ) interacting with transcription factors is able to increase their activity on target gene promoters"
+p621
+(lp622
+I0
+a(lp623
+I2
+aI3
+aI4
+aI5
+aI6
+aI7
+aI8
+aI9
+aI10
+atp624
+a(I-1
+S"p300 / cAMP - response - element - binding - protein ( ' CREB ' ) - binding protein ( CBP ) interacting with transcription factors is able to increase their activity on target gene promoters"
+p625
+(lp626
+I0
+a(lp627
+I13
+atp628
+a(I-1
+S"p300 / cAMP - response - element - binding - protein ( ' CREB ' ) - binding protein ( CBP ) interacting with transcription factors is able to increase their activity on target gene promoters"
+p629
+(lp630
+I2
+aI3
+aI4
+aI5
+aI6
+aI7
+aI8
+aI9
+aI10
+a(lp631
+I13
+atp632
+a(I1
+S'Our findings showed that the same C - terminal portion of p300 binds the N - terminal domains of both TR and MEF2A , and our in vivo studies demonstrated that TR , MEF2A and p300 form a ternary complex'
+p633
+(lp634
+I11
+a(lp635
+I22
+atp636
+a(I-1
+S'Our findings showed that the same C - terminal portion of p300 binds the N - terminal domains of both TR and MEF2A , and our in vivo studies demonstrated that TR , MEF2A and p300 form a ternary complex'
+p637
+(lp638
+I11
+a(lp639
+I33
+atp640
+a(I-1
+S'Our findings showed that the same C - terminal portion of p300 binds the N - terminal domains of both TR and MEF2A , and our in vivo studies demonstrated that TR , MEF2A and p300 form a ternary complex'
+p641
+(lp642
+I11
+a(lp643
+I35
+atp644
+a(I-1
+S'Our findings showed that the same C - terminal portion of p300 binds the N - terminal domains of both TR and MEF2A , and our in vivo studies demonstrated that TR , MEF2A and p300 form a ternary complex'
+p645
+(lp646
+I22
+a(lp647
+I33
+atp648
+a(I-1
+S'Our findings showed that the same C - terminal portion of p300 binds the N - terminal domains of both TR and MEF2A , and our in vivo studies demonstrated that TR , MEF2A and p300 form a ternary complex'
+p649
+(lp650
+I22
+a(lp651
+I35
+atp652
+a(I1
+S'Our findings showed that the same C - terminal portion of p300 binds the N - terminal domains of both TR and MEF2A , and our in vivo studies demonstrated that TR , MEF2A and p300 form a ternary complex'
+p653
+(lp654
+I33
+a(lp655
+I35
+atp656
+a(I1
+S'The human Imp3 and Imp4 proteins form a ternary complex with hMpp10 , which only interacts with the U3 snoRNA in 60 - 80S ribonucleoprotein complexes'
+p657
+(lp658
+I2
+a(lp659
+I4
+atp660
+a(I1
+S'The human Imp3 and Imp4 proteins form a ternary complex with hMpp10 , which only interacts with the U3 snoRNA in 60 - 80S ribonucleoprotein complexes'
+p661
+(lp662
+I2
+a(lp663
+I19
+atp664
+a(I1
+S'The human Imp3 and Imp4 proteins form a ternary complex with hMpp10 , which only interacts with the U3 snoRNA in 60 - 80S ribonucleoprotein complexes'
+p665
+(lp666
+I4
+a(lp667
+I19
+atp668
+a(I-1
+S'We have cloned cDNAs encoding the human and mouse homologs of the yeast U3 snoRNP - associated proteins Imp3 and Imp4'
+p669
+(lp670
+I18
+a(lp671
+I20
+atp672
+a(I-1
+S'The results of complementation experiments show that , in contrast to mouse Imp4 , mouse Imp3 can partially alleviate the growth defect of the corresponding yeast null strain , indicating that the role of Imp3 in pre - rRNA processing is evolutionarily conserved'
+p673
+(lp674
+I12
+a(lp675
+I15
+atp676
+a(I-1
+S'The results of complementation experiments show that , in contrast to mouse Imp4 , mouse Imp3 can partially alleviate the growth defect of the corresponding yeast null strain , indicating that the role of Imp3 in pre - rRNA processing is evolutionarily conserved'
+p677
+(lp678
+I12
+a(lp679
+I34
+atp680
+a(I-1
+S'The results of complementation experiments show that , in contrast to mouse Imp4 , mouse Imp3 can partially alleviate the growth defect of the corresponding yeast null strain , indicating that the role of Imp3 in pre - rRNA processing is evolutionarily conserved'
+p681
+(lp682
+I15
+a(lp683
+I34
+atp684
+a(I-1
+S'The results of density gradient centrifugation experiments show that , in contrast to hU3 - 55K , the human Imp3 and Imp4 proteins predominantly interact with the U3 snoRNA in 60 - 80S ribonucleoprotein complexes'
+p685
+(lp686
+I19
+a(lp687
+I21
+atp688
+a(I1
+S'The results of density gradient centrifugation experiments show that , in contrast to hU3 - 55K , the human Imp3 and Imp4 proteins predominantly interact with the U3 snoRNA in 60 - 80S ribonucleoprotein complexes'
+p689
+(lp690
+I19
+a(lp691
+I28
+atp692
+a(I1
+S'The results of density gradient centrifugation experiments show that , in contrast to hU3 - 55K , the human Imp3 and Imp4 proteins predominantly interact with the U3 snoRNA in 60 - 80S ribonucleoprotein complexes'
+p693
+(lp694
+I21
+a(lp695
+I28
+atp696
+a(I1
+S'In the present study , we observed evidence of cross - talk between the cannabinoid receptor CB1 and the orexin 1 receptor ( OX1R ) using a heterologous system'
+p697
+(lp698
+I16
+a(lp699
+I19
+aI20
+aI21
+atp700
+a(I1
+S'In the present study , we observed evidence of cross - talk between the cannabinoid receptor CB1 and the orexin 1 receptor ( OX1R ) using a heterologous system'
+p701
+(lp702
+I16
+a(lp703
+I23
+atp704
+a(I-1
+S'In the present study , we observed evidence of cross - talk between the cannabinoid receptor CB1 and the orexin 1 receptor ( OX1R ) using a heterologous system'
+p705
+(lp706
+I19
+aI20
+aI21
+a(lp707
+I23
+atp708
+a(I-1
+S'In contrast to OX1R , the potency of direct activation of CB1 was not affected by co - expression with OX1R'
+p709
+(lp710
+I3
+a(lp711
+I11
+atp712
+a(I-1
+S'In contrast to OX1R , the potency of direct activation of CB1 was not affected by co - expression with OX1R'
+p713
+(lp714
+I3
+a(lp715
+I20
+atp716
+a(I-1
+S'In contrast to OX1R , the potency of direct activation of CB1 was not affected by co - expression with OX1R'
+p717
+(lp718
+I11
+a(lp719
+I20
+atp720
+a(I-1
+S'In addition , electron microscopy experiments revealed that CB1 and OX1R are closely apposed at the plasma membrane level ; they are close enough to form hetero - oligomers'
+p721
+(lp722
+I8
+a(lp723
+I10
+atp724
+a(I-1
+S'GC - GAP , a Rho family GTPase - activating protein that interacts with signaling adapters Gab1 and Gab2'
+p725
+(lp726
+I0
+aI1
+aI2
+a(lp727
+I7
+aI8
+aI9
+aI10
+atp728
+a(I1
+S'GC - GAP , a Rho family GTPase - activating protein that interacts with signaling adapters Gab1 and Gab2'
+p729
+(lp730
+I0
+aI1
+aI2
+a(lp731
+I16
+atp732
+a(I1
+S'GC - GAP , a Rho family GTPase - activating protein that interacts with signaling adapters Gab1 and Gab2'
+p733
+(lp734
+I0
+aI1
+aI2
+a(lp735
+I18
+atp736
+a(I1
+S'GC - GAP , a Rho family GTPase - activating protein that interacts with signaling adapters Gab1 and Gab2'
+p737
+(lp738
+I7
+aI8
+aI9
+aI10
+a(lp739
+I16
+atp740
+a(I1
+S'GC - GAP , a Rho family GTPase - activating protein that interacts with signaling adapters Gab1 and Gab2'
+p741
+(lp742
+I7
+aI8
+aI9
+aI10
+a(lp743
+I18
+atp744
+a(I-1
+S'GC - GAP , a Rho family GTPase - activating protein that interacts with signaling adapters Gab1 and Gab2'
+p745
+(lp746
+I16
+a(lp747
+I18
+atp748
+a(I-1
+S'Gab1 and Gab2 are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as Grb2 , Shp - 2 , phosphatidylinositol 3 - kinase , Shc , and Crk'
+p749
+(lp750
+I0
+a(lp751
+I2
+atp752
+a(I1
+S'Gab1 and Gab2 are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as Grb2 , Shp - 2 , phosphatidylinositol 3 - kinase , Shc , and Crk'
+p753
+(lp754
+I0
+a(lp755
+I23
+atp756
+a(I1
+S'Gab1 and Gab2 are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as Grb2 , Shp - 2 , phosphatidylinositol 3 - kinase , Shc , and Crk'
+p757
+(lp758
+I0
+a(lp759
+I25
+aI26
+aI27
+atp760
+a(I1
+S'Gab1 and Gab2 are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as Grb2 , Shp - 2 , phosphatidylinositol 3 - kinase , Shc , and Crk'
+p761
+(lp762
+I0
+a(lp763
+I29
+aI30
+aI31
+aI32
+atp764
+a(I1
+S'Gab1 and Gab2 are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as Grb2 , Shp - 2 , phosphatidylinositol 3 - kinase , Shc , and Crk'
+p765
+(lp766
+I2
+a(lp767
+I23
+atp768
+a(I1
+S'Gab1 and Gab2 are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as Grb2 , Shp - 2 , phosphatidylinositol 3 - kinase , Shc , and Crk'
+p769
+(lp770
+I2
+a(lp771
+I25
+aI26
+aI27
+atp772
+a(I1
+S'Gab1 and Gab2 are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as Grb2 , Shp - 2 , phosphatidylinositol 3 - kinase , Shc , and Crk'
+p773
+(lp774
+I2
+a(lp775
+I29
+aI30
+aI31
+aI32
+atp776
+a(I-1
+S'Gab1 and Gab2 are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as Grb2 , Shp - 2 , phosphatidylinositol 3 - kinase , Shc , and Crk'
+p777
+(lp778
+I23
+a(lp779
+I25
+aI26
+aI27
+atp780
+a(I-1
+S'Gab1 and Gab2 are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as Grb2 , Shp - 2 , phosphatidylinositol 3 - kinase , Shc , and Crk'
+p781
+(lp782
+I23
+a(lp783
+I29
+aI30
+aI31
+aI32
+atp784
+a(I-1
+S'Gab1 and Gab2 are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as Grb2 , Shp - 2 , phosphatidylinositol 3 - kinase , Shc , and Crk'
+p785
+(lp786
+I25
+aI26
+aI27
+a(lp787
+I29
+aI30
+aI31
+aI32
+atp788
+a(I1
+S'In addition , GC - GAP contains several classic proline - rich motifs , and it interacts with the first SH3 domain of Crk and full - length Nck in vitro'
+p789
+(lp790
+I3
+aI4
+aI5
+a(lp791
+I28
+atp792
+a(I-1
+S'We propose that Gab1 and Gab2 in cooperation with other adapter molecules might regulate the cellular localization of GC - GAP under specific stimuli , acting to regulate precisely Rac and Cdc42 activities'
+p793
+(lp794
+I3
+a(lp795
+I5
+atp796
+a(I1
+S'We propose that Gab1 and Gab2 in cooperation with other adapter molecules might regulate the cellular localization of GC - GAP under specific stimuli , acting to regulate precisely Rac and Cdc42 activities'
+p797
+(lp798
+I3
+a(lp799
+I18
+aI19
+aI20
+atp800
+a(I1
+S'We propose that Gab1 and Gab2 in cooperation with other adapter molecules might regulate the cellular localization of GC - GAP under specific stimuli , acting to regulate precisely Rac and Cdc42 activities'
+p801
+(lp802
+I3
+a(lp803
+I31
+atp804
+a(I1
+S'We propose that Gab1 and Gab2 in cooperation with other adapter molecules might regulate the cellular localization of GC - GAP under specific stimuli , acting to regulate precisely Rac and Cdc42 activities'
+p805
+(lp806
+I5
+a(lp807
+I18
+aI19
+aI20
+atp808
+a(I1
+S'We propose that Gab1 and Gab2 in cooperation with other adapter molecules might regulate the cellular localization of GC - GAP under specific stimuli , acting to regulate precisely Rac and Cdc42 activities'
+p809
+(lp810
+I5
+a(lp811
+I31
+atp812
+a(I-1
+S'We propose that Gab1 and Gab2 in cooperation with other adapter molecules might regulate the cellular localization of GC - GAP under specific stimuli , acting to regulate precisely Rac and Cdc42 activities'
+p813
+(lp814
+I18
+aI19
+aI20
+a(lp815
+I31
+atp816
+a(I-1
+S'This work led to identification of a novel GTPase - activating protein ( GAP ) for Rho family GTPases'
+p817
+(lp818
+I8
+aI9
+aI10
+aI11
+a(lp819
+I13
+atp820
+a(I-1
+S'The GAP domain shows high similarity to the recently cloned CdGAP and displays activity toward RhoA , Rac1 , and Cdc42 in vitro'
+p821
+(lp822
+I10
+a(lp823
+I17
+atp824
+a(I-1
+S'The GAP domain shows high similarity to the recently cloned CdGAP and displays activity toward RhoA , Rac1 , and Cdc42 in vitro'
+p825
+(lp826
+I10
+a(lp827
+I20
+atp828
+a(I-1
+S'The GAP domain shows high similarity to the recently cloned CdGAP and displays activity toward RhoA , Rac1 , and Cdc42 in vitro'
+p829
+(lp830
+I17
+a(lp831
+I20
+atp832
+a(I1
+S'The protein was named GC - GAP for its ability to interact with GAB proteins and its activity toward Rac and Cdc42'
+p833
+(lp834
+I4
+aI5
+aI6
+a(lp835
+I13
+atp836
+a(I1
+S'The protein was named GC - GAP for its ability to interact with GAB proteins and its activity toward Rac and Cdc42'
+p837
+(lp838
+I4
+aI5
+aI6
+a(lp839
+I21
+atp840
+a(I-1
+S'The protein was named GC - GAP for its ability to interact with GAB proteins and its activity toward Rac and Cdc42'
+p841
+(lp842
+I13
+a(lp843
+I21
+atp844
+a(I1
+S'Expression of GC - GAP in 293T cells led to a reduction in active Rac1 and Cdc42 levels but not RhoA'
+p845
+(lp846
+I2
+aI3
+aI4
+a(lp847
+I14
+atp848
+a(I1
+S'Expression of GC - GAP in 293T cells led to a reduction in active Rac1 and Cdc42 levels but not RhoA'
+p849
+(lp850
+I2
+aI3
+aI4
+a(lp851
+I16
+atp852
+a(I-1
+S'Expression of GC - GAP in 293T cells led to a reduction in active Rac1 and Cdc42 levels but not RhoA'
+p853
+(lp854
+I14
+a(lp855
+I16
+atp856
+a(I1
+S'A role for Plk1 phosphorylation of NudC in cytokinesis'
+p857
+(lp858
+I3
+a(lp859
+I6
+atp860
+a(I1
+S'Here , we characterize the interaction between Plk1 and NudC , show that Plk1 phosphorylates NudC at conserved S274 and S326 residues in vitro , and present evidence that NudC is also a substrate for Plk1 in vivo'
+p861
+(lp862
+I7
+a(lp863
+I9
+atp864
+a(I-1
+S'Here , we characterize the interaction between Plk1 and NudC , show that Plk1 phosphorylates NudC at conserved S274 and S326 residues in vitro , and present evidence that NudC is also a substrate for Plk1 in vivo'
+p865
+(lp866
+I7
+a(lp867
+I13
+atp868
+a(I-1
+S'Here , we characterize the interaction between Plk1 and NudC , show that Plk1 phosphorylates NudC at conserved S274 and S326 residues in vitro , and present evidence that NudC is also a substrate for Plk1 in vivo'
+p869
+(lp870
+I7
+a(lp871
+I15
+atp872
+a(I-1
+S'Here , we characterize the interaction between Plk1 and NudC , show that Plk1 phosphorylates NudC at conserved S274 and S326 residues in vitro , and present evidence that NudC is also a substrate for Plk1 in vivo'
+p873
+(lp874
+I7
+a(lp875
+I29
+atp876
+a(I-1
+S'Here , we characterize the interaction between Plk1 and NudC , show that Plk1 phosphorylates NudC at conserved S274 and S326 residues in vitro , and present evidence that NudC is also a substrate for Plk1 in vivo'
+p877
+(lp878
+I7
+a(lp879
+I35
+atp880
+a(I-1
+S'Here , we characterize the interaction between Plk1 and NudC , show that Plk1 phosphorylates NudC at conserved S274 and S326 residues in vitro , and present evidence that NudC is also a substrate for Plk1 in vivo'
+p881
+(lp882
+I9
+a(lp883
+I13
+atp884
+a(I-1
+S'Here , we characterize the interaction between Plk1 and NudC , show that Plk1 phosphorylates NudC at conserved S274 and S326 residues in vitro , and present evidence that NudC is also a substrate for Plk1 in vivo'
+p885
+(lp886
+I9
+a(lp887
+I15
+atp888
+a(I-1
+S'Here , we characterize the interaction between Plk1 and NudC , show that Plk1 phosphorylates NudC at conserved S274 and S326 residues in vitro , and present evidence that NudC is also a substrate for Plk1 in vivo'
+p889
+(lp890
+I9
+a(lp891
+I29
+atp892
+a(I-1
+S'Here , we characterize the interaction between Plk1 and NudC , show that Plk1 phosphorylates NudC at conserved S274 and S326 residues in vitro , and present evidence that NudC is also a substrate for Plk1 in vivo'
+p893
+(lp894
+I9
+a(lp895
+I35
+atp896
+a(I1
+S'Here , we characterize the interaction between Plk1 and NudC , show that Plk1 phosphorylates NudC at conserved S274 and S326 residues in vitro , and present evidence that NudC is also a substrate for Plk1 in vivo'
+p897
+(lp898
+I13
+a(lp899
+I15
+atp900
+a(I-1
+S'Here , we characterize the interaction between Plk1 and NudC , show that Plk1 phosphorylates NudC at conserved S274 and S326 residues in vitro , and present evidence that NudC is also a substrate for Plk1 in vivo'
+p901
+(lp902
+I13
+a(lp903
+I29
+atp904
+a(I-1
+S'Here , we characterize the interaction between Plk1 and NudC , show that Plk1 phosphorylates NudC at conserved S274 and S326 residues in vitro , and present evidence that NudC is also a substrate for Plk1 in vivo'
+p905
+(lp906
+I13
+a(lp907
+I35
+atp908
+a(I-1
+S'Here , we characterize the interaction between Plk1 and NudC , show that Plk1 phosphorylates NudC at conserved S274 and S326 residues in vitro , and present evidence that NudC is also a substrate for Plk1 in vivo'
+p909
+(lp910
+I15
+a(lp911
+I29
+atp912
+a(I-1
+S'Here , we characterize the interaction between Plk1 and NudC , show that Plk1 phosphorylates NudC at conserved S274 and S326 residues in vitro , and present evidence that NudC is also a substrate for Plk1 in vivo'
+p913
+(lp914
+I15
+a(lp915
+I35
+atp916
+a(I1
+S'Here , we characterize the interaction between Plk1 and NudC , show that Plk1 phosphorylates NudC at conserved S274 and S326 residues in vitro , and present evidence that NudC is also a substrate for Plk1 in vivo'
+p917
+(lp918
+I29
+a(lp919
+I35
+atp920
+a(I-1
+S'Downregulation of NudC by RNA interference results in multiple mitotic defects , including multinucleation and cells arrested at the midbody stage , which are rescued by ectopic expression of wild - type NudC , but not by NudC with mutations in the Plk1 phosphorylation sites'
+p921
+(lp922
+I2
+a(lp923
+I32
+atp924
+a(I-1
+S'Downregulation of NudC by RNA interference results in multiple mitotic defects , including multinucleation and cells arrested at the midbody stage , which are rescued by ectopic expression of wild - type NudC , but not by NudC with mutations in the Plk1 phosphorylation sites'
+p925
+(lp926
+I2
+a(lp927
+I37
+atp928
+a(I-1
+S'Downregulation of NudC by RNA interference results in multiple mitotic defects , including multinucleation and cells arrested at the midbody stage , which are rescued by ectopic expression of wild - type NudC , but not by NudC with mutations in the Plk1 phosphorylation sites'
+p929
+(lp930
+I2
+a(lp931
+I42
+atp932
+a(I-1
+S'Downregulation of NudC by RNA interference results in multiple mitotic defects , including multinucleation and cells arrested at the midbody stage , which are rescued by ectopic expression of wild - type NudC , but not by NudC with mutations in the Plk1 phosphorylation sites'
+p933
+(lp934
+I32
+a(lp935
+I37
+atp936
+a(I-1
+S'Downregulation of NudC by RNA interference results in multiple mitotic defects , including multinucleation and cells arrested at the midbody stage , which are rescued by ectopic expression of wild - type NudC , but not by NudC with mutations in the Plk1 phosphorylation sites'
+p937
+(lp938
+I32
+a(lp939
+I42
+atp940
+a(I-1
+S'Downregulation of NudC by RNA interference results in multiple mitotic defects , including multinucleation and cells arrested at the midbody stage , which are rescued by ectopic expression of wild - type NudC , but not by NudC with mutations in the Plk1 phosphorylation sites'
+p941
+(lp942
+I37
+a(lp943
+I42
+atp944
+a(I1
+S'These results suggest that Plk1 phosphorylation of NudC may influence cytokinesis'
+p945
+(lp946
+I4
+a(lp947
+I7
+atp948
+a(I1
+S'Specific interaction of Egr1 and c / EBPbeta leads to the transcriptional activation of the human low density lipoprotein receptor gene'
+p949
+(lp950
+I3
+a(lp951
+I16
+aI17
+aI18
+aI19
+atp952
+a(I-1
+S'The sterol - independent regulatory element ( SIRE ) of the LDL receptor ( LDLR ) promoter mediates oncostatin M ( OM ) - induced transcription of the LDLR gene through a cholesterol - independent pathway'
+p953
+(lp954
+I11
+aI12
+a(lp955
+I14
+atp956
+a(I1
+S'The sterol - independent regulatory element ( SIRE ) of the LDL receptor ( LDLR ) promoter mediates oncostatin M ( OM ) - induced transcription of the LDLR gene through a cholesterol - independent pathway'
+p957
+(lp958
+I11
+aI12
+a(lp959
+I18
+aI19
+atp960
+a(I-1
+S'The sterol - independent regulatory element ( SIRE ) of the LDL receptor ( LDLR ) promoter mediates oncostatin M ( OM ) - induced transcription of the LDLR gene through a cholesterol - independent pathway'
+p961
+(lp962
+I11
+aI12
+a(lp963
+I28
+atp964
+a(I1
+S'The sterol - independent regulatory element ( SIRE ) of the LDL receptor ( LDLR ) promoter mediates oncostatin M ( OM ) - induced transcription of the LDLR gene through a cholesterol - independent pathway'
+p965
+(lp966
+I14
+a(lp967
+I18
+aI19
+atp968
+a(I-1
+S'The sterol - independent regulatory element ( SIRE ) of the LDL receptor ( LDLR ) promoter mediates oncostatin M ( OM ) - induced transcription of the LDLR gene through a cholesterol - independent pathway'
+p969
+(lp970
+I14
+a(lp971
+I28
+atp972
+a(I1
+S'The sterol - independent regulatory element ( SIRE ) of the LDL receptor ( LDLR ) promoter mediates oncostatin M ( OM ) - induced transcription of the LDLR gene through a cholesterol - independent pathway'
+p973
+(lp974
+I18
+aI19
+a(lp975
+I28
+atp976
+a(I1
+S'TR2 orphan receptor functions as negative modulator for androgen receptor in prostate cancer cells PC - 3'
+p977
+(lp978
+I0
+a(lp979
+I8
+aI9
+atp980
+a(I-1
+S'TR2 orphan receptor functions as negative modulator for androgen receptor in prostate cancer cells PC - 3'
+p981
+(lp982
+I0
+a(lp983
+I14
+aI15
+aI16
+atp984
+a(I-1
+S'TR2 orphan receptor functions as negative modulator for androgen receptor in prostate cancer cells PC - 3'
+p985
+(lp986
+I8
+aI9
+a(lp987
+I14
+aI15
+aI16
+atp988
+a(I-1
+S'BACKGROUND : Both androgen receptor ( AR ) and orphan receptor TR2 ( TR2 ) belong to the steroid nuclear receptor superfamily and are expressed in prostate cancer tissue and cell lines'
+p989
+(lp990
+I3
+aI4
+a(lp991
+I11
+atp992
+a(I-1
+S'BACKGROUND : Both androgen receptor ( AR ) and orphan receptor TR2 ( TR2 ) belong to the steroid nuclear receptor superfamily and are expressed in prostate cancer tissue and cell lines'
+p993
+(lp994
+I3
+aI4
+a(lp995
+I13
+atp996
+a(I-1
+S'BACKGROUND : Both androgen receptor ( AR ) and orphan receptor TR2 ( TR2 ) belong to the steroid nuclear receptor superfamily and are expressed in prostate cancer tissue and cell lines'
+p997
+(lp998
+I11
+a(lp999
+I13
+atp1000
+a(I-1
+S'The interaction between AR and TR2 was assessed by glutathione - S - transferase ( GST ) pull - down assay and mammalian two - hybrid system assay'
+p1001
+(lp1002
+I5
+a(lp1003
+I9
+aI10
+aI11
+aI12
+aI13
+atp1004
+a(I-1
+S'The interaction between AR and TR2 was assessed by glutathione - S - transferase ( GST ) pull - down assay and mammalian two - hybrid system assay'
+p1005
+(lp1006
+I5
+a(lp1007
+I15
+atp1008
+a(I-1
+S'The interaction between AR and TR2 was assessed by glutathione - S - transferase ( GST ) pull - down assay and mammalian two - hybrid system assay'
+p1009
+(lp1010
+I9
+aI10
+aI11
+aI12
+aI13
+a(lp1011
+I15
+atp1012
+a(I1
+S'The protein pVHL functions in a multi - subunit E3 ubiquitin ligase that targets the hypoxia - inducible transcription factor Hif1 alpha for proteasomal degradation during normoxia'
+p1013
+(lp1014
+I2
+a(lp1015
+I20
+aI21
+atp1016
+a(I1
+S'We establish that pVHL binds to Tat - binding protein - 1 ( TBP - 1 ) , a component of the 19S regulatory complex of the proteasome'
+p1017
+(lp1018
+I3
+a(lp1019
+I6
+aI7
+aI8
+aI9
+aI10
+aI11
+atp1020
+a(I1
+S'We establish that pVHL binds to Tat - binding protein - 1 ( TBP - 1 ) , a component of the 19S regulatory complex of the proteasome'
+p1021
+(lp1022
+I3
+a(lp1023
+I13
+aI14
+aI15
+atp1024
+a(I-1
+S'We establish that pVHL binds to Tat - binding protein - 1 ( TBP - 1 ) , a component of the 19S regulatory complex of the proteasome'
+p1025
+(lp1026
+I6
+aI7
+aI8
+aI9
+aI10
+aI11
+a(lp1027
+I13
+aI14
+aI15
+atp1028
+a(I1
+S'TBP - 1 associates with the beta - domain of pVHL and complexes with pVHL and Hif1 alpha in vivo'
+p1029
+(lp1030
+I0
+aI1
+aI2
+a(lp1031
+I10
+atp1032
+a(I1
+S'TBP - 1 associates with the beta - domain of pVHL and complexes with pVHL and Hif1 alpha in vivo'
+p1033
+(lp1034
+I0
+aI1
+aI2
+a(lp1035
+I14
+atp1036
+a(I1
+S'TBP - 1 associates with the beta - domain of pVHL and complexes with pVHL and Hif1 alpha in vivo'
+p1037
+(lp1038
+I0
+aI1
+aI2
+a(lp1039
+I16
+aI17
+atp1040
+a(I-1
+S'TBP - 1 associates with the beta - domain of pVHL and complexes with pVHL and Hif1 alpha in vivo'
+p1041
+(lp1042
+I10
+a(lp1043
+I14
+atp1044
+a(I-1
+S'TBP - 1 associates with the beta - domain of pVHL and complexes with pVHL and Hif1 alpha in vivo'
+p1045
+(lp1046
+I10
+a(lp1047
+I16
+aI17
+atp1048
+a(I-1
+S'TBP - 1 associates with the beta - domain of pVHL and complexes with pVHL and Hif1 alpha in vivo'
+p1049
+(lp1050
+I14
+a(lp1051
+I16
+aI17
+atp1052
+a(I1
+S'Overexpression of TBP - 1 promotes degradation of Hif1 alpha in a pVHL - dependent manner that requires the ATPase domain of TBP - 1'
+p1053
+(lp1054
+I2
+aI3
+aI4
+a(lp1055
+I8
+aI9
+atp1056
+a(I-1
+S'Overexpression of TBP - 1 promotes degradation of Hif1 alpha in a pVHL - dependent manner that requires the ATPase domain of TBP - 1'
+p1057
+(lp1058
+I2
+aI3
+aI4
+a(lp1059
+I22
+aI23
+aI24
+atp1060
+a(I1
+S'Overexpression of TBP - 1 promotes degradation of Hif1 alpha in a pVHL - dependent manner that requires the ATPase domain of TBP - 1'
+p1061
+(lp1062
+I8
+aI9
+a(lp1063
+I22
+aI23
+aI24
+atp1064
+a(I1
+S'Blockade of TBP - 1 expression by small interfering RNA ( siRNA ) causes prolonged degradation kinetics of Hif1 alpha'
+p1065
+(lp1066
+I2
+aI3
+aI4
+a(lp1067
+I18
+aI19
+atp1068
+a(I-1
+S'Several distinct mutations in exon 2 of VHL disrupt binding of pVHL to TBP - 1'
+p1069
+(lp1070
+I7
+a(lp1071
+I11
+atp1072
+a(I1
+S'Several distinct mutations in exon 2 of VHL disrupt binding of pVHL to TBP - 1'
+p1073
+(lp1074
+I7
+a(lp1075
+I13
+aI14
+aI15
+atp1076
+a(I1
+S'Several distinct mutations in exon 2 of VHL disrupt binding of pVHL to TBP - 1'
+p1077
+(lp1078
+I11
+a(lp1079
+I13
+aI14
+aI15
+atp1080
+a(I1
+S'A pVHL mutant containing a P154L substitution coimmunoprecipitates with Hif1 alpha , but not TBP - 1 , and does not promote degradation of Hif1 alpha'
+p1081
+(lp1082
+I1
+a(lp1083
+I9
+aI10
+atp1084
+a(I-1
+S'A pVHL mutant containing a P154L substitution coimmunoprecipitates with Hif1 alpha , but not TBP - 1 , and does not promote degradation of Hif1 alpha'
+p1085
+(lp1086
+I1
+a(lp1087
+I14
+aI15
+aI16
+atp1088
+a(I-1
+S'A pVHL mutant containing a P154L substitution coimmunoprecipitates with Hif1 alpha , but not TBP - 1 , and does not promote degradation of Hif1 alpha'
+p1089
+(lp1090
+I1
+a(lp1091
+I24
+aI25
+atp1092
+a(I-1
+S'A pVHL mutant containing a P154L substitution coimmunoprecipitates with Hif1 alpha , but not TBP - 1 , and does not promote degradation of Hif1 alpha'
+p1093
+(lp1094
+I9
+aI10
+a(lp1095
+I14
+aI15
+aI16
+atp1096
+a(I-1
+S'A pVHL mutant containing a P154L substitution coimmunoprecipitates with Hif1 alpha , but not TBP - 1 , and does not promote degradation of Hif1 alpha'
+p1097
+(lp1098
+I9
+aI10
+a(lp1099
+I24
+aI25
+atp1100
+a(I-1
+S'A pVHL mutant containing a P154L substitution coimmunoprecipitates with Hif1 alpha , but not TBP - 1 , and does not promote degradation of Hif1 alpha'
+p1101
+(lp1102
+I14
+aI15
+aI16
+a(lp1103
+I24
+aI25
+atp1104
+a(I1
+S'Thus , the ability of pVHL to degrade Hif1 alpha depends in part on its interaction with TBP - 1 and suggests a new mechanism for Hif1 alpha stabilization in some pVHL - deficient tumors'
+p1105
+(lp1106
+I5
+a(lp1107
+I8
+aI9
+atp1108
+a(I1
+S'Thus , the ability of pVHL to degrade Hif1 alpha depends in part on its interaction with TBP - 1 and suggests a new mechanism for Hif1 alpha stabilization in some pVHL - deficient tumors'
+p1109
+(lp1110
+I5
+a(lp1111
+I17
+aI18
+aI19
+atp1112
+a(I-1
+S'Thus , the ability of pVHL to degrade Hif1 alpha depends in part on its interaction with TBP - 1 and suggests a new mechanism for Hif1 alpha stabilization in some pVHL - deficient tumors'
+p1113
+(lp1114
+I5
+a(lp1115
+I26
+aI27
+atp1116
+a(I-1
+S'Thus , the ability of pVHL to degrade Hif1 alpha depends in part on its interaction with TBP - 1 and suggests a new mechanism for Hif1 alpha stabilization in some pVHL - deficient tumors'
+p1117
+(lp1118
+I5
+a(lp1119
+I31
+atp1120
+a(I-1
+S'Thus , the ability of pVHL to degrade Hif1 alpha depends in part on its interaction with TBP - 1 and suggests a new mechanism for Hif1 alpha stabilization in some pVHL - deficient tumors'
+p1121
+(lp1122
+I8
+aI9
+a(lp1123
+I17
+aI18
+aI19
+atp1124
+a(I-1
+S'Thus , the ability of pVHL to degrade Hif1 alpha depends in part on its interaction with TBP - 1 and suggests a new mechanism for Hif1 alpha stabilization in some pVHL - deficient tumors'
+p1125
+(lp1126
+I8
+aI9
+a(lp1127
+I26
+aI27
+atp1128
+a(I-1
+S'Thus , the ability of pVHL to degrade Hif1 alpha depends in part on its interaction with TBP - 1 and suggests a new mechanism for Hif1 alpha stabilization in some pVHL - deficient tumors'
+p1129
+(lp1130
+I8
+aI9
+a(lp1131
+I31
+atp1132
+a(I-1
+S'Thus , the ability of pVHL to degrade Hif1 alpha depends in part on its interaction with TBP - 1 and suggests a new mechanism for Hif1 alpha stabilization in some pVHL - deficient tumors'
+p1133
+(lp1134
+I17
+aI18
+aI19
+a(lp1135
+I26
+aI27
+atp1136
+a(I-1
+S'Thus , the ability of pVHL to degrade Hif1 alpha depends in part on its interaction with TBP - 1 and suggests a new mechanism for Hif1 alpha stabilization in some pVHL - deficient tumors'
+p1137
+(lp1138
+I17
+aI18
+aI19
+a(lp1139
+I31
+atp1140
+a(I1
+S'Thus , the ability of pVHL to degrade Hif1 alpha depends in part on its interaction with TBP - 1 and suggests a new mechanism for Hif1 alpha stabilization in some pVHL - deficient tumors'
+p1141
+(lp1142
+I26
+aI27
+a(lp1143
+I31
+atp1144
+a(I-1
+S'Pinin / DRS / memA interacts with SRp75 , SRm300 and SRrp130 in corneal epithelial cells'
+p1145
+(lp1146
+I0
+a(lp1147
+I2
+atp1148
+a(I1
+S'Pinin / DRS / memA interacts with SRp75 , SRm300 and SRrp130 in corneal epithelial cells'
+p1149
+(lp1150
+I0
+a(lp1151
+I7
+atp1152
+a(I1
+S'Pinin / DRS / memA interacts with SRp75 , SRm300 and SRrp130 in corneal epithelial cells'
+p1153
+(lp1154
+I0
+a(lp1155
+I9
+atp1156
+a(I1
+S'Pinin / DRS / memA interacts with SRp75 , SRm300 and SRrp130 in corneal epithelial cells'
+p1157
+(lp1158
+I2
+a(lp1159
+I7
+atp1160
+a(I1
+S'Pinin / DRS / memA interacts with SRp75 , SRm300 and SRrp130 in corneal epithelial cells'
+p1161
+(lp1162
+I2
+a(lp1163
+I9
+atp1164
+a(I-1
+S'Pinin / DRS / memA interacts with SRp75 , SRm300 and SRrp130 in corneal epithelial cells'
+p1165
+(lp1166
+I7
+a(lp1167
+I9
+atp1168
+a(I-1
+S'Three SR - rich proteins were identified that interact with the C - terminus of Pnn : SRp75 and SRm300 , known components of spliceosome machinery , and a novel 130 - kDa nuclear protein , SRrp130'
+p1169
+(lp1170
+I17
+a(lp1171
+I19
+atp1172
+a(I1
+S'We report that MSH2 ( MutS homolog 2 ) protein interacts with the ATR ( ATM - and Rad3 - related ) kinase to form a signaling module and regulate the phosphorylation of Chk1 and SMC1 ( structure maintenance of chromosome 1 )'
+p1173
+(lp1174
+I3
+a(lp1175
+I33
+atp1176
+a(I1
+S'We report that MSH2 ( MutS homolog 2 ) protein interacts with the ATR ( ATM - and Rad3 - related ) kinase to form a signaling module and regulate the phosphorylation of Chk1 and SMC1 ( structure maintenance of chromosome 1 )'
+p1177
+(lp1178
+I3
+a(lp1179
+I35
+atp1180
+a(I-1
+S'We report that MSH2 ( MutS homolog 2 ) protein interacts with the ATR ( ATM - and Rad3 - related ) kinase to form a signaling module and regulate the phosphorylation of Chk1 and SMC1 ( structure maintenance of chromosome 1 )'
+p1181
+(lp1182
+I33
+a(lp1183
+I35
+atp1184
+a(I1
+S'We found that phosphorylation of Chk1 by ATR also requires checkpoint proteins Rad17 and replication protein A'
+p1185
+(lp1186
+I5
+a(lp1187
+I12
+atp1188
+a(I-1
+S'In contrast , phosphorylation of SMC1 by ATR is independent of Rad17 and replication protein A , suggesting that the signaling pathway leading to SMC1 phosphorylation is distinct from that mediated by the checkpoint proteins'
+p1189
+(lp1190
+I5
+a(lp1191
+I11
+atp1192
+a(I-1
+S'In contrast , phosphorylation of SMC1 by ATR is independent of Rad17 and replication protein A , suggesting that the signaling pathway leading to SMC1 phosphorylation is distinct from that mediated by the checkpoint proteins'
+p1193
+(lp1194
+I5
+a(lp1195
+I24
+atp1196
+a(I-1
+S'In contrast , phosphorylation of SMC1 by ATR is independent of Rad17 and replication protein A , suggesting that the signaling pathway leading to SMC1 phosphorylation is distinct from that mediated by the checkpoint proteins'
+p1197
+(lp1198
+I11
+a(lp1199
+I24
+atp1200
+a(I-1
+S'In addition , both MSH2 and Rad17 are required for the activation of the S - phase checkpoint to suppress DNA synthesis in response to MNNG , and phosphorylation of SMC1 is required for cellular survival'
+p1201
+(lp1202
+I4
+a(lp1203
+I6
+atp1204
+a(I-1
+S'In addition , both MSH2 and Rad17 are required for the activation of the S - phase checkpoint to suppress DNA synthesis in response to MNNG , and phosphorylation of SMC1 is required for cellular survival'
+p1205
+(lp1206
+I4
+a(lp1207
+I30
+atp1208
+a(I-1
+S'In addition , both MSH2 and Rad17 are required for the activation of the S - phase checkpoint to suppress DNA synthesis in response to MNNG , and phosphorylation of SMC1 is required for cellular survival'
+p1209
+(lp1210
+I6
+a(lp1211
+I30
+atp1212
+a(I1
+S'Modification of de novo DNA methyltransferase 3a ( Dnmt3a ) by SUMO - 1 modulates its interaction with histone deacetylases ( HDACs ) and its capacity to repress transcription'
+p1213
+(lp1214
+I8
+a(lp1215
+I11
+aI12
+aI13
+atp1216
+a(I1
+S'Here we show that Dnmt3a interacts with multiple components of the sumoylation machinery , namely the E2 sumo conjugating enzyme Ubc9 and the E3 sumo ligases PIAS1 and PIASxalpha , all of which are involved in conjugating the small ubiquitin - like modifier polypeptide , SUMO - 1 , to its target proteins'
+p1217
+(lp1218
+I4
+a(lp1219
+I20
+atp1220
+a(I1
+S'Here we show that Dnmt3a interacts with multiple components of the sumoylation machinery , namely the E2 sumo conjugating enzyme Ubc9 and the E3 sumo ligases PIAS1 and PIASxalpha , all of which are involved in conjugating the small ubiquitin - like modifier polypeptide , SUMO - 1 , to its target proteins'
+p1221
+(lp1222
+I4
+a(lp1223
+I26
+atp1224
+a(I1
+S'Here we show that Dnmt3a interacts with multiple components of the sumoylation machinery , namely the E2 sumo conjugating enzyme Ubc9 and the E3 sumo ligases PIAS1 and PIASxalpha , all of which are involved in conjugating the small ubiquitin - like modifier polypeptide , SUMO - 1 , to its target proteins'
+p1225
+(lp1226
+I4
+a(lp1227
+I28
+atp1228
+a(I-1
+S'Here we show that Dnmt3a interacts with multiple components of the sumoylation machinery , namely the E2 sumo conjugating enzyme Ubc9 and the E3 sumo ligases PIAS1 and PIASxalpha , all of which are involved in conjugating the small ubiquitin - like modifier polypeptide , SUMO - 1 , to its target proteins'
+p1229
+(lp1230
+I4
+a(lp1231
+I45
+aI46
+aI47
+atp1232
+a(I-1
+S'Here we show that Dnmt3a interacts with multiple components of the sumoylation machinery , namely the E2 sumo conjugating enzyme Ubc9 and the E3 sumo ligases PIAS1 and PIASxalpha , all of which are involved in conjugating the small ubiquitin - like modifier polypeptide , SUMO - 1 , to its target proteins'
+p1233
+(lp1234
+I20
+a(lp1235
+I26
+atp1236
+a(I-1
+S'Here we show that Dnmt3a interacts with multiple components of the sumoylation machinery , namely the E2 sumo conjugating enzyme Ubc9 and the E3 sumo ligases PIAS1 and PIASxalpha , all of which are involved in conjugating the small ubiquitin - like modifier polypeptide , SUMO - 1 , to its target proteins'
+p1237
+(lp1238
+I20
+a(lp1239
+I28
+atp1240
+a(I1
+S'Here we show that Dnmt3a interacts with multiple components of the sumoylation machinery , namely the E2 sumo conjugating enzyme Ubc9 and the E3 sumo ligases PIAS1 and PIASxalpha , all of which are involved in conjugating the small ubiquitin - like modifier polypeptide , SUMO - 1 , to its target proteins'
+p1241
+(lp1242
+I20
+a(lp1243
+I45
+aI46
+aI47
+atp1244
+a(I-1
+S'Here we show that Dnmt3a interacts with multiple components of the sumoylation machinery , namely the E2 sumo conjugating enzyme Ubc9 and the E3 sumo ligases PIAS1 and PIASxalpha , all of which are involved in conjugating the small ubiquitin - like modifier polypeptide , SUMO - 1 , to its target proteins'
+p1245
+(lp1246
+I26
+a(lp1247
+I28
+atp1248
+a(I1
+S'Here we show that Dnmt3a interacts with multiple components of the sumoylation machinery , namely the E2 sumo conjugating enzyme Ubc9 and the E3 sumo ligases PIAS1 and PIASxalpha , all of which are involved in conjugating the small ubiquitin - like modifier polypeptide , SUMO - 1 , to its target proteins'
+p1249
+(lp1250
+I26
+a(lp1251
+I45
+aI46
+aI47
+atp1252
+a(I1
+S'Here we show that Dnmt3a interacts with multiple components of the sumoylation machinery , namely the E2 sumo conjugating enzyme Ubc9 and the E3 sumo ligases PIAS1 and PIASxalpha , all of which are involved in conjugating the small ubiquitin - like modifier polypeptide , SUMO - 1 , to its target proteins'
+p1253
+(lp1254
+I28
+a(lp1255
+I45
+aI46
+aI47
+atp1256
+a(I1
+S'Dnmt3a is modified by SUMO - 1 in vivo and in vitro and the region of Dnmt3a responsible for interaction maps to the N - terminal regulatory domain'
+p1257
+(lp1258
+I0
+a(lp1259
+I4
+aI5
+aI6
+atp1260
+a(I-1
+S'Dnmt3a is modified by SUMO - 1 in vivo and in vitro and the region of Dnmt3a responsible for interaction maps to the N - terminal regulatory domain'
+p1261
+(lp1262
+I0
+a(lp1263
+I16
+atp1264
+a(I-1
+S'Dnmt3a is modified by SUMO - 1 in vivo and in vitro and the region of Dnmt3a responsible for interaction maps to the N - terminal regulatory domain'
+p1265
+(lp1266
+I4
+aI5
+aI6
+a(lp1267
+I16
+atp1268
+a(I1
+S'Functionally , sumoylation of Dnmt3a disrupts its ability to interact with histone deacetylases ( HDAC1 / 2 ) , but not with another interaction partner , Dnmt3b'
+p1269
+(lp1270
+I4
+a(lp1271
+I14
+atp1272
+a(I-1
+S'Functionally , sumoylation of Dnmt3a disrupts its ability to interact with histone deacetylases ( HDAC1 / 2 ) , but not with another interaction partner , Dnmt3b'
+p1273
+(lp1274
+I4
+a(lp1275
+I26
+atp1276
+a(I-1
+S'Functionally , sumoylation of Dnmt3a disrupts its ability to interact with histone deacetylases ( HDAC1 / 2 ) , but not with another interaction partner , Dnmt3b'
+p1277
+(lp1278
+I14
+a(lp1279
+I26
+atp1280
+a(I1
+S'The tyrosine kinase Tyk - 2 is physically associated with the Type I interferon ( IFN ) receptor complex and is rapidly activated during IFN alpha stimulation'
+p1281
+(lp1282
+I3
+aI4
+aI5
+a(lp1283
+I15
+atp1284
+a(I1
+S'The tyrosine kinase Tyk - 2 is physically associated with the Type I interferon ( IFN ) receptor complex and is rapidly activated during IFN alpha stimulation'
+p1285
+(lp1286
+I3
+aI4
+aI5
+a(lp1287
+I24
+aI25
+atp1288
+a(I-1
+S'The tyrosine kinase Tyk - 2 is physically associated with the Type I interferon ( IFN ) receptor complex and is rapidly activated during IFN alpha stimulation'
+p1289
+(lp1290
+I15
+a(lp1291
+I24
+aI25
+atp1292
+a(I1
+S'Raf1 interaction with Cdc25 phosphatase ties mitogenic signal transduction to cell cycle activation'
+p1293
+(lp1294
+I0
+a(lp1295
+I3
+atp1296
+a(I1
+S'We show here that Cdc25 phosphatase associates with raf1 in somatic mammalian cells and in meiotic frog oocytes'
+p1297
+(lp1298
+I4
+a(lp1299
+I8
+atp1300
+a(I-1
+S"Differential binding of vascular cell - derived proteoglycans ( perlecan , biglycan , decorin , and versican ) to the beta - amyloid protein of Alzheimer ' s disease"
+p1301
+(lp1302
+I9
+a(lp1303
+I11
+atp1304
+a(I-1
+S"Differential binding of vascular cell - derived proteoglycans ( perlecan , biglycan , decorin , and versican ) to the beta - amyloid protein of Alzheimer ' s disease"
+p1305
+(lp1306
+I9
+a(lp1307
+I13
+atp1308
+a(I-1
+S"Differential binding of vascular cell - derived proteoglycans ( perlecan , biglycan , decorin , and versican ) to the beta - amyloid protein of Alzheimer ' s disease"
+p1309
+(lp1310
+I9
+a(lp1311
+I16
+atp1312
+a(I-1
+S"Differential binding of vascular cell - derived proteoglycans ( perlecan , biglycan , decorin , and versican ) to the beta - amyloid protein of Alzheimer ' s disease"
+p1313
+(lp1314
+I11
+a(lp1315
+I13
+atp1316
+a(I-1
+S"Differential binding of vascular cell - derived proteoglycans ( perlecan , biglycan , decorin , and versican ) to the beta - amyloid protein of Alzheimer ' s disease"
+p1317
+(lp1318
+I11
+a(lp1319
+I16
+atp1320
+a(I-1
+S"Differential binding of vascular cell - derived proteoglycans ( perlecan , biglycan , decorin , and versican ) to the beta - amyloid protein of Alzheimer ' s disease"
+p1321
+(lp1322
+I13
+a(lp1323
+I16
+atp1324
+a(I-1
+S"Previous studies have demonstrated the immunolocalization of perlecan , a specific heparan sulfate proteoglycan , to the beta - amyloid protein ( A beta ) - containing amyloid deposits within the walls of blood vessels ( i . e . , congophilic angiopathy ) in Alzheimer ' s disease ( AD ) brain"
+p1325
+(lp1326
+I7
+a(lp1327
+I11
+aI12
+aI13
+atp1328
+a(I1
+S"Previous studies have demonstrated the immunolocalization of perlecan , a specific heparan sulfate proteoglycan , to the beta - amyloid protein ( A beta ) - containing amyloid deposits within the walls of blood vessels ( i . e . , congophilic angiopathy ) in Alzheimer ' s disease ( AD ) brain"
+p1329
+(lp1330
+I7
+a(lp1331
+I17
+aI18
+aI19
+atp1332
+a(I1
+S"Previous studies have demonstrated the immunolocalization of perlecan , a specific heparan sulfate proteoglycan , to the beta - amyloid protein ( A beta ) - containing amyloid deposits within the walls of blood vessels ( i . e . , congophilic angiopathy ) in Alzheimer ' s disease ( AD ) brain"
+p1333
+(lp1334
+I7
+a(lp1335
+I27
+atp1336
+a(I1
+S"Previous studies have demonstrated the immunolocalization of perlecan , a specific heparan sulfate proteoglycan , to the beta - amyloid protein ( A beta ) - containing amyloid deposits within the walls of blood vessels ( i . e . , congophilic angiopathy ) in Alzheimer ' s disease ( AD ) brain"
+p1337
+(lp1338
+I11
+aI12
+aI13
+a(lp1339
+I17
+aI18
+aI19
+atp1340
+a(I1
+S"Previous studies have demonstrated the immunolocalization of perlecan , a specific heparan sulfate proteoglycan , to the beta - amyloid protein ( A beta ) - containing amyloid deposits within the walls of blood vessels ( i . e . , congophilic angiopathy ) in Alzheimer ' s disease ( AD ) brain"
+p1341
+(lp1342
+I11
+aI12
+aI13
+a(lp1343
+I27
+atp1344
+a(I-1
+S"Previous studies have demonstrated the immunolocalization of perlecan , a specific heparan sulfate proteoglycan , to the beta - amyloid protein ( A beta ) - containing amyloid deposits within the walls of blood vessels ( i . e . , congophilic angiopathy ) in Alzheimer ' s disease ( AD ) brain"
+p1345
+(lp1346
+I17
+aI18
+aI19
+a(lp1347
+I27
+atp1348
+a(I-1
+S'Overall , the results indicate that specific vascular cell - derived PGs differentially interact with A beta , and that the interactions of highest affinity occur between A beta and binding sites on both the core protein and glycosaminoglycan chains of perlecan'
+p1349
+(lp1350
+I11
+a(lp1351
+I41
+atp1352
+a(I-1
+S'In the present investigation , the differential binding of previously characterized endothelial cell ( EC ) - and smooth muscle cell ( SMC ) - derived PGs to A beta was examined to determine whether the accumulation of A beta in cerebrovascular amyloid deposits may be due to its interactions with perlecan'
+p1353
+(lp1354
+I22
+a(lp1355
+I26
+atp1356
+a(I-1
+S'In the present investigation , the differential binding of previously characterized endothelial cell ( EC ) - and smooth muscle cell ( SMC ) - derived PGs to A beta was examined to determine whether the accumulation of A beta in cerebrovascular amyloid deposits may be due to its interactions with perlecan'
+p1357
+(lp1358
+I22
+a(lp1359
+I42
+atp1360
+a(I-1
+S'In the present investigation , the differential binding of previously characterized endothelial cell ( EC ) - and smooth muscle cell ( SMC ) - derived PGs to A beta was examined to determine whether the accumulation of A beta in cerebrovascular amyloid deposits may be due to its interactions with perlecan'
+p1361
+(lp1362
+I22
+a(lp1363
+I51
+atp1364
+a(I-1
+S'In the present investigation , the differential binding of previously characterized endothelial cell ( EC ) - and smooth muscle cell ( SMC ) - derived PGs to A beta was examined to determine whether the accumulation of A beta in cerebrovascular amyloid deposits may be due to its interactions with perlecan'
+p1365
+(lp1366
+I26
+a(lp1367
+I42
+atp1368
+a(I-1
+S'In the present investigation , the differential binding of previously characterized endothelial cell ( EC ) - and smooth muscle cell ( SMC ) - derived PGs to A beta was examined to determine whether the accumulation of A beta in cerebrovascular amyloid deposits may be due to its interactions with perlecan'
+p1369
+(lp1370
+I26
+a(lp1371
+I51
+atp1372
+a(I-1
+S'In the present investigation , the differential binding of previously characterized endothelial cell ( EC ) - and smooth muscle cell ( SMC ) - derived PGs to A beta was examined to determine whether the accumulation of A beta in cerebrovascular amyloid deposits may be due to its interactions with perlecan'
+p1373
+(lp1374
+I42
+a(lp1375
+I51
+atp1376
+a(I-1
+S'Pretreatment of AA amyloidotic splenic and liver tissue sections with synthetic A beta ( 1 - 28 ) produced strong immunoreactivity with A beta antibodies at tissue sites enriched in perlecan which was partially removed by pretreatment with heparitinase , but not by chondroitin ABC lyase'
+p1377
+(lp1378
+I30
+a(lp1379
+I44
+atp1380
+a(I-1
+S'[ 35S ] - Sulfate labeled proteoglycans ( PGs ) derived from cultured ECs and SMCs bound to affinity columns containing A beta ( 1 - 28 ) or ( 1 - 40 ) , with virtually no binding to A beta ( 40 - 1 ) ( reverse peptide ) , beta - amyloid precursor protein ( 410 - 429 ) , or bovine serum albumin'
+p1381
+(lp1382
+I8
+a(lp1383
+I65
+aI66
+atp1384
+a(I-1
+S'Characterization of EC and SMC PGs bound to A beta ( 1 - 28 ) revealed strong binding by perlecan , weak binding by decorin and biglycan , two dermatan sulfate proteoglycans , and lack of binding by versican / PG - M , a large chondroitin sulfate proteoglycan'
+p1385
+(lp1386
+I4
+a(lp1387
+I5
+atp1388
+a(I-1
+S'Characterization of EC and SMC PGs bound to A beta ( 1 - 28 ) revealed strong binding by perlecan , weak binding by decorin and biglycan , two dermatan sulfate proteoglycans , and lack of binding by versican / PG - M , a large chondroitin sulfate proteoglycan'
+p1389
+(lp1390
+I4
+a(lp1391
+I19
+atp1392
+a(I-1
+S'Characterization of EC and SMC PGs bound to A beta ( 1 - 28 ) revealed strong binding by perlecan , weak binding by decorin and biglycan , two dermatan sulfate proteoglycans , and lack of binding by versican / PG - M , a large chondroitin sulfate proteoglycan'
+p1393
+(lp1394
+I4
+a(lp1395
+I24
+atp1396
+a(I-1
+S'Characterization of EC and SMC PGs bound to A beta ( 1 - 28 ) revealed strong binding by perlecan , weak binding by decorin and biglycan , two dermatan sulfate proteoglycans , and lack of binding by versican / PG - M , a large chondroitin sulfate proteoglycan'
+p1397
+(lp1398
+I4
+a(lp1399
+I26
+atp1400
+a(I-1
+S'Characterization of EC and SMC PGs bound to A beta ( 1 - 28 ) revealed strong binding by perlecan , weak binding by decorin and biglycan , two dermatan sulfate proteoglycans , and lack of binding by versican / PG - M , a large chondroitin sulfate proteoglycan'
+p1401
+(lp1402
+I4
+a(lp1403
+I38
+atp1404
+a(I-1
+S'Characterization of EC and SMC PGs bound to A beta ( 1 - 28 ) revealed strong binding by perlecan , weak binding by decorin and biglycan , two dermatan sulfate proteoglycans , and lack of binding by versican / PG - M , a large chondroitin sulfate proteoglycan'
+p1405
+(lp1406
+I4
+a(lp1407
+I40
+aI41
+aI42
+atp1408
+a(I1
+S'Characterization of EC and SMC PGs bound to A beta ( 1 - 28 ) revealed strong binding by perlecan , weak binding by decorin and biglycan , two dermatan sulfate proteoglycans , and lack of binding by versican / PG - M , a large chondroitin sulfate proteoglycan'
+p1409
+(lp1410
+I5
+a(lp1411
+I19
+atp1412
+a(I1
+S'Characterization of EC and SMC PGs bound to A beta ( 1 - 28 ) revealed strong binding by perlecan , weak binding by decorin and biglycan , two dermatan sulfate proteoglycans , and lack of binding by versican / PG - M , a large chondroitin sulfate proteoglycan'
+p1413
+(lp1414
+I5
+a(lp1415
+I24
+atp1416
+a(I1
+S'Characterization of EC and SMC PGs bound to A beta ( 1 - 28 ) revealed strong binding by perlecan , weak binding by decorin and biglycan , two dermatan sulfate proteoglycans , and lack of binding by versican / PG - M , a large chondroitin sulfate proteoglycan'
+p1417
+(lp1418
+I5
+a(lp1419
+I26
+atp1420
+a(I-1
+S'Characterization of EC and SMC PGs bound to A beta ( 1 - 28 ) revealed strong binding by perlecan , weak binding by decorin and biglycan , two dermatan sulfate proteoglycans , and lack of binding by versican / PG - M , a large chondroitin sulfate proteoglycan'
+p1421
+(lp1422
+I5
+a(lp1423
+I38
+atp1424
+a(I-1
+S'Characterization of EC and SMC PGs bound to A beta ( 1 - 28 ) revealed strong binding by perlecan , weak binding by decorin and biglycan , two dermatan sulfate proteoglycans , and lack of binding by versican / PG - M , a large chondroitin sulfate proteoglycan'
+p1425
+(lp1426
+I5
+a(lp1427
+I40
+aI41
+aI42
+atp1428
+a(I-1
+S'Characterization of EC and SMC PGs bound to A beta ( 1 - 28 ) revealed strong binding by perlecan , weak binding by decorin and biglycan , two dermatan sulfate proteoglycans , and lack of binding by versican / PG - M , a large chondroitin sulfate proteoglycan'
+p1429
+(lp1430
+I19
+a(lp1431
+I24
+atp1432
+a(I-1
+S'Characterization of EC and SMC PGs bound to A beta ( 1 - 28 ) revealed strong binding by perlecan , weak binding by decorin and biglycan , two dermatan sulfate proteoglycans , and lack of binding by versican / PG - M , a large chondroitin sulfate proteoglycan'
+p1433
+(lp1434
+I19
+a(lp1435
+I26
+atp1436
+a(I-1
+S'Characterization of EC and SMC PGs bound to A beta ( 1 - 28 ) revealed strong binding by perlecan , weak binding by decorin and biglycan , two dermatan sulfate proteoglycans , and lack of binding by versican / PG - M , a large chondroitin sulfate proteoglycan'
+p1437
+(lp1438
+I19
+a(lp1439
+I38
+atp1440
+a(I-1
+S'Characterization of EC and SMC PGs bound to A beta ( 1 - 28 ) revealed strong binding by perlecan , weak binding by decorin and biglycan , two dermatan sulfate proteoglycans , and lack of binding by versican / PG - M , a large chondroitin sulfate proteoglycan'
+p1441
+(lp1442
+I19
+a(lp1443
+I40
+aI41
+aI42
+atp1444
+a(I-1
+S'Characterization of EC and SMC PGs bound to A beta ( 1 - 28 ) revealed strong binding by perlecan , weak binding by decorin and biglycan , two dermatan sulfate proteoglycans , and lack of binding by versican / PG - M , a large chondroitin sulfate proteoglycan'
+p1445
+(lp1446
+I24
+a(lp1447
+I26
+atp1448
+a(I-1
+S'Characterization of EC and SMC PGs bound to A beta ( 1 - 28 ) revealed strong binding by perlecan , weak binding by decorin and biglycan , two dermatan sulfate proteoglycans , and lack of binding by versican / PG - M , a large chondroitin sulfate proteoglycan'
+p1449
+(lp1450
+I24
+a(lp1451
+I38
+atp1452
+a(I-1
+S'Characterization of EC and SMC PGs bound to A beta ( 1 - 28 ) revealed strong binding by perlecan , weak binding by decorin and biglycan , two dermatan sulfate proteoglycans , and lack of binding by versican / PG - M , a large chondroitin sulfate proteoglycan'
+p1453
+(lp1454
+I24
+a(lp1455
+I40
+aI41
+aI42
+atp1456
+a(I-1
+S'Characterization of EC and SMC PGs bound to A beta ( 1 - 28 ) revealed strong binding by perlecan , weak binding by decorin and biglycan , two dermatan sulfate proteoglycans , and lack of binding by versican / PG - M , a large chondroitin sulfate proteoglycan'
+p1457
+(lp1458
+I26
+a(lp1459
+I38
+atp1460
+a(I-1
+S'Characterization of EC and SMC PGs bound to A beta ( 1 - 28 ) revealed strong binding by perlecan , weak binding by decorin and biglycan , two dermatan sulfate proteoglycans , and lack of binding by versican / PG - M , a large chondroitin sulfate proteoglycan'
+p1461
+(lp1462
+I26
+a(lp1463
+I40
+aI41
+aI42
+atp1464
+a(I-1
+S'Characterization of EC and SMC PGs bound to A beta ( 1 - 28 ) revealed strong binding by perlecan , weak binding by decorin and biglycan , two dermatan sulfate proteoglycans , and lack of binding by versican / PG - M , a large chondroitin sulfate proteoglycan'
+p1465
+(lp1466
+I38
+a(lp1467
+I40
+aI41
+aI42
+atp1468
+a(I1
+S'Cross - linking of CD53 with the use of the mAb MEM - 53 and a polyclonal sheep anti - mouse Ig promoted activation of resting B cells into the G1 phase of the cell cycle as judged by increased expression of the early activation Ag CD69 , increases in cellular volume , RNA synthesis , and c - myc protein levels , and enhanced binding of 7 - aminoactinomycin D'
+p1469
+(lp1470
+I4
+a(lp1471
+I46
+atp1472
+a(I1
+S'Cross - linking of CD53 with the use of the mAb MEM - 53 and a polyclonal sheep anti - mouse Ig promoted activation of resting B cells into the G1 phase of the cell cycle as judged by increased expression of the early activation Ag CD69 , increases in cellular volume , RNA synthesis , and c - myc protein levels , and enhanced binding of 7 - aminoactinomycin D'
+p1473
+(lp1474
+I4
+a(lp1475
+I57
+aI58
+aI59
+atp1476
+a(I-1
+S'Cross - linking of CD53 with the use of the mAb MEM - 53 and a polyclonal sheep anti - mouse Ig promoted activation of resting B cells into the G1 phase of the cell cycle as judged by increased expression of the early activation Ag CD69 , increases in cellular volume , RNA synthesis , and c - myc protein levels , and enhanced binding of 7 - aminoactinomycin D'
+p1477
+(lp1478
+I46
+a(lp1479
+I57
+aI58
+aI59
+atp1480
+a(I-1
+S'However , cytokines , in particular IL - 2 and IL - 4 , potentiated the DNA synthesis induced by cross - linking of CD53'
+p1481
+(lp1482
+I6
+aI7
+aI8
+a(lp1483
+I10
+aI11
+aI12
+atp1484
+a(I1
+S'However , cytokines , in particular IL - 2 and IL - 4 , potentiated the DNA synthesis induced by cross - linking of CD53'
+p1485
+(lp1486
+I6
+aI7
+aI8
+a(lp1487
+I24
+atp1488
+a(I1
+S'However , cytokines , in particular IL - 2 and IL - 4 , potentiated the DNA synthesis induced by cross - linking of CD53'
+p1489
+(lp1490
+I10
+aI11
+aI12
+a(lp1491
+I24
+atp1492
+a(I-1
+S'The human apoB mRNA editing protein is a cytidine deaminase showing structural homology to some known mammalian and bacteriophage deoxycytidylate deaminases'
+p1493
+(lp1494
+I2
+a(lp1495
+I8
+aI9
+atp1496
+a(I-1
+S'The fact that the apoB mRNA editing protein also exists as a homodimer has important implications for the mechanism of apoB mRNA editing in humans'
+p1497
+(lp1498
+I4
+a(lp1499
+I12
+atp1500
+a(I-1
+S'The fact that the apoB mRNA editing protein also exists as a homodimer has important implications for the mechanism of apoB mRNA editing in humans'
+p1501
+(lp1502
+I4
+a(lp1503
+I20
+atp1504
+a(I-1
+S'The fact that the apoB mRNA editing protein also exists as a homodimer has important implications for the mechanism of apoB mRNA editing in humans'
+p1505
+(lp1506
+I12
+a(lp1507
+I20
+atp1508
+a(I-1
+S'Assignment of Etfdh , Etfb , and Etfa to chromosomes 3 , 7 , and 13 : the mouse homologs of genes responsible for glutaric acidemia type II in human'
+p1509
+(lp1510
+I2
+a(lp1511
+I4
+atp1512
+a(I-1
+S'We used cDNA probes for the Etfdh , Etfb , and Etfa genes to determine localization of these mouse genes to chromosomes 3 , 7 , and 13'
+p1513
+(lp1514
+I6
+a(lp1515
+I8
+atp1516
+a(I1
+S'CD22 associates with protein tyrosine phosphatase 1C , Syk , and phospholipase C - gamma ( 1 ) upon B cell activation'
+p1517
+(lp1518
+I0
+a(lp1519
+I3
+aI4
+aI5
+aI6
+atp1520
+a(I1
+S'These results suggest that tyrosyl - phosphorylated CD22 may be a substrate for PTP - 1C regulates tyrosyl phosphorylation of CD22'
+p1521
+(lp1522
+I7
+a(lp1523
+I13
+aI14
+aI15
+atp1524
+a(I-1
+S'These results suggest that tyrosyl - phosphorylated CD22 may be a substrate for PTP - 1C regulates tyrosyl phosphorylation of CD22'
+p1525
+(lp1526
+I7
+a(lp1527
+I20
+atp1528
+a(I1
+S'These results suggest that tyrosyl - phosphorylated CD22 may be a substrate for PTP - 1C regulates tyrosyl phosphorylation of CD22'
+p1529
+(lp1530
+I13
+aI14
+aI15
+a(lp1531
+I20
+atp1532
+a(I1
+S'The association of PTP - 1C with CD22 was mediated by the NH2 - terminal Src homology 2 ( SH2 ) domain of PTP - 1C'
+p1533
+(lp1534
+I3
+aI4
+aI5
+a(lp1535
+I7
+atp1536
+a(I-1
+S'The association of PTP - 1C with CD22 was mediated by the NH2 - terminal Src homology 2 ( SH2 ) domain of PTP - 1C'
+p1537
+(lp1538
+I3
+aI4
+aI5
+a(lp1539
+I23
+aI24
+aI25
+atp1540
+a(I1
+S'The association of PTP - 1C with CD22 was mediated by the NH2 - terminal Src homology 2 ( SH2 ) domain of PTP - 1C'
+p1541
+(lp1542
+I7
+a(lp1543
+I23
+aI24
+aI25
+atp1544
+a(I1
+S'Complexes of either CD22 / PTP - 1C / Syk / PLC - gamma ( 1 ) could be isolated from B cells stimulated by BCR engagement or a mixture of hydrogen peroxidase and sodium orthovanadate , respectively'
+p1545
+(lp1546
+I3
+a(lp1547
+I5
+aI6
+aI7
+atp1548
+a(I-1
+S'Transient expression of CD22 and a null mutant of PTP - 1C ( PTP - 1CM ) in COS cells resulted in an increase in tyrosyl phosphorylation of CD22 and its interaction with PTP - 1CM'
+p1549
+(lp1550
+I3
+a(lp1551
+I9
+aI10
+aI11
+atp1552
+a(I-1
+S'Transient expression of CD22 and a null mutant of PTP - 1C ( PTP - 1CM ) in COS cells resulted in an increase in tyrosyl phosphorylation of CD22 and its interaction with PTP - 1CM'
+p1553
+(lp1554
+I3
+a(lp1555
+I28
+atp1556
+a(I1
+S'Transient expression of CD22 and a null mutant of PTP - 1C ( PTP - 1CM ) in COS cells resulted in an increase in tyrosyl phosphorylation of CD22 and its interaction with PTP - 1CM'
+p1557
+(lp1558
+I9
+aI10
+aI11
+a(lp1559
+I28
+atp1560
+a(I-1
+S'By contrast , CD22 was not tyrosyl phosphorylated or associated with PTP - 1CM in the presence of wild - type PTP - 1C'
+p1561
+(lp1562
+I3
+a(lp1563
+I21
+aI22
+aI23
+atp1564
+a(I-1
+S'TFIID dimers formed through self - association of the TATA - binding polypeptide ( TBP ) subunit and could be immunoprecipitated with antibodies to TAF ( II ) 250 , the core subunit of TFIID'
+p1565
+(lp1566
+I0
+a(lp1567
+I14
+atp1568
+a(I1
+S'TFIID dimers formed through self - association of the TATA - binding polypeptide ( TBP ) subunit and could be immunoprecipitated with antibodies to TAF ( II ) 250 , the core subunit of TFIID'
+p1569
+(lp1570
+I0
+a(lp1571
+I24
+aI25
+aI26
+aI27
+aI28
+atp1572
+a(I-1
+S'TFIID dimers formed through self - association of the TATA - binding polypeptide ( TBP ) subunit and could be immunoprecipitated with antibodies to TAF ( II ) 250 , the core subunit of TFIID'
+p1573
+(lp1574
+I0
+a(lp1575
+I34
+atp1576
+a(I-1
+S'TFIID dimers formed through self - association of the TATA - binding polypeptide ( TBP ) subunit and could be immunoprecipitated with antibodies to TAF ( II ) 250 , the core subunit of TFIID'
+p1577
+(lp1578
+I14
+a(lp1579
+I24
+aI25
+aI26
+aI27
+aI28
+atp1580
+a(I-1
+S'TFIID dimers formed through self - association of the TATA - binding polypeptide ( TBP ) subunit and could be immunoprecipitated with antibodies to TAF ( II ) 250 , the core subunit of TFIID'
+p1581
+(lp1582
+I14
+a(lp1583
+I34
+atp1584
+a(I1
+S'TFIID dimers formed through self - association of the TATA - binding polypeptide ( TBP ) subunit and could be immunoprecipitated with antibodies to TAF ( II ) 250 , the core subunit of TFIID'
+p1585
+(lp1586
+I24
+aI25
+aI26
+aI27
+aI28
+a(lp1587
+I34
+atp1588
+a(I1
+S'Subsequent amino acid sequencing revealed many peptides involving involucrin cross - linked either to itself or to a variety of other known CE protein components , including cystatin alpha , desmoplakin , elafin , keratins , members of the small proline - rich superfamily , loricrin , and unknown proteins related to the desmoplakin family'
+p1589
+(lp1590
+I8
+a(lp1591
+I27
+aI28
+atp1592
+a(I1
+S'Subsequent amino acid sequencing revealed many peptides involving involucrin cross - linked either to itself or to a variety of other known CE protein components , including cystatin alpha , desmoplakin , elafin , keratins , members of the small proline - rich superfamily , loricrin , and unknown proteins related to the desmoplakin family'
+p1593
+(lp1594
+I8
+a(lp1595
+I30
+atp1596
+a(I1
+S'Subsequent amino acid sequencing revealed many peptides involving involucrin cross - linked either to itself or to a variety of other known CE protein components , including cystatin alpha , desmoplakin , elafin , keratins , members of the small proline - rich superfamily , loricrin , and unknown proteins related to the desmoplakin family'
+p1597
+(lp1598
+I8
+a(lp1599
+I32
+atp1600
+a(I1
+S'Subsequent amino acid sequencing revealed many peptides involving involucrin cross - linked either to itself or to a variety of other known CE protein components , including cystatin alpha , desmoplakin , elafin , keratins , members of the small proline - rich superfamily , loricrin , and unknown proteins related to the desmoplakin family'
+p1601
+(lp1602
+I8
+a(lp1603
+I45
+atp1604
+a(I1
+S'Subsequent amino acid sequencing revealed many peptides involving involucrin cross - linked either to itself or to a variety of other known CE protein components , including cystatin alpha , desmoplakin , elafin , keratins , members of the small proline - rich superfamily , loricrin , and unknown proteins related to the desmoplakin family'
+p1605
+(lp1606
+I8
+a(lp1607
+I53
+atp1608
+a(I-1
+S'Subsequent amino acid sequencing revealed many peptides involving involucrin cross - linked either to itself or to a variety of other known CE protein components , including cystatin alpha , desmoplakin , elafin , keratins , members of the small proline - rich superfamily , loricrin , and unknown proteins related to the desmoplakin family'
+p1609
+(lp1610
+I27
+aI28
+a(lp1611
+I30
+atp1612
+a(I-1
+S'Subsequent amino acid sequencing revealed many peptides involving involucrin cross - linked either to itself or to a variety of other known CE protein components , including cystatin alpha , desmoplakin , elafin , keratins , members of the small proline - rich superfamily , loricrin , and unknown proteins related to the desmoplakin family'
+p1613
+(lp1614
+I27
+aI28
+a(lp1615
+I32
+atp1616
+a(I-1
+S'Subsequent amino acid sequencing revealed many peptides involving involucrin cross - linked either to itself or to a variety of other known CE protein components , including cystatin alpha , desmoplakin , elafin , keratins , members of the small proline - rich superfamily , loricrin , and unknown proteins related to the desmoplakin family'
+p1617
+(lp1618
+I27
+aI28
+a(lp1619
+I45
+atp1620
+a(I-1
+S'Subsequent amino acid sequencing revealed many peptides involving involucrin cross - linked either to itself or to a variety of other known CE protein components , including cystatin alpha , desmoplakin , elafin , keratins , members of the small proline - rich superfamily , loricrin , and unknown proteins related to the desmoplakin family'
+p1621
+(lp1622
+I27
+aI28
+a(lp1623
+I53
+atp1624
+a(I-1
+S'Subsequent amino acid sequencing revealed many peptides involving involucrin cross - linked either to itself or to a variety of other known CE protein components , including cystatin alpha , desmoplakin , elafin , keratins , members of the small proline - rich superfamily , loricrin , and unknown proteins related to the desmoplakin family'
+p1625
+(lp1626
+I30
+a(lp1627
+I32
+atp1628
+a(I-1
+S'Subsequent amino acid sequencing revealed many peptides involving involucrin cross - linked either to itself or to a variety of other known CE protein components , including cystatin alpha , desmoplakin , elafin , keratins , members of the small proline - rich superfamily , loricrin , and unknown proteins related to the desmoplakin family'
+p1629
+(lp1630
+I30
+a(lp1631
+I45
+atp1632
+a(I-1
+S'Subsequent amino acid sequencing revealed many peptides involving involucrin cross - linked either to itself or to a variety of other known CE protein components , including cystatin alpha , desmoplakin , elafin , keratins , members of the small proline - rich superfamily , loricrin , and unknown proteins related to the desmoplakin family'
+p1633
+(lp1634
+I30
+a(lp1635
+I53
+atp1636
+a(I-1
+S'Subsequent amino acid sequencing revealed many peptides involving involucrin cross - linked either to itself or to a variety of other known CE protein components , including cystatin alpha , desmoplakin , elafin , keratins , members of the small proline - rich superfamily , loricrin , and unknown proteins related to the desmoplakin family'
+p1637
+(lp1638
+I32
+a(lp1639
+I45
+atp1640
+a(I-1
+S'Subsequent amino acid sequencing revealed many peptides involving involucrin cross - linked either to itself or to a variety of other known CE protein components , including cystatin alpha , desmoplakin , elafin , keratins , members of the small proline - rich superfamily , loricrin , and unknown proteins related to the desmoplakin family'
+p1641
+(lp1642
+I32
+a(lp1643
+I53
+atp1644
+a(I-1
+S'Subsequent amino acid sequencing revealed many peptides involving involucrin cross - linked either to itself or to a variety of other known CE protein components , including cystatin alpha , desmoplakin , elafin , keratins , members of the small proline - rich superfamily , loricrin , and unknown proteins related to the desmoplakin family'
+p1645
+(lp1646
+I45
+a(lp1647
+I53
+atp1648
+a(I-1
+S'Specific glutamines or lysines of involucrin were used to cross - link the different proteins , such as glutamines 495 and 496 to desmoplakin , glutamine 288 to keratins , and lysines 468 , 485 , and 508 and glutamines 465 and 489 for interchain involucrin cross - links'
+p1649
+(lp1650
+I5
+a(lp1651
+I23
+atp1652
+a(I-1
+S'Specific glutamines or lysines of involucrin were used to cross - link the different proteins , such as glutamines 495 and 496 to desmoplakin , glutamine 288 to keratins , and lysines 468 , 485 , and 508 and glutamines 465 and 489 for interchain involucrin cross - links'
+p1653
+(lp1654
+I5
+a(lp1655
+I45
+atp1656
+a(I-1
+S'Specific glutamines or lysines of involucrin were used to cross - link the different proteins , such as glutamines 495 and 496 to desmoplakin , glutamine 288 to keratins , and lysines 468 , 485 , and 508 and glutamines 465 and 489 for interchain involucrin cross - links'
+p1657
+(lp1658
+I23
+a(lp1659
+I45
+atp1660
+a(I-1
+S'A prominent isolate , designated SRcyp / CASP10 , specifically interacts with the CTD not only in vivo but also in vitro'
+p1661
+(lp1662
+I5
+a(lp1663
+I7
+atp1664
+a(I1
+S'A prominent isolate , designated SRcyp / CASP10 , specifically interacts with the CTD not only in vivo but also in vitro'
+p1665
+(lp1666
+I5
+a(lp1667
+I13
+atp1668
+a(I1
+S'A prominent isolate , designated SRcyp / CASP10 , specifically interacts with the CTD not only in vivo but also in vitro'
+p1669
+(lp1670
+I7
+a(lp1671
+I13
+atp1672
+a(I-1
+S'SRcyp is a nuclear protein with a characteristic distribution in large irregularly shaped nuclear speckles and co - localizes perfectly with the SR domain - containing splicing factor SC35'
+p1673
+(lp1674
+I0
+a(lp1675
+I26
+aI27
+aI28
+atp1676
+a(I1
+S'Transient expression of the full - length E2 - 2 without RSRS in U1240MG glioblastoma cells resulted in repression of FGF - 1 . B promoter activity'
+p1677
+(lp1678
+I7
+aI8
+aI9
+a(lp1679
+I20
+aI21
+aI22
+aI23
+aI24
+atp1680
+a(I1
+S'These results suggest that the relative abundance of the two splice variants of E2 - 2 in brain could be an important determinant for the expression of FGF - 1'
+p1681
+(lp1682
+I13
+aI14
+aI15
+a(lp1683
+I27
+aI28
+aI29
+atp1684
+a(I1
+S'We report here that PLZF , and a structurally similar transcriptional repressor , BCL - 6 , can interact with a variety of corepressor proteins in addition to SMRT , including the mSin3A protein and ( for PLZF ) histone deacetylase - 1'
+p1685
+(lp1686
+I13
+aI14
+aI15
+a(lp1687
+I39
+aI40
+aI41
+aI42
+atp1688
+a(I-1
+S'Herein , we show that a distinct IkappaB protein Bcl3 also interacts with RXR , as shown in the yeast two - hybrid tests and glutathione S - transferase pull - down assays'
+p1689
+(lp1690
+I9
+a(lp1691
+I25
+aI26
+aI27
+aI28
+atp1692
+a(I-1
+S'In contrast to IkappaBbeta , Bcl3 did not interact with the AF2 domain of RXR'
+p1693
+(lp1694
+I3
+a(lp1695
+I5
+atp1696
+a(I1
+S'Bcl3 specifically interacted with the general transcription factors TFIIB , TBP , and TFIIA but not with TFIIEalpha in the GST pull - down assays'
+p1697
+(lp1698
+I0
+a(lp1699
+I8
+atp1700
+a(I1
+S'Bcl3 specifically interacted with the general transcription factors TFIIB , TBP , and TFIIA but not with TFIIEalpha in the GST pull - down assays'
+p1701
+(lp1702
+I0
+a(lp1703
+I13
+atp1704
+a(I-1
+S'Bcl3 specifically interacted with the general transcription factors TFIIB , TBP , and TFIIA but not with TFIIEalpha in the GST pull - down assays'
+p1705
+(lp1706
+I0
+a(lp1707
+I20
+atp1708
+a(I-1
+S'Bcl3 specifically interacted with the general transcription factors TFIIB , TBP , and TFIIA but not with TFIIEalpha in the GST pull - down assays'
+p1709
+(lp1710
+I8
+a(lp1711
+I13
+atp1712
+a(I-1
+S'Bcl3 specifically interacted with the general transcription factors TFIIB , TBP , and TFIIA but not with TFIIEalpha in the GST pull - down assays'
+p1713
+(lp1714
+I8
+a(lp1715
+I20
+atp1716
+a(I-1
+S'Bcl3 specifically interacted with the general transcription factors TFIIB , TBP , and TFIIA but not with TFIIEalpha in the GST pull - down assays'
+p1717
+(lp1718
+I13
+a(lp1719
+I20
+atp1720
+a(I-1
+S'TBP and TFIIA , however , were not able to interact with IkappaBbeta'
+p1721
+(lp1722
+I2
+a(lp1723
+I12
+atp1724
+a(I-1
+S'Accordingly , Bcl3 coactivated the 9 - cis - RA - induced transactivations of RXR , in contrast to the inhibitory actions of IkappaBbeta'
+p1725
+(lp1726
+I2
+a(lp1727
+I23
+atp1728
+a(I-1
+S'In addition , coexpression of SRC - 1 but not p300 further stimulated the Bcl3 - mediated enhancement of the 9 - cis - RA - induced transactivations of RXR'
+p1729
+(lp1730
+I5
+aI6
+aI7
+a(lp1731
+I10
+atp1732
+a.
